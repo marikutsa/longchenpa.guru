@@ -44,22 +44,22 @@
    29.30 KiB @#/_/klong chen 'od gsal snying thig/ thod rgal gyi mdog gsal gyi snang ba/ Радіантні кольори Тогал
        321 B @#/_/klong chen 'od gsal snying thig/ tshogs/ Ганачакра Лонгчен Осал
    11.73 KiB @#/_/klong chen 'od gsal snying thig/ ye shes lnga'i thig le dkyil 'khor/ Мандала Тігл'є Г'ялчен і Тогал
+   11.18 KiB @#/_/klong chen snying thig rtsa pod/ bla ma drag po rta khyung 'bar ba/ Лама Дракпо Так'юнг Барва
+    3.95 KiB @#/_/klong chen snying thig rtsa pod/ dge bsngo/ Посвята накопичення заслуг і мудрості
    43.53 KiB @#/_/klong chen snying thig rtsa pod/ gcod yul mkha' 'gro'i gad rgyangs bzhugs/ Лонгчен Нінгтік: Сміх Дакіні
   160.78 KiB @#/_/klong chen snying thig rtsa pod/ gdod ma'i mgon po'i lam gyi rim pa 'i khrid yig ye shes bla ma zhes bya ba bzhugs/ Кхрід Їк Єше Лама (079,122,408)
-   11.17 KiB @#/_/klong chen snying thig/ bla ma drag po rta khyung 'bar ba/ Лама Дракпо Так'юнг Барва
-    3.94 KiB @#/_/klong chen snying thig/ dge bsngo/ Посвята накопичення заслуг і мудрості
-       617 B @#/_/klong chen snying thig/ nang gsang rnal 'byor/ Таємна Гуру Йога
-       466 B @#/_/klong chen snying thig/ phyi sgrub bla ma'i rnal 'byor/ Зовнішня Гуру-йога
-   58.40 KiB @#/_/klong chen snying thig/ rab gsal nyi 'od rnam par snang ba'i rgyan/ Осяйна Окраса Сяючого Сонячного Світла
-       344 B @#/_/klong chen snying thig/ rdo rje gsung/ Мантра ваджрного мовлення
-       165 B @#/_/klong chen snying thig/ rdo rje sems dpa'/ Дордже Семпа
-    1.43 KiB @#/_/klong chen snying thig/ rdo rje'i lha mo bcu drug/ Дордже Лхамо Чудрук
-   33.78 KiB @#/_/klong chen snying thig/ rdzogs chen pa rang byung rdo rje'i don gyi rnam thar do ha'i rgyan ces bya ba bzhugs/ Автобіографія Ранджунга Дордже
-    6.94 KiB @#/_/klong chen snying thig/ rnam dag ston pa'i lha srung smon lam/ Молитва захисникам Лонгчен Нінгтік Намдака Тонпи
-   39.81 KiB @#/_/klong chen snying thig/ snyan brgyud 'bring po bar do 'od gsal rang snang bzhugs so/ Сяйво Самовільної Присутності Проміжного Стану Світла Мудрості
-       340 B @#/_/klong chen snying thig/ thig le'i rgya can/ Пуджа Тіглє Г'ялчен
-    1.71 KiB @#/_/klong chen snying thig/ tshogs bsdus ni/ Коротка Ганапуджа Рігдзіна Джікме Лінгпи
-   14.88 KiB @#/_/klong chen snying thig/ yang gsang bla ma'i sgrub pa thig le'i rgya can bzhugs/ Надзвичайно таємна практика Лами Тіглє Г'ялчен
+       635 B @#/_/klong chen snying thig rtsa pod/ nang gsang rnal 'byor/ Таємна Гуру Йога
+       475 B @#/_/klong chen snying thig rtsa pod/ phyi sgrub bla ma'i rnal 'byor/ Зовнішня Гуру-йога
+   58.41 KiB @#/_/klong chen snying thig rtsa pod/ rab gsal nyi 'od rnam par snang ba'i rgyan/ Осяйна Окраса Сяючого Сонячного Світла
+       353 B @#/_/klong chen snying thig rtsa pod/ rdo rje gsung/ Мантра ваджрного мовлення
+       174 B @#/_/klong chen snying thig rtsa pod/ rdo rje sems dpa'/ Дордже Семпа
+    1.43 KiB @#/_/klong chen snying thig rtsa pod/ rdo rje'i lha mo bcu drug/ Дордже Лхамо Чудрук
+   33.78 KiB @#/_/klong chen snying thig rtsa pod/ rdzogs chen pa rang byung rdo rje'i don gyi rnam thar do ha'i rgyan ces bya ba bzhugs/ Автобіографія Ранджунга Дордже
+    6.95 KiB @#/_/klong chen snying thig rtsa pod/ rnam dag ston pa'i lha srung smon lam/ Молитва захисникам Лонгчен Нінгтік Намдака Тонпи
+   39.82 KiB @#/_/klong chen snying thig rtsa pod/ snyan brgyud 'bring po bar do 'od gsal rang snang bzhugs so/ Сяйво Самовільної Присутності Проміжного Стану Світла Мудрості
+       349 B @#/_/klong chen snying thig rtsa pod/ thig le'i rgya can/ Пуджа Тіглє Г'ялчен
+    1.72 KiB @#/_/klong chen snying thig rtsa pod/ tshogs bsdus ni/ Коротка Ганапуджа Рігдзіна Джікме Лінгпи
+   14.89 KiB @#/_/klong chen snying thig rtsa pod/ yang gsang bla ma'i sgrub pa thig le'i rgya can bzhugs/ Надзвичайно таємна практика Лами Тіглє Г'ялчен
     4.06 KiB @#/_/ma gcig kun dga' 'bum/ rnam thar/ Біографія Мачік Кунги Бум
     9.11 KiB @#/_/mkha' 'gro kun bzang/ rnam thar/ Кхандро Кунзанг Намтар
    11.36 KiB @#/_/mkha' 'gro snying thig/ 'od gsal/ Практика Ясного Світла
@@ -78,6 +78,6 @@
    25.03 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ man ngag sde/ yi ge med pa/ Їге Медпа
    32.37 KiB @#/_/shri sing ha/ sher snying 'grel pa sngags su 'grel pa bzhugs/ Шрі Сінга: Розкриття значення Мантри в Сутрі Серця
 
-Загальний розмір вмісту творів з українським перекладом: 958.39 KiB
+Загальний розмір вмісту творів з українським перекладом: 958.52 KiB
 Кількість унікальних творів: 79
 Оброблено файлів: 2
