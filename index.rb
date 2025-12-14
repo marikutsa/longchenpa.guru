@@ -2,7 +2,7 @@
 # encoding: UTF-8
 # frozen_string_literal: true
 
-FILTER_UA_ONLY = false
+FILTER_UA_ONLY = true
 PATTERNS = ['*.txt', '*/*.txt', '*/*/*.txt', '*/*/*/*.txt', '*/*/*/*/*.txt']
 
 header_to_size = {}
