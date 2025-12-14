@@ -30,7 +30,6 @@
    39.86 KiB @#/_/dung mtsho ras pa phyi ma/ rdzogs pa chen po yang ti nag po gser gyi 'bru gcig pa'i sngon 'gro khrid rim gyi ngag 'don nyung ngu gud du phyung ba/ Янгті Накпо Ньондро Кхрід Рім
    30.09 KiB @#/_/dung mtsho ras pa phyi ma/ rdzogs pa chen po yang ti nag po gser gyi 'bru gcig pa'i sngon 'gro'i ming mi shes pa/ Настанови по Ньондро Янгті Накпо
    30.04 KiB @#/_/dung mtsho ras pa phyi ma/ rdzogs pa chen po yang ti nag po gser gyi 'bru gcig pa'i sngon 'gro'i ming mi shes pa/ Янгті Накпо Ньондро Мінгмі Шепа
-    1.86 KiB @#/_/dung mtsho ras pa phyi ma/ rnam thar/ Біографія Дунгцо Ріпи
     3.09 KiB @#/_/dung mtsho ras pa phyi ma/ rnam thar/ Біографія Дунгцо Ріпи Молодшого
     3.37 KiB @#/_/dung mtsho ras pa phyi ma/ yab yum tshams la kha mkha' lam las pa la phab pa yin pa'i las mi bsam pa/ Молитва лінії передачі Янгті Накпо
    11.39 KiB @#/_/dung mtsho ras pa phyi ma/ yang ti nag po gser gyi 'bru gcig pa dkar chag/ Зміст Янгті Накпо
@@ -221,6 +220,6 @@
    25.23 KiB @#/_/snyan brgyud rin po che'i nyams kyi phreng bka' brgyud nyams kyi phreng ba'o/ Н'єнг'ю Рінпоче Н'ямкі Тренгва: Гірлянда досвіду коштовної усної лінії
       1012 B @#/_/tsong kha pa blo bzang grags pa/ dmigs brtse ma/ Мігме Цевей Терчен
 
-Загальний розмір вмісту творів з українським перекладом: 6.92 MiB
-Кількість унікальних творів: 222
-Оброблено файлів: 370
+Загальний розмір вмісту творів з українським перекладом: 6.91 MiB
+Кількість унікальних творів: 221
+Оброблено файлів: 373
