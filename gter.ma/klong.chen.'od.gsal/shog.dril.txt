@@ -438,7 +438,7 @@ sku thang/ kun tu bzang po/
          |...........................:+#%%#%%%+: :        *#. +   :=#%##+-==....................                       |
          +-------------------------------------------------------------------------------------------------------------+
 
-@#/_/klong chen snying thig/ rab gsal nyi 'od rnam par snang ba'i rgyan/ Осяйна Окраса Сяючого Сонячного Світла
+@#/_/klong chen snying thig rtsa pod/ rab gsal nyi 'od rnam par snang ba'i rgyan/ Осяйна Окраса Сяючого Сонячного Світла
 
 Каталог Серцевої Есенції Неосяжного Простору Джигме Лосала Озера
 
@@ -1449,12 +1449,12 @@ SAMAYA SATTVA A
 
 OM VAJRASATTVA HUM
 
-@#/_/klong chen snying thig/ rdo rje sems dpa'/ Дордже Семпа
+@#/_/klong chen snying thig rtsa pod/ rdo rje sems dpa'/ Дордже Семпа
 
 OM MAHA SHUNYATA JNANA VAJRA SABHAVA EMAKO HUM
 OM A GURU VAJRASATVA RULU RULU HUM BHYO HUM
 
-@#/_/klong chen snying thig/ dge bsngo/ Посвята накопичення заслуг і мудрості
+@#/_/klong chen snying thig rtsa pod/ dge bsngo/ Посвята накопичення заслуг і мудрості
 
 OM DHARE DHARE BENDARE SVAHA
 JAYA JAYA SIDDHI SIDDHI PHALA PHALA
@@ -1550,7 +1550,7 @@ yang dgon) та в скиті поблизу ступи Джемо (rje mo mchod
 [1] gu ru bkra shis. gu bkra'i chos 'byung. Beijing: krung go’i bod kyi shes rig dpe skrun khang, 1990, pp. 482–483.
 [2] Bradburn, Leslie (ed.). Masters of the Nyingma Lineage. Cazadero: Dharma Publications, 1995, pp. 170–171.
 
-@#/_/klong chen snying thig/ rdzogs chen pa rang byung rdo rje'i don gyi rnam thar do ha'i rgyan ces bya ba bzhugs/ Автобіографія Ранджунга Дордже
+@#/_/klong chen snying thig rtsa pod/ rdzogs chen pa rang byung rdo rje'i don gyi rnam thar do ha'i rgyan ces bya ba bzhugs/ Автобіографія Ранджунга Дордже
 
 Вшанування головному Будді!
 
@@ -4531,7 +4531,7 @@ GURU DEVA DAKINI HUM
 OM AKARO MUKHAM SARVA DHARMA NAM ADYANUTPANA TOTA OM A HUM SVAHA
 OM SARVA LOKAPALA IDAM BALIMTE KHA KHA KAHI KAHI
 
-@#/_/klong chen snying thig/ bla ma drag po rta khyung 'bar ba/ Лама Дракпо Так'юнг Барва
+@#/_/klong chen snying thig rtsa pod/ bla ma drag po rta khyung 'bar ba/ Лама Дракпо Так'юнг Барва
 
 Поклоніння Переможному Володарю Черепного Вінка! (rgyal ba'i dbang po thod phreng rtsal)
 
@@ -4802,7 +4802,7 @@ KUN  LEM  NRI  SIR  NTA  PRE  SHU  YE
 
 BAM  HRI  HRIH HRIM HUNG TRAM PHEM PHEIM
 
-@#/_/klong chen snying thig/ rdo rje gsung/ Мантра ваджрного мовлення
+@#/_/klong chen snying thig rtsa pod/ rdo rje gsung/ Мантра ваджрного мовлення
 
 /bod gyi skad/
 
@@ -5163,7 +5163,7 @@ RUPA SHAPTA GHANDE RASA SPARSHE
 DHARMADHATU MAHA PANCA
 AMRITA RAKTA BALIMTA KARAM KAHI
 
-@#/_/klong chen snying thig/ tshogs bsdus ni/ Коротка Ганапуджа Рігдзіна Джікме Лінгпи
+@#/_/klong chen snying thig rtsa pod/ tshogs bsdus ni/ Коротка Ганапуджа Рігдзіна Джікме Лінгпи
 
 ram yam kham om ah hung:
 
@@ -5188,7 +5188,7 @@ ATI PUHO PRATITSA HO
 RUPA SHAPTA GHANDE RASA SPARSHE VIJNANA DHARMADHATU
 MAHA PANCA AMRITA RAKTA BALIMTA BODHICITTA DHARMADHATU GANACAKRA PUJA HO
 
-@#/_/klong chen snying thig/ thig le'i rgya can/ Пуджа Тіглє Г'ялчен
+@#/_/klong chen snying thig rtsa pod/ thig le'i rgya can/ Пуджа Тіглє Г'ялчен
 
 GURU AGRAHI NAMA HUM HO HRI
 
@@ -6127,7 +6127,7 @@ dpal ldan lha mo'i rnam 'gyur/ Шрі Деві:
 /spyan mi bzang/ Вірупака. Король нагів, один з 4 Великих Царів. Червоний, зі змією і ступою. Охороняє захід.
 /yul 'khor srung/ Дхрітараштра. Король гандхарвів, один з 4 Великих Царів. Білий, грає на лютні. Охороняє схід.
 
-@#/_/klong chen snying thig/ rnam dag ston pa'i lha srung smon lam/ Молитва захисникам Лонгчен Нінгтік Намдака Тонпи
+@#/_/klong chen snying thig rtsa pod/ rnam dag ston pa'i lha srung smon lam/ Молитва захисникам Лонгчен Нінгтік Намдака Тонпи
 
 Основні Захисники Дерева Притулку Лонгчен Нінгтік:
 
@@ -6311,7 +6311,7 @@ dpal ldan lha mo'i rnam 'gyur/ Шрі Деві:
 
 LHA RGYAL LO!
 
-@#/_/klong chen snying thig/ rdo rje'i lha mo bcu drug/ Дордже Лхамо Чудрук
+@#/_/klong chen snying thig rtsa pod/ rdo rje'i lha mo bcu drug/ Дордже Лхамо Чудрук
 
 OM HUM TRAM HRI A
 NAMO SARVA TATHAGATA BYE BISHVA MUKHE BYE SARVA TAKHAM ADGATE SAPARANA IMAM GAGANA KHAM SVAHA
@@ -6917,7 +6917,7 @@ NAMO DAKINI BHYE
 
 A A A
 
-@#/_/klong chen snying thig/ phyi sgrub bla ma'i rnal 'byor/ Зовнішня Гуру-йога
+@#/_/klong chen snying thig rtsa pod/ phyi sgrub bla ma'i rnal 'byor/ Зовнішня Гуру-йога
 
 E MA HO!
 
@@ -7106,7 +7106,7 @@ de dag gi rtsa ni dbu ma'i rtsa las brtsams te/ mgrin pa'i 'khor lo las 'od zer 
 lte ba'i 'khor lo las rlung gi rtsa 'phro ba/ gsang ba'i 'khor lo las thig le'i rtsa 'phro ba ste/
 de dag gi rtsa rlung thig le gsum gyi rnam bzhag ni nying ma pa'i rgyud sde chen po'i lugs su bshad pa ltar ro/
 
-@#/_/klong chen snying thig/ nang gsang rnal 'byor/ Таємна Гуру Йога
+@#/_/klong chen snying thig rtsa pod/ nang gsang rnal 'byor/ Таємна Гуру Йога
 
 NAMO GURU DEVA DAKINI
 
@@ -7123,12 +7123,12 @@ OM A HUM VAJRA KAYA WAKA CITTA GUNA KARMA SARVA SIDDHI ABHI SHYN TSA MI
 
 SAMAYA GUHYA SAMAYA
 
-klong chen snying thig/ rig 'dzin 'dus pa/ Рігдзін Дюпа
+klong chen snying thig rtsa pod/ rig 'dzin 'dus pa/ Рігдзін Дюпа
 
 OM A HUM VAJRA MAHA GURU AYURJNANA MAHA PUNYE TSE DROOM NRI DZA SARVA SIDDHI HUM
 OM A HUM VAJRA GURU PEMA SIDDHI HUM DHARMADHATU VAJRA RAKSHA
 
-@#/_/klong chen snying thig/ yang gsang bla ma'i sgrub pa thig le'i rgya can bzhugs/ Надзвичайно таємна практика Лами Тіглє Г'ялчен
+@#/_/klong chen snying thig rtsa pod/ yang gsang bla ma'i sgrub pa thig le'i rgya can bzhugs/ Надзвичайно таємна практика Лами Тіглє Г'ялчен
 
 GURU AGRAHI NAMA
 
@@ -9930,7 +9930,7 @@ lus dben/ Ізоляція тіла
 
 SARVA MANGALAM
 
-@#/_/klong chen snying thig/ snyan brgyud 'bring po bar do 'od gsal rang snang bzhugs so/ Сяйво Самовільної Присутності Проміжного Стану Світла Мудрості
+@#/_/klong chen snying thig rtsa pod/ snyan brgyud 'bring po bar do 'od gsal rang snang bzhugs so/ Сяйво Самовільної Присутності Проміжного Стану Світла Мудрості
 
 У серці білої [перлини], встановленій у горловому центрі, завершено.
 Це вчення усної традиції середнього рівня — «Сяйво Самовільної Присутності Проміжного Стану Світла Мудрості» (snyan brgyud 'bring po bar do 'od gsal rang snang).
