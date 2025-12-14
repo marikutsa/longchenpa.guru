@@ -2,7 +2,7 @@
 # encoding: UTF-8
 # frozen_string_literal: true
 
-FILTER_UA_ONLY = true
+FILTER_UA_ONLY = false
 PATTERNS = ['*.txt', '*/*.txt', '*/*/*.txt', '*/*/*/*.txt', '*/*/*/*/*.txt']
 
 header_to_size = {}
@@ -59,8 +59,8 @@ header_to_size.keys.sort.each do |header|
 end
 
 label = FILTER_UA_ONLY ? 'з українським перекладом' : 'усіх унікальних'
-puts "\nЗагальний розмір вмісту секцій #{label}: #{human_size(total)}"
-puts "Кількість унікальних секцій: #{count}"
+puts "\nЗагальний розмір вмісту творів #{label}: #{human_size(total)}"
+puts "Кількість унікальних творів: #{count}"
 puts "Оброблено файлів: #{PATTERNS.sum { |p| Dir.glob(p).size }}"
 
 # 2025 (c) Лонгчен Осал
