@@ -31,8 +31,7 @@
     3.09 KiB @#/_/dung mtsho ras pa phyi ma/ rnam thar/ Біографія Дунгцо Ріпи Молодшого
     3.37 KiB @#/_/dung mtsho ras pa phyi ma/ yab yum tshams la kha mkha' lam las pa la phab pa yin pa'i las mi bsam pa/ Молитва лінії передачі Янгті Накпо
    11.39 KiB @#/_/dung mtsho ras pa phyi ma/ yang ti nag po gser gyi 'bru gcig pa dkar chag/ Зміст Янгті Накпо
-    6.06 KiB @#/_/dung mtsho ras pa phyi ma/ yang ti nag po thugs thig/ Туктіки Янгті Накпо
-    6.04 KiB @#/_/dung mtsho ras pa phyi ma/ yang ti nag po thugs thig/ Янгті Накпо Туктік
+    6.04 KiB @#/_/dung mtsho ras pa phyi ma/ yang ti nag po thugs thig/ Туктіки Янгті Накпо
    16.92 KiB @#/_/dung mtsho ras pa phyi ma/ yang ti'i snyan rgyud yi ge med pa'o/ Передача Янгті Накпо без письма
        210 B @#/_/gnam chos/ dkar gtor/ Офіра білого торма Намчо
    17.35 KiB @#/_/gnam chos/ dpal chen mgon po bdun chu rtsa gnyis/ 72 Величних і Славних Гомпо Намчо
@@ -216,5 +215,5 @@
       1012 B @#/_/tsong kha pa blo bzang grags pa/ dmigs brtse ma/ Мігме Цевей Терчен
 
 Загальний розмір вмісту творів з українським перекладом: 7.04 MiB
-Кількість унікальних творів: 216
+Кількість унікальних творів: 215
 Оброблено файлів: 375
