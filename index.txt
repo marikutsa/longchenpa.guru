@@ -5,7 +5,6 @@
    10.43 KiB @#/_/'jigs bral ye shes rdo rje/ ye shes gzhon nu'i rnam thar/ Біографія Няка Джнянакумари
     6.68 KiB @#/_/'jigs med gling pa/ bdag nyid chen po bai ro'i sgrub thabs bzhugs/ Садхана Вайрочани Джикме Лінгпи
   149.84 KiB @#/_/'jigs med gling pa/ gsung 'bum/ Каталог збірки праць Джігме Лінгпи в 9 тома Геце Махапандіти
-   73.58 KiB @#/_/'jigs med gling pa/ rnying ma rgyud 'bum dkar chag/ Каталог Тантр Древнінг Джікме Лінгпи
   143.97 KiB @#/_/'jigs med gling pa/ yon tan rin po che'i mdzod dga' ba'i char zhes bya ba/ Йонтен Рінпоче Дзо
   330.27 KiB @#/_/'jigs med gling pa/ yon tan rin po che'i mdzod dga' ba'i char/ Йонтен Рінпоче Дзо: Скарбниця Коштовних Якостей (,,173)
    32.15 KiB @#/_/a yu mkha' 'gro/ rnam thar/ Біографія Аю Кхандро
@@ -93,7 +92,12 @@
    29.30 KiB @#/_/klong chen 'od gsal snying thig/ thod rgal gyi mdog gsal gyi snang ba/ Радіантні кольори Тогал
        321 B @#/_/klong chen 'od gsal snying thig/ tshogs/ Ганачакра Лонгчен Осал
    11.73 KiB @#/_/klong chen 'od gsal snying thig/ ye shes lnga'i thig le dkyil 'khor/ Мандала Тігл'є Г'ялчен і Тогал
+   80.39 KiB @#/_/klong chen rab 'byams pa dri med 'od zer/ bsam gtan ngal gso/ Відпочинок в медитації
+  142.70 KiB @#/_/klong chen rab 'byams pa dri med 'od zer/ chos dbyings mdzod/ Чоїнг Дзо: Скарбниця Дхармадхату
    85.37 KiB @#/_/klong chen rab 'byams pa dri med 'od zer/ dkar chag/ Палацек: Спадщина Предків. Зібрання творів Лонгчена Рабджама Безплямного Сяйва.
+    1.19 MiB @#/_/klong chen rab 'byams pa dri med 'od zer/ drub mtha' mdzod/ Групта Дзо: Скарбниця філософських систем
+   81.10 KiB @#/_/klong chen rab 'byams pa dri med 'od zer/ gnas lugs mdzod/ Нелук Дзо: Скарбниця природньої довершеності
+  458.29 KiB @#/_/klong chen rab 'byams pa dri med 'od zer/ man ngag mdzod/ Маннгак Дзо: Скарбниця таємних настанов
     8.73 KiB @#/_/klong chen rab 'byams pa dri med 'od zer/ mthar thug yid bzhin snying po/ Кінцева Сутність Виконання Бажань Лонгчена Рабджама
     1.86 KiB @#/_/klong chen rab 'byams pa dri med 'od zer/ mun sel skor gsum dkar chag/ Трилогія розсіювання темряви: коментар на Гух'ягарбгу тантру
     9.87 KiB @#/_/klong chen rab 'byams pa dri med 'od zer/ ngal gso skor gsum dkar chag/ Трилогія відпочинку з 14 текстів
@@ -101,10 +105,15 @@
     4.76 KiB @#/_/klong chen rab 'byams pa dri med 'od zer/ rang grol skor gsum dkar chag/ Трилогія самозвільнення. Настанови по Семде
    75.86 KiB @#/_/klong chen rab 'byams pa dri med 'od zer/ rang grol skor gsum/ Про трилогію самозвільнення
     3.26 KiB @#/_/klong chen rab 'byams pa dri med 'od zer/ rdzogs pa chen po ngal gso skor gsum dang rang grol skor gsum bcas pod gsum dkar chag/ Колекція Адзом Чогара Нгалсо Корсум і Рангдрол Корсум
+    1.21 MiB @#/_/klong chen rab 'byams pa dri med 'od zer/ sems nyid ngal gso/ Відпочинок в природі мислення
   573.84 KiB @#/_/klong chen rab 'byams pa dri med 'od zer/ sems nyid rang grol/ Самозвільнене мислення
    59.60 KiB @#/_/klong chen rab 'byams pa dri med 'od zer/ sems yid rang grol gyi lam rim snying po/ Сутніть Ламріму Самозвільння Мислення
+  124.26 KiB @#/_/klong chen rab 'byams pa dri med 'od zer/ sgyu ma ngal gso/ Відпочинок в Майя
    45.40 KiB @#/_/klong chen rab 'byams pa dri med 'od zer/ snying thig ya bzhi/ a 'dzom chos sgar/ Індекс Нінгтік Ябжі колекції Адзом Чогара
    23.61 KiB @#/_/klong chen rab 'byams pa dri med 'od zer/ snying thig ya bzhi/ dar thang glog klad par ma/ Індекс Нінгтік Ябжі колекції Єше Де Тартанга Тулку
+    3.93 MiB @#/_/klong chen rab 'byams pa dri med 'od zer/ theg mchog mdzod/ Текчхок Дзо: Скарбниця вищої колісниці
+    1.41 MiB @#/_/klong chen rab 'byams pa dri med 'od zer/ tshig don mdzod/ Цигдьон Дзо: Скарбниця слова і суті
+  243.33 KiB @#/_/klong chen rab 'byams pa dri med 'od zer/ yin bzhin mdzod/ Їджин Дзо: Скарбниця виконання бажань
    28.40 KiB @#/_/klong chen snying thig rtsa pod/ a 'dzom 'brug pa'i dkar chag/ Зміст корінних томів Лонгчен Нінгтік у 3 томах від Адзома Друкпи. Деге.
    11.66 KiB @#/_/klong chen snying thig rtsa pod/ bla brgyud gsol 'debs gsung rgyun/ Устна молитва лінії передачі Лонгчен Нінгтік
    11.19 KiB @#/_/klong chen snying thig rtsa pod/ bla ma drag po rta khyung 'bar ba/ Лама Дракпо Так'юнг Барва (054,075,)
@@ -192,16 +201,36 @@
     9.26 KiB @#/_/rnam dag ston pa/ chos mchog chen po'i rgyud las klong lnga rtog rdzogs kyi gnad yig/ Тантра Дгармоттари: Запис сутнісних пунктів п'яти просторів досконалої обчислювальної логіки
     7.65 KiB @#/_/rnam dag ston pa/ dri med 'od zer rnam thar gi 'dra zhib dpyad pa/ Порівняльний аналіз біографій Лонгчена Рабджама
    10.72 KiB @#/_/rnam dag ston pa/ rnam 'phrul bcu gnyis/ 12 проявів Гуру Рінпоче
+   73.58 KiB @#/_/rnying ma rgyud 'bum/ 'jigs med gling pa'i dkar chag/ Каталог Тантр Древніх Джікме Лінгпи
+   12.57 KiB @#/_/rnying ma rgyud 'bum/ bai ro'i dkar chag/ Зібрання тантр древніх Вайрочани
+   44.00 KiB @#/_/rnying ma rgyud 'bum/ bsam gtan snying gi nyi ma/ Сонце Серця Вайрочани
+    4.23 KiB @#/_/rnying ma rgyud 'bum/ dgra med rtse dkar chag/ Зібрання тантр древніх Драмеце
+   67.58 KiB @#/_/rnying ma rgyud 'bum/ dpal brtsegs/ Зібрання тантр древніх Палцег
+   29.33 KiB @#/_/rnying ma rgyud 'bum/ gting skyes dgon pa/ Зібрання тантр древніх Тінк'є
+   51.96 KiB @#/_/rnying ma rgyud 'bum/ mtshams brag dkar chag/ Зібрання тантр древніх Цамдрак
+   76.66 KiB @#/_/rnying ma rgyud 'bum/ ngag dbang lhun grub grags pa/ Зібрання тантр древніх Нгаванга Лхундруба Дракпи
+   25.79 KiB @#/_/rnying ma rgyud 'bum/ rig 'dzin tshe dbang nor bu'i dkar chag/ Зібрання тантр древніх Рігдзіна Цеванга Норбу
    43.87 KiB @#/_/rnying ma rgyud 'bum/ rjes su rnal 'byor/ mtha' drug gsal bar byed pa/ Тантра Великого Самантабгадри, що перебуває у собі самому
    34.20 KiB @#/_/rnying ma rgyud 'bum/ rjes su rnal 'byor/ rtsa ba'i mdo bzhi/ dgongs pa 'dus pa'i mdo/ Гонпа Дюпей До: Зібрання наміру Будд
        200 B @#/_/rnying ma rgyud 'bum/ rjes su rnal 'byor/ rtsa ba'i mdo bzhi/ kun 'dus rig pa'i mdo/ Кунду Рігпей До: Сутра єднання повного ваджра усвідомлення
+   40.06 KiB @#/_/rnying ma rgyud 'bum/ sde dge dkar chag/ Зібрання тантр древніх Деге
+  279.42 KiB @#/_/rnying ma rgyud 'bum/ sgang steng dkar chag/ Зібрання тантр древніх Гантенга
+   12.80 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal 'byor/ sems sde/ bde ba 'phra bkod/ Інкрустована прикраса блаженства
+   11.09 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal 'byor/ sems sde/ byang chub sems bsgom pa/ Медитація просвітленого розуму
+   17.43 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal 'byor/ sems sde/ rig pa'i khu byug/ Зозуля Усвідомлення: Семде Тантра
+    8.31 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal 'byor/ sems sde/ rin po che kun 'dus rig pa/ Коштовний Компендіум Стану Рігпа
   218.44 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ klong sde/ klong chen rab 'byams rgyal po/ Лонгчен Рабджам Г'ялпо: Корінна тантра обширного простору
+   25.27 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ klong sde/ rin po che gdams ngag sna tshogs 'khor lo/ Рінпоче Дамнгаг Нацог Корло
+   53.65 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ klong sde/ rin po che'i 'khor lo/ Рінпоче Корло
   103.77 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ klong sde/ Чистий Учитель Просвітленого Мислення, що міститься у всьому
+   79.91 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ man ngag sde/ kun tu bzang po klong drug pa'i rgyud/ 6 просторів Самантабхадри
    65.85 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ man ngag sde/ ngo sprod spras pa/ Тантра Упадеші: Прикраса прямого знайомства
     1.18 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ man ngag sde/ nyi zla kha sbyor/ Ньїда Кхаджор (тільки пісня Ваджра)
   226.70 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ man ngag sde/ nyi zla kha sbyor/ Тантра Союзу Сонця і Місяця з розділу Таємних Настанов Аті-йоги
-  169.65 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ man ngag sde/ sgra thal 'gyur/ Примордіальний Звук
+  169.67 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ man ngag sde/ sgra thal 'gyur/ Дра Талг'юр: Примордіальний Звук
+   25.04 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ man ngag sde/ yi ge med pa'i rgyud/ Їге Мепа
    25.03 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ man ngag sde/ yi ge med pa/ Їге Медпа
+   54.62 KiB @#/_/rnying ma rgyud 'bum/ thub bstan nyi ma rin po che/ Зібрання тантр древніх Рігдзіна Цеванга Норбу
     3.87 KiB @#/_/rong ston pad+ma bde chen gling pa/ rnam thar/ Біографія Ронгтона Пема Дечена Лінгпи
    21.90 KiB @#/_/rong zom chos kyi bzang po/ rnam thar/ Біографія Ронгдзома Махапандіти
    83.45 KiB @#/_/sangs rgyas gling pa/ gter chos dkar chag/ Зміст відкриттів великого тертона Санг'є Лінгпи
@@ -213,8 +242,8 @@
    14.57 KiB @#/_/shAkya shrI/ dkar chag/ Зібрання творів Тогдена Шак'я Шрі
   254.05 KiB @#/_/shAkya shrI/ rnam thar/ Сіту Рінпоче. Історія звільнення Вищого Ваджра Утримувача, Преподобного Майстра Шак'я Шрі Джняна
    32.37 KiB @#/_/shri sing ha/ sher snying 'grel pa sngags su 'grel pa bzhugs/ Шрі Сінга: Розкриття значення Мантри в Сутрі Серця
-      1012 B @#/_/tsong kha pa blo bzang grags pa/ dmigs brtse ma/ Мігме Цевей Терчен
+    1.03 KiB @#/_/tsong kha pa blo bzang grags pa/ dmigs brtse ma/ Мігцема: Молитва Же Цонкапі Лобсангу Дракпі
 
-Загальний розмір вмісту творів з українським перекладом: 7.05 MiB
-Кількість унікальних творів: 216
-Оброблено файлів: 376
+Загальний розмір вмісту творів з українським перекладом: 16.79 MiB
+Кількість унікальних творів: 245
+Оброблено файлів: 377
