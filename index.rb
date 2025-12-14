@@ -5,7 +5,9 @@
 FILTER_UA_ONLY = false
 PATTERNS = ['*.txt', '*/*.txt', '*/*/*.txt', '*/*/*/*.txt', '*/*/*/*/*.txt']
 
-header_to_file = {}
+header_to_size = {}
+current_header = nil
+current_bytes = 0
 total = 0
 count = 0
 
@@ -13,16 +15,30 @@ PATTERNS.each do |pattern|
   Dir.glob(pattern) do |file|
     next unless File.file?(file)
     File.foreach(file, encoding: 'UTF-8') do |line|
-      header = line.encode('UTF-8', invalid: :replace, undef: :replace, replace: '?').chomp.strip
-      next if header.empty? || !header.start_with?('@#/_/')
-      header_to_file[header] ||= file
+      encoded_line = line.encode('UTF-8', invalid: :replace, undef: :replace, replace: '?')
+      line_bytes = encoded_line.bytesize
+      header = encoded_line.chomp.strip
+      if header.start_with?('@#/_/')
+        if current_header
+          header_to_size[current_header] ||= current_bytes
+        end
+        current_header = header
+        current_bytes = line_bytes
+      elsif current_header
+        current_bytes += line_bytes
+      end
     end
+    if current_header
+      header_to_size[current_header] ||= current_bytes
+    end
+    current_header = nil
+    current_bytes = 0
   rescue
     next
   end
 end
 
-return puts 'Не знайдено жодного заголовка' if header_to_file.empty?
+return puts 'Не знайдено жодного заголовка' if header_to_size.empty?
 
 def human_size(bytes)
   units = %w[B KiB MiB GiB TiB]
@@ -31,19 +47,20 @@ def human_size(bytes)
   format('%.2f %s', bytes.to_f / (1024 ** exp), units[exp])
 end
 
-header_to_file.keys.sort.each do |header|
+
+header_to_size.keys.sort.each do |header|
   title = header.split('/').last.strip
   has_ua = title.match?(/[\u0400-\u04FF\u0500-\u052F\u2DE0-\u2DFF\uA640-\uA69F\u1C80-\u1C8F]/)
   next if FILTER_UA_ONLY && !has_ua
-  size = File.size(header_to_file[header])
-  total += size
+  bytes = header_to_size[header]
+  total += bytes
   count += 1
-  puts "#{human_size(size).rjust(12)} #{header}"
+  puts "#{human_size(bytes).rjust(12)} #{header}"
 end
 
 label = FILTER_UA_ONLY ? 'з українським перекладом' : 'усіх унікальних'
-puts "\nЗагальний розмір файлів #{label}: #{human_size(total)}"
-puts "Кількість унікальних творів: #{count}"
+puts "\nЗагальний розмір вмісту секцій #{label}: #{human_size(total)}"
+puts "Кількість унікальних секцій: #{count}"
 puts "Оброблено файлів: #{PATTERNS.sum { |p| Dir.glob(p).size }}"
 
 # 2025 (c) Лонгчен Осал
