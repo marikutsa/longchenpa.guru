@@ -1,0 +1,308 @@
+@#/_/klong gsal snying po/ dkar chag/ Збірка глибоких скарбів Ріґдзіна Клонґсала Нінґпо 
+
+klong gsal snying po'i zab gter [col] Глибокий скарб ясного простору
+
+skor tsho dang po/ klong gsal rdo rje snying po'i skor [sec] Перший цикл: цикл ваджрного серця ясного простору
+
+001 klong gsal snying po'i zab gter skor gyi bzhugs byang dkar chag gsal ba'i me long [toc] Зміст збірки глибоких скарбів ясного простору: дзеркало ясності
+002 klong gsal snying po'i zab chos skor rnams seng ri'i chos sgar du spar du bskrun pa'i gtam bstan pa mi nub pa'i rgyal mtshan [txt] Друк глибоких вчень ясного простору в дхарма-таборі Сенґрі
+003 gter 'byung yid bzhin dbang gis bum bzang bdud rtsi'i snying po can [txt] Походження скарбу: добра ваза, сповнена нектару, владою бажання
+004 theg dgu'i 'jug dbang rin po che yi them skas [txt] Сходи коштовності: посвята входу в дев'ять яни
+005 yang gsang bla na med pa'i dbang don sgom rim [txt] Етап медитації сенсу найвищої таємної неперевершеної посвячення
+006 thun mong sngon 'gro'i khrid kyi ngag 'don [txt] Літургія настанови загальних попередніх практик
+007 yang gsang bla ma sgrub pa'i khog dbub thar pa'i lam bzang [txt] Добрий шлях визволення: внутрішній сенс практики найвищого таємного гуру
+008 lha lcam gyis byin gyis brlabs pa'i lo rgyus [txt] Історія благословення сестрою-богинею
+009 gleng gzhi ye shes bdud rtsi [txt] Вступна основа: нектар мудрості
+010 ma sgom sangs rgyas 'pho ba'i myur lam [txt] Швидкий шлях перенесення свідомості без медитації на просвітлення
+011 bla ma sku gsum sgrub pa'i rgyud rim gsol 'debs thugs rje' rgyud bskul [txt] Послідовні молитви практики гуру в трьох тілах: заклик потоку співчуття
+012 byin 'bebs bstod bskul thugs rje'i lcags kyu [txt] Гак благословення та похвали: залізний гак співчуття
+013 gsol 'debs mdzes brgyan [txt] Прикрашена молитва
+014 phrin las sngon 'gro spyi gtor 'dod don lhun grub [txt] Загальна торма попередньої діяльності: спонтанне здійснення бажань
+015 bgegs 'gugs [txt] Заклик перешкод
+016 sku gsum zhi khro'i cho ga bla med snying po [txt] Ритуал трьох тіл мирних і гнівних: неперевершене серце
+017 sku gsum zhi khro'i cho ga theg pa'i 'jug ngog [txt] Ритуал трьох тіл мирних і гнівних: вхід у яни
+018 sku gsum cho ga'i mchod bstod [txt] Похвала та підношення ритуалу трьох тіл
+019 phyag 'tshal byin rlabs sprin dpung [txt] Поклони: хмари благословення
+020 phyag 'tshal [txt] Поклони
+021 phyag 'tshal sgrib gnyis zhi byed [txt] Поклони, що заспокоюють дві завіси
+022 bdud rtsi 'bul ba [txt] Підношення нектару
+023 tshogs tha ma'i skabs su bsgral bar tshogs snod bskyed cing 'gugs pa [txt] На завершальній стадії ґаначакри: генерування та заклик судини для вбивства
+024 bskang ba bsdus pa [txt] Коротке виконання
+025 bdag 'jug [txt] Вхід себе
+026 bskul gtor byin rlabs [txt] Благословення закликальної торми
+027 bskul ba [txt] Заклик
+028 brtan skyong 'bul ba [txt] Підношення стабільних захисників
+029 bro 'gugs [txt] Заклик танцю
+030 tshe 'gugs [txt] Заклик життя
+031 bla ma sku gsum zhi khro'i rgyud bskang nor bu chu dwangs phreng ba [txt] Виконання гуру трьох тіл мирних і гнівних: намисто чистої води коштовностей
+032 bskang ba bshags sbyang dri med bde chen klong yangs [txt] Виконання та очищення: бездоганний великий блаженний простір
+033 bshags sbyongs bag chags dri khrus [txt] Сповідь та очищення: обмивання плям звичок
+034 chos skyong gi gtor 'bul [txt] Підношення торми захисникам вчення
+035 gter bdag mchod phreng [txt] Намисто підношень володарю скарбу
+036 srog bdag gza' klu rgyal gsum gyi mchod phreng [txt] Намисто підношень трьом володарям життя: ґза, клу, рґ'ял
+037 bshags pa [txt] Сповідь
+038 gnas 'dren 'gugs bsdus [txt] Короткий заклик та провід місця
+039 gshin po rjes 'dzin rigs drug gnas 'dren [txt] Провід шести класів померлих, що слідують
+040 dbang bshad [txt] Пояснення посвячення
+041 smin byed kyi 'jug chog zab don snying po [txt] Ритуал входу дозрівання: глибокий сенс серця
+042 ye shes dbab pa [txt] Зіслання мудрості
+043 ye shes dbab pa'i tshig bsdus pa [txt] Короткі слова зіслання мудрості
+044 bum dbang mthar dbang gi mtshams sbyar [txt] З'єднання між вазовою посвятою та останньою посвятою
+045 gtor dbang bsdus pa [txt] Коротка посвята торми
+046 ngo sprod [txt] Представлення
+047 me thabs byin rlabs [txt] Благословення вогняного підношення
+048 sbas chos gsang ba yang ti'i rgyud [txt] Тантра прихованого вчення янґті таємниці
+
+skor tsho gnyis pa/ rdzogs chen rtsol bral rang byung nyag gcig gi skor [sec] Другий цикл: цикл дзоґчену спонтанного єдиного без зусиль
+
+049 them byang gsal ba'i me long [txt] Дзеркало ясності: інвентар
+050 shin tu zab pa rgyud sde bzhi'i skor gyi mdo 'dzin gsal ba'i sgron me [txt] Ліхтар ясності: резюме чотирьох класів глибоких тантр
+051 rab tu zab pa 'jam dpal rtsa ba'i skor grangs kyi mdo 'dzin [txt] Резюме чисел корінного циклу Манжушрі дуже глибокого
+052 mchog tu zab pa rdzogs pa chen po'i skor gyi mdo byang [txt] Інвентар циклу великої досконалості найглибшого
+053 gu ru mtsho skyes rdo rje'i bum pa sgrub pa [txt] Практика вази гуру Падмасамбхави
+
+skor tsho gsum pa/ snyan rgyud thugs rje chen po'i skor [sec] Третій цикл: цикл співчуття великого з усної передачі
+
+054 grangs tho gsal byed [txt] Ясність чисел
+
+sgrub thabs [sec] Садхани
+
+rtsa ba [sec] Корінні
+
+055 'phags pa thugs rje chen po phyag stong spyan stong gi sgrub pa [txt] Садхана благородного Авалокітешвари з тисячею рук і очей
+
+yan lag [sec] Відгалуження
+
+056 thugs rje chen po don yod zhags pa'i sgrub pa [txt] Садхана Авалокітешвари з гачком сенсу
+057 'phags pa thugs rje chen po spyan ras gzigs dbang phyug ngan song sgo gcod kyis gshin po'i sgrib sbyong gi grib khrus [txt] Очищення тіні померлих Авалокітешварою, що закриває двері нижніх світів
+
+skor tsho bzhi pa/ gu ru drag po ye shes rab 'bar gyi skor [sec] Четвертий цикл: цикл гнівного гуру, що палає мудрістю
+
+them byang sogs kyi skor [sec] Цикл інвентарів тощо
+
+058 gter 'byung 'dod 'jo'i bum bzang [txt] Походження скарбу: добра ваза, що доїть бажання
+059 them byang gsal ba'i me long [txt] Дзеркало ясності: інвентар
+060 gnas chen brag dkar gyi gnas yig [txt] Опис великого місця Браґкар
+061 ye shes rab 'bar gsang ba'i kha byang [txt] Таємний інвентар палаючої мудрості
+062 phyi skor gleng bslang bka' yi them byang mi 'gyur gsang ba'i thar ma [txt] Зовнішній цикл: незмінний таємний інвентар слова
+063 don skor dbang por bstim pa'i gnad kyi lde mig [txt] Ключ до суті циклу посвячень
+
+rgyud kyi skor [sec] Цикл тантр
+
+064 ye shes rab 'bar rtsa ba'i rgyud kyi rgyal po [txt] Корінний тантра-цар палаючої мудрості
+065 gang 'dul 'gro kun bsgral ba bde gshegs kyi mchod sprin [txt] Підношення хмар суґатам, що визволяють всіх, кого потрібно приручити
+066 gter bdag gsal ba gsang ba'i lung byang [txt] Пророчий інвентар ясного та таємного володаря скарбу
+067 mthong grol shog dril dkar po [txt] Білий сувій звільнення при вигляді
+068 gter bdag rgyal tshabs la rgyas 'debs kyi gleng bslong pad+ma'i zhal gdams [txt] Вступне слово Падми до розширеної аспірації для намісника володаря скарбу
+069 drag po khros pa'i gsang ba'i rgyud [txt] Таємна тантра гнівного гніву
+070 las can chos bdag lung bstan nyi zla zung 'jug [txt] Пророцтво об'єднання сонця та місяця для кармічного володаря вчення
+
+sgrub thabs [sec] Садхани
+
+071 zhi ba'i sgrub pa rig 'dzin snying thig [txt] Мирна садхана: серце віджаядхар
+072 me rlung 'khyil pa'i sgrub pa [txt] Садхана вихору вогню та вітру
+073 pad+ma drag po'i skor las tshe sgrub pa'i thabs [txt] Метод практики життя з циклу гнівного Падми
+074 chos sku'i sgrub pa mnyam nyid bsre 'pho [txt] Садхана дхармакаї: змішування та перенесення в рівність
+075 theg pa'i sgo 'byed gsal ba'i lam bzang [txt] Добрий шлях ясного відкриття дверей яни
+076 'jug pa sngags kyi sdom pa [txt] Вхід: обітниці мантри
+077 pad+ma drag po rtsal gyi brgyud pa'i gsol 'debs [txt] Молитва лінії сили гнівного Падми
+078 sgrub chen gyi byin 'bebs dngos grub chu bo [txt] Благословення великої садхани: потік сиддхі
+079 gu ru drag po ye shes rab 'bar gyi skor las byin 'bebs [txt] Благословення з циклу гнівного гуру палаючої мудрості
+080 khro bcu'i srung bzlog shog dril [txt] Сувій захисту та відвернення десяти гнівних
+081 bskyed rdzogs 'bring po'i las byang [txt] Середній текст діяльності генерації-завершення
+082 tshogs mchod [txt] Ґаначакра-підношення
+083 ye shes rab 'bar gyi brgyud pa rin po che lha dang bcas pa'i gsol 'debs [txt] Молитва лінії палаючої мудрості з коштовними божествами
+084 zung 'jug ye shes bcud chen zab yangs 'dzab rgyun [txt] Потік мантри великої глибокої есенції об'єднаної мудрості
+085 go cha lha lnga'i las kyi kha bsgyur [txt] Зміна рота діяльності п'яти божеств обладунку
+086 bskyed rdzogs chung ngu'i dang po las kyi drag po bzlog pa dang 'brel ba'i phrin las [txt] Діяльність першого малого генерації-завершення: гнівне відвернення та пов'язана діяльність
+087 gu ru drag po gtum drag dmar nag gi gsang sgrub [txt] Таємна садхана гнівного гуру лютого чорно-червоного
+088 thun mong 'dzab dbyangs rig sngags bcud bsdus [txt] Звичайна мантра-мелодія: стислий нектар віджаядхар
+089 skong bshags dri med mtha' bral klong yangs [txt] Виконання та сповідь: бездоганний простір без меж
+090 dkyil 'khor lha tshogs bstod pa dad pa'i gdung dbyangs [txt] Похвала мандали божеств: мелодія віри
+091 sgrub pa las kyi bar chad bzlog bskul [txt] Відвернення перешкод практики та заклик
+092 lha tshogs mthu rtsal bskul ba'i rim pa gnam lcags ngar 'dog [txt] Послідовність заклику сили божеств: залізний дзвін
+093 gtor bzlog mtshon cha'i 'khor lo'i lhan thabs sgrol chog mtshon cha 'bar ba log rtogs myur 'dren [txt] Ритуал визволення колеса зброї для відвернення торми
+094 lha 'dre'i srog 'dren gnam lcags me 'khor [txt] Витягання життя богів та демонів: залізне вогняне колесо
+095 drang srong dmod bzlog [txt] Відвернення прокльонів ріші
+096 gtor bzlog mtshon cha 'khor lo [txt] Відвернення торми: колесо зброї
+097 yak+sha me dpal gyi bzlog pa spu gri'i 'khor lo [txt] Відвернення славного вогню якші: колесо гривастого ножа
+098 khyung gi bzlog pa me yi pa dra [txt] Відвернення ґаруди: вогняна сітка
+099 gnam lcags ral gcig ma'i bka' bzlog [txt] Відвернення слова однорогової залізної
+100 rdo rje legs pa'i bzlog pa [txt] Відвернення Ваджрасадху
+101 khro bcu'i las bcol sngags thun 'bar ba [txt] Звичайна мантра доручення діяльності десяти гнівних
+102 sun bzlog 'jug pa [txt] Вхід відвернення витягання
+
+chos skyong gyi skor [sec] Цикл захисників вчення
+
+103 e ka tsa ti mchod phreng phrin las kyi gzhung [txt] Текст діяльності намиста підношень Екадзаті
+104 ngan smra mi kha'i bzlog pa zab mo [txt] Глибоке відвернення поганої мови
+105 bam tshogs 'bul thabs [txt] Метод підношення бам-ґаначакри
+106 gsung thor bu las lha mo'i gsol mchod nyung ngur bsdus pa [txt] Коротке підношення-молитва богині з розкиданих промов
+107 ma chen bskang bsdus [txt] Коротке виконання Великої Ма
+108 don grub rgyal po rgyal chen rnam thos sras kyi las byang 'dod dgu lhun grub [txt] Текст діяльності великого царя сиддхі Рнамтхос срас: спонтанне здійснення дев'яти бажань
+109 srog bdag gza' klu rgyal gsum gyi mchod phreng [txt] Намисто підношень трьом володарям життя: ґза, клу, рґ'ял
+110 don grub rgyal po mgon po rdo rje'i mchod gsol [txt] Підношення-молитва царя сиддхі захисника Ваджри
+111 don grub rgyal po gsang ba gnod sbyin ltar gyi mchod phreng [txt] Намисто підношень царя сиддхі як таємного ґнодсб'їна
+112 drang srong khyab 'jug chen po'i gsol mchod [txt] Підношення-молитва великого ріші Вішну
+113 rdo rje legs pa'i bskyed chog [txt] Ритуал генерації Ваджрасадху
+114 rdo rje legs pa'i mchod phreng [txt] Намисто підношень Ваджрасадху
+115 'dul ba gri'i chog bsgrig thugs rje'i spu gri [txt] Зібрання ритуалу приручального ножа: гривастий ніж співчуття
+116 don grub gnod sbyin rgyal chen gyi sgrub pa yid bzhin lhun grub [txt] Садхана великого царя ґнодсб'їн сиддхі: спонтанне здійснення бажань
+117 sgrub chen gyi khog dbub [txt] Внутрішній сенс великої садхани
+
+dbang [sec] Посвяти
+
+118 he ru ka'i chas drug gi dbang bshad yid bzhin dra ba [txt] Пояснення посвячення Херуки в шести обладунках: мережа бажань
+119 rten gsum rab tu gnas pa'i bya ba bde legs rab 'phel [txt] Дія встановлення трьох опор: велике поширення блага
+120 phrin las bzhi yi me mchod [txt] Вогняне підношення чотирьох діяльностей
+121 ro thun mong mchod sbyin phrin las lhun grub [txt] Звичайне підношення трупів: спонтанне здійснення діяльності
+122 bskyed pa ma hA yo ga'i phrin las kyi las rim [txt] Послідовність діяльності махайоги генерації
+123 snying po don gyi gnas gsal zhes mi 'gyur rdo rje'i lam gyi chings [txt] Зв'язок шляху ваджри незмінного ясного розміщення сенсу серця
+124 rig sngags nus pa'i 'khrul 'khor [txt] Магічне колесо потужних віджаядхар-мантр
+125 skong ba dri med shel phreng [txt] Виконання: кришталеве намисто бездоганне
+126 dkyil 'khor gyi lha'i mngon rtogs rin po che'i phreng ba [txt] Реалізація божеств мандали: намисто коштовностей
+127 mchod sprin rin po che yid bzhin nam mkha'i sprin gyi phung po [txt] Хмари підношень коштовностей бажань: купа небесних хмар
+128 kha skong bstod pa'i rim pa [txt] Послідовність похвали-доповнення
+129 bde gshegs mthu rtsal rgyud bskul nus pa'i char 'bebs [txt] Злив дощу сили заклику тантри суґат
+130 bdud rtsi sman gyi las sgrub 'khor 'das mnyam grol [txt] Садхана діяльності нектарної медицини: рівне визволення сансари-нірвани
+131 bum sgrub phyi nang zung 'brel gzhan don byang sems kyi rang mdangs rdo rje'i chings [txt] Садхана вази зовнішньо-внутрішньо об'єднана: ваджрний зв'язок власного сяйва бодхічітти для інших
+132 smad las dgra bgegs bsgral las [txt] Нижня діяльність: визволення ворогів-перешкод
+133 zlog sham b+h+yos gdab [txt] Нанесення бхайос для відвернення
+134 zlog pa'i skabs bdag mdun bskyed bzlas dang bcas pa [txt] Під час відвернення: генерація себе спереду з повторенням
+135 zhi bzlog bden tshigs chos nyid rang grol gyi chings [txt] Мирне відвернення: зв'язок істинних слів спонтанного визволення дхармати
+136 gtor bzlog gi mtshams sbyar don bdun [txt] З'єднання відвернення торми: сім сенсів
+137 snying po don gyi bka'i bzlog pa bden stobs gnad 'dus kyi chings [txt] Відвернення слова сенсу серця: зв'язок сили істини зібрання ключів
+138 rkyen bzlog spu gri'i 'khor lo [txt] Відвернення обставин: колесо гривастого ножа
+139 sngags kyi thog mda' zor gyi las [txt] Діяльність мантрного блискавичного кинджала
+140 srung ma mchod phreng phrin las myur 'grub [txt] Намисто підношень захисницям: швидке здійснення діяльності
+141 dpal mgon gyi mchod phreng nyams pa snying 'dzin [txt] Намисто підношень славному захиснику: серце пошкоджених обітниць
+142 gsol mchod thugs dam skong ba [txt] Підношення-молитва виконання серцевих обітниць
+143 dpal mgon gyi mnga' gsol [txt] Молитва дозволу славному захиснику
+144 dpal mgon gyi gsang sgrub gnam lcags thog mda' [txt] Таємна садхана славного захисника: залізна блискавка
+145 byad ma rang gshed snying gzer nag po [txt] Самовбивця чорний цвях серця
+146 phrin las khyung gi las sgrub [txt] Садхана діяльності ґаруди
+147 srung bzlog kun thub 'khor lo [txt] Захист та відвернення: колесо всеподолання
+148 las tshogs sman gyi bdud rtsi'i bum pa [txt] Збірка діяльностей: ваза нектару медицини
+149 las bzhi'i las tshogs rdo rje slob dpon gyi las [txt] Збірка чотирьох діяльностей: діяльність ваджрного вчителя
+150 gu ru pad+ma 'byung gnas kyi mtshan brgya rtsa brgyad kyi bstod pa [txt] Похвала гуру Падмасамбхави ста вісьмома іменами
+151 sgrub pa bka' brgyad sngon 'gro rdo rje sems dpa'i dbang chog [txt] Ритуал посвячення Ваджрасаттви попередньої для садхани восьми вказівок
+152 dbang bzhi'i sngon 'gro khrus dbang [txt] Попереднє омивання для чотирьох посвячень
+153 sbyor ba slob ma 'jug pa'i cho ga rten 'brel zab mo [txt] Ритуал входу учня в з'єднання: глибока взаємозалежність
+154 rab gnas bkra shis char 'bebs [txt] Злив благословення освячення
+155 phrin las kha bsgyur sreg byed me'i las [txt] Діяльність вогню спалення з зміною рота діяльності
+
+rdzogs rim [sec] Завершення
+
+156 lo rgyus rin po che'i phreng ba [txt] Історія: намисто коштовностей
+157 gser gyi khang bu brtsegs pa'i rgyud [txt] Тантра зведеної золотої будівлі
+158 sgral las kyi don bzhi pa sogs kyi gdams phran [txt] Дрібні настанови четвертого сенсу визвольної діяльності тощо
+159 theg pa spyi'i rnam bshad dri med khang bu brtsegs pa [txt] Загальне пояснення яни: зведена будівля бездоганна
+160 zab mo nang gi rnam bshad rin po che'i khang bzang [txt] Глибоке внутрішнє пояснення: добра коштовна будівля
+161 lam 'bras bu dang bcas pa'i gdams pa gsang chen ye shes kyi snying po [txt] Настанова шляху з плодом: серце великої таємної мудрості
+162 rim gnyis gnyis med ye shes su bsre ba rdo rje snying po'i chings [txt] Зв'язок змішування двох етапів в недуальну мудрість: серце ваджри
+163 byang chub sems kyi dkyil 'khor mnyam nyid ye shes 'od gsal rdo rje'i chings [txt] Мандала бодхічітти: зв'язок ясного світла рівності мудрості ваджри
+
+las phran [sec] Дрібні діяльності
+
+07) Volume 7 [vol] Сьомий том
+
+164 gling bzhi'i spyi mdos [txt] Загальний мдо чотирьох континентів
+165 srid pa khod snyoms kyi mdos [txt] Мдо вирівнювання буття
+
+08) Volume 8 [vol] Восьмий том
+
+skor tsho drug pa/ tshe sgrub yang gsang bla med skor [sec] Шостий цикл: цикл практики життя найвищої таємної неперевершеної
+
+166 gnam lcags rdo rje tshe sgrub pa'i kha byang gsal ba'i nyi ma [txt] Інвентар практики життя залізного ваджри: ясне сонце
+167 gnam lcags rdo rje'i srog sgrub kyi rig 'dzin brgyud pa'i gsol 'debs [txt] Молитва лінії віджаядхар практики життя залізного ваджри
+168 tshe sgrub byin 'debs [txt] Благословення практики життя
+169 phrin las rang gzhung 'chi med lam bzang [txt] Добрий шлях безсмертя: діяльність власного тексту
+170 tshe 'gugs ye shes thugs rje'i lcags kyu [txt] Заклик життя: залізний гак мудрості-співчуття
+171 yang tshe 'gugs [txt] Додатковий заклик життя
+172 rdo rje tshe'i 'jug pa zab mo [txt] Глибокий вхід ваджрного життя
+173 rdo rje tshe'i nang sgrub 'chi med lha'i bdud rtsi [txt] Внутрішня практика ваджрного життя: нектар богів безсмертя
+174 dbang bzhi 'chi med lam bzang 'chi med bcud kyi bum bzang [txt] Добрий шлях безсмертя чотирьох посвячень: добра ваза есенції безсмертя
+175 tshe khrid rdo rje'i lcags kyu [txt] Настанова життя: залізний гак ваджри
+176 'chi ba brtag cing bslu ba'i gdams pa 'chi med tshe yi chu rgyun [txt] Настанова огляду смерті та обману: потік води безсмертного життя
+177 srung mtshams kyi spang blang shan 'byed [txt] Розрізнення утримання та уникання в практиці захисту
+178 tshe thar btang thabs kyi dbu'i gzigs phyogs [txt] Напрямок голови в методі звільнення життя
+179 'chi bdag gshin rje tshangs bzlog 'chi bdag bdud 'joms [txt] Відвернення Брахми владика смерті: знищення демона владика смерті
+180 tshe ring mched lnga'i gsol mchod 'dod rgu lhun grub [txt] Підношення-молитва п'яти довгожиттєвих сестер: спонтанне здійснення бажань
+
+shar shing sgo gangs kyi ra ba nas spyan drangs pa'i thugs rje chen po yang gsang bla med kyi skor/ [sec] Цикл великого співчуття найвищої таємної неперевершеної, запрошеного з огорожі Шінґґо Ґанґ
+
+181 thugs rje chen po yang gsang bla med kyi kha byang gsal ba'i nyi ma [txt] Інвентар великого співчуття найвищої таємної неперевершеної: ясне сонце
+182 thugs rje chen po yang gsang bla med kyi rtsa ba'i rgyud kyi rgyal po [txt] Корінний тантра-цар великого співчуття найвищої таємної неперевершеної
+183 thugs rje chen po'i phyi sgrub [txt] Зовнішня садхана великого співчуття
+184 brgyud pa'i gsol 'debs byin rlabs dbang gi chu bo [txt] Молитва лінії: потік благословення влади
+185 las byang tshogs gnyis chu gter [txt] Текст діяльності: великий океан двох накопичень
+186 thugs rje chen po'i nang sgrub [txt] Внутрішня садхана великого співчуття
+187 nyams shing chag pa bskang ba'i cho ga tshogs gnyis gter chen [txt] Ритуал виконання пошкоджених обітниць: великий скарб двох накопичень
+188 smin las dbang bzhi'i gdams pa zab lam bdud rtsi'i bcud chen [txt] Настанова чотирьох дозрівально-визвольних посвячень: великий нектар глибокого шляху
+189 yang gsang bla med kyi zab don mngon du bya ba til nyag gcig gi khrid [txt] Настанова єдиної сесамової зернини реалізації глибокого сенсу найвищої таємної неперевершеної
+190 sgrub chen 'gro ba spyi grol bde chen chos dbyings kyi khang bzang [txt] Велика садхана загального визволення істот: добра оселя дхармадхату великого блаженства
+191 btsan rgod rol pa rkya bdun gyi sgrub pa [txt] Практика семи диких гнівних цанів
+192 sbas yul 'bru klung mdo dge bsnyen dpal dgyes dar phyar la spring ba'i zhus len byas pa'i lo rgyus [txt] Історія відповіді на прохання монаха Палґ'є Дарпх'яр з прихованого місця Брулунґ Мдоґе
+
+mkha' 'gro snying thig yang gsang bla med kyi skor [sec] Цикл серця дакіні найвищої таємної неперевершеної
+
+193 mkha' 'gro snyan rgyud yid bzhin nor bu zhes lo rgyus dri ma med par grags pa [txt] Історія усної передачі дакіні: відомий як коштовність бажання без плям
+194 gsang ba tshig bdun gyi rgyud [txt] Тантра семи таємних слів
+195 yab 'phags pa'i rgyal po ltar bsnyen pa [txt] Практика наближення як благородний цар-батько
+196 gsol 'debs byin rlabs ye shes chu bo [txt] Молитва: потік благословення мудрості
+197 las byang phrin las lhun grub bla na med pa ye shes kyi 'jug pa tshogs gnyis rgya mtsho [txt] Текст діяльності спонтанного здійснення діяльності: океан двох накопичень входу мудрості неперевершеної
+
+yan lag gi sgrub skor [sec] Цикл садхан відгалужень
+
+198 zhi mdzad lha mo dkar mo'i sgrub pa [txt] Садхана мирнодійної білої богині
+199 zab mo nang gi tshogs mchod phung po mchod sbyin [txt] Глибока внутрішня ґаначакра: купа підношень
+
+rdzogs rim skor [sec] Цикл завершення
+
+200 mkha' 'gro'i gsang lam chen po'i sngon du 'gro ba'i lus sbyong [txt] Очищення тіла попереднє для великого таємного шляху дакіні
+201 dpal gyi gnas mchog shing dgu gangs ri yi gnas yig tshor ba rang grol [txt] Опис славетного місця Шінґу Ґанґрі: спонтанне визволення відчуття
+
+sgyu 'phrul gsang ba yang khol gyi skor [sec] Цикл таємного розкриття магічної ілюзії
+
+202 gsang ba sgyu 'phrul gyi dbang chog myong grol ye shes chu rgyun [txt] Ритуал посвячення таємної магічної ілюзії: потік реалізації-визволення мудрості
+203 sgyu 'phrul zhi khro'i sgom rim [txt] Етап медитації мирних і гнівних магічної ілюзії
+204 sgyu 'phrul drwa ba gsang ba'i snying po gsang ba yang gsang gi rgyud [txt] Тантра серця таємної магічної сітки: ще таємніше таємного
+205 sgyu 'phrul drwa ba chen po'i bskyed rdzogs zung 'jug gi khog dbub lam rim pra khrid [txt] Внутрішній сенс великої магічної сітки генерації-завершення об'єднання: послідовна ключова настанова
+206 man ngag gsal ba'i spra khrid gnad kyis mdo chings [txt] Ключова настанова ясних усних настанов: стислий суттю
+207 skyabs 'gro'i cho ga thar pa'i lam bzang [txt] Ритуал притулку: добрий шлях визволення
+208 las kyi spyod pa dben par 'jug pa rdo rje'i gtam [txt] Ваджрна розповідь входу в діяльність відокремлено
+209 ri chos thar pa chen po'i lam bzang [txt] Добрий шлях великого визволення гірських вчень
+210 theg pa'i gsal 'debs gsal ba'i lam bzang [txt] Добрий шлях ясного заклику яни
+211 theg pa'i gsal 'debs gsal ba'i lam bzang don gsal nor bu'i phreng ba bka' 'dus zab rgya rdo rje'i snying po [txt] Намисто коштовностей, серце глибокого океану об'єднаних вказівок ваджри
+212 theg pa'i gsal 'debs gsal ba'i lam bzang gi don gsal rin po che'i phreng ba [txt] Ясний сенс доброго шляху ясного заклику яни: намисто коштовностей
+213 sman bla bde gshegs bdun gyi smon lam dang kha skong [txt] Аспірація та доповнення семи суґат-лікарів
+214 ma nor lam gyi mdo [txt] Сутра шляху без помилок
+215 gegs sel brgya lnga bcu pa [txt] Усунення перешкод сто п'ятдесят
+216 rang byung gsang ba snying po'i dkyil 'khor [txt] Мандала спонтанного серця таємниці
+
+skor tsho brgyad pa/ phreng ba skor gsum [sec] Восьмий цикл: три цикли намист
+
+11) Volume 11 [vol] Одинадцятий том
+
+217 rig 'dzin klong gsal snying po'i gsung thor bu mu tig phreng ba [txt] Розкидані промови Ріґдзіна Клонґ ґсал снінґ по: намисто перлин
+218 nyams mgur pad ma'i phreng ba [txt] Пісні досвіду: лотосове намисто
+
+12) Volume 12 [vol] Дванадцятий том
+
+219 dag snang nor bu'i phreng ba [txt] Намисто коштовностей чистих видінь
+220 pad+ma 'od kyi zhing khams kyi rtogs pa rjod pa'i skabs [txt] Розділ вираження реалізації чистої землі Падми Світла
+
+skor tsho dgu pa/ 'thor bu sna tshogs dang bsngo smon bkra shis gyi skor [sec] Дев'ятий цикл: цикл різноманітних розкиданих та присвят і благословень
+
+221 sngon 'gro blo ldog rnam bzhi'i khrid 'khor ba zhen log ma [txt] Настанова чотирьох повернень ума попередніх: мати відвернення від сансари
+222 lam khyer [txt] Взяти на шлях
+223 rdzogs pa chen po mtha' grol chos nyid klong yangs [txt] Велика досконалість звільнення меж: простір дхармати
+224 'jam dbyangs ril bu bsdu rbabs [txt] Збірка пігулок Манджушрі
+225 sngags 'cham chas gsol mnga' gsol dmigs gsal [txt] Молитва дозволу на танець мантр: ясне споглядання
+226 gsol 'debs [txt] Молитва
+227 zab mo gcod kyi gdams pa gdan thog gcig ma'i dbu phyogs [txt] Настанова глибокого чод: головний напрямок однієї сесії
+228 rgyas 'debs smon lam gyi skor nor bu bsam 'phel [txt] Цикл розширених аспірацій: коштовність здійснення задумів
+229 gu ru drag po'i yang gsang gi hUM sgrub [txt] Практика найтаємнішого ХУМ гнівного гуру
+230 hon bsrung [txt] Захист хон
+
+2025 (с) Лонгчен Осал
