@@ -93,9 +93,9 @@
        321 B @#/_/klong chen 'od gsal snying thig/ tshogs/ Ганачакра Лонгчен Осал
    11.73 KiB @#/_/klong chen 'od gsal snying thig/ ye shes lnga'i thig le dkyil 'khor/ Мандала Тігл'є Г'ялчен і Тогал
    85.37 KiB @#/_/klong chen rab 'byams pa dri med 'od zer/ dkar chag/ Палацек: Спадщина Предків. Зібрання творів Лонгчена Рабджама Безплямного Сяйва.
+    8.73 KiB @#/_/klong chen rab 'byams pa dri med 'od zer/ mthar thug yid bzhin snying po/ Кінцева Сутність Виконання Бажань Лонгчена Рабджама
     1.86 KiB @#/_/klong chen rab 'byams pa dri med 'od zer/ mun sel skor gsum dkar chag/ Трилогія розсіювання темряви: коментар на Гух'ягарбгу тантру
     9.87 KiB @#/_/klong chen rab 'byams pa dri med 'od zer/ ngal gso skor gsum dkar chag/ Трилогія відпочинку з 14 текстів
-    8.73 KiB @#/_/klong chen rab 'byams pa dri med 'od zer/ nges don byang chub snying po/ Кінцева Сутність Виконання Бажань Лонгчена Рабджама
     6.65 KiB @#/_/klong chen rab 'byams pa dri med 'od zer/ nges don byang chub snying po/ Остаточна Сутність Пробудження Лонгчена Рабджама
     4.76 KiB @#/_/klong chen rab 'byams pa dri med 'od zer/ rang grol skor gsum dkar chag/ Трилогія самозвільнення. Настанови по Семде
    75.86 KiB @#/_/klong chen rab 'byams pa dri med 'od zer/ rang grol skor gsum/ Про трилогію самозвільнення
@@ -217,4 +217,4 @@
 
 Загальний розмір вмісту творів з українським перекладом: 7.04 MiB
 Кількість унікальних творів: 216
-Оброблено файлів: 374
+Оброблено файлів: 375
