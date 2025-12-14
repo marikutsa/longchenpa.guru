@@ -179,8 +179,8 @@
   164.48 KiB @#/_/mkha' 'gro'i chos mdzod chen mo/ dkar chag/ Велика скарбниця Дгарми Дакіні
     1.12 KiB @#/_/nam mkha'i nor bu/ dkar chag/ Перелік вчень Намкая Норбу (в правильній послідовності)
    14.57 KiB @#/_/nam mkha'i nor bu/ nam mkha'i nor bu'i gsung rtsom phyogs bsgrigs/ dkar chag/ Збірка праць Намкая Норбу
-   49.93 KiB @#/_/nyang ral nyi ma 'od.zer/ bka' brgyad bde bshegs 'dus pa'i chos skor dkar chag/ Цикл вчень про Союз Восьмеричного Благого
    16.98 KiB @#/_/nyi ma 'od zer/ dpal rdo rje phag mo khros ma nag mo'i gsang ba thugs kyi sgrub pa'i rgyun khyer snying por dril ba bde chen myur lam/ Гнівна Чорна
+   49.92 KiB @#/_/nyi ma 'od.zer/ bka' brgyad bde bshegs 'dus pa'i chos skor dkar chag/ Цикл вчень про Союз Восьмеричного Благого
   115.63 KiB @#/_/nyi ma grags pa/ dkar chag/ Збірка праць Ньїма Дракпа
     6.05 KiB @#/_/nyi ma grags pa/ dzam b+ha la'i chu sbyin zur gsal sgom sde pas sbyar ba bzhugs/ Піднесення води червоному Дзамбалі
     6.07 KiB @#/_/nyi ma grags pa/ dzam b+ha la'i chu sbyin zur gsal sgom sde pas sbyar ba bzhugs/ Піднесення води червоному Дзамбалі Німи Дракпа
@@ -224,4 +224,4 @@
 
 Загальний розмір вмісту творів з українським перекладом: 6.97 MiB
 Кількість унікальних творів: 223
-Оброблено файлів: 369
+Оброблено файлів: 370
