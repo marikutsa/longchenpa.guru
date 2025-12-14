@@ -12,7 +12,11 @@
 @#/_/'jigs med gling pa/ yon tan rin po che'i mdzod dga' ba'i char zhes bya ba/ Йонтен Рінпоче Дзо
 @#/_/'jigs med gling pa/ yon tan rin po che'i mdzod dga' ba'i char/ Йонтен Рінпоче Дзо: Скарбниця Коштовних Якостей (,,173)
 @#/_/'ju mi pham/ byin brlabs char 'bebs/ A Shower of Blessings: A Guru Yoga Practice to Accompany the Seven-Line Prayer
-@#/_/bai ro tsa na/ gnyis pa byin rlabs dbang gi skor la sngon 'gro'i chos spyod bzhugs so/_/
+@#/_/DA ki gsang spyod kyi sgrub thabs bzhugs so//
+@#/_/DA ki ma'i mkha' 'gro ma'i zhal gdams/
+@#/_/DA ki sde gsum gyi sngags 'bum logs su bkol ba bzhugs/
+@#/_/a yu mkha' 'gro/ rnam thar/ Біографія Аю Кхандро
+@#/_/bai ro tsa na/ gnyis pa byin rlabs dbang gi skor la sngon 'gro'i chos spyod bzhugs so/
 @#/_/bai ro tsa na/ rdzogs pa chen po klong sde rdo rje zam pa'i bla brgyud gsol 'debs ni/ Молитви лінії передачі Лонгде Ваджрного Мосту
 @#/_/bai ro tsa na/ rigs 'dzin rnams kyi zhal chems/ Заповіт Володарів Знань
 @#/_/bai ro tsa na/ snyan brgyud rda rje zam pa'i nyams khrid sgom gyi yi ge gsal ba'i sgron ma/ Світлоносна лампа ясного письма: настанови з практики досвіду Ваджрного Мосту усної традиції
@@ -36,9 +40,6 @@
 @#/_/chos kyi blo gros/ 'phags pa bzang po spyod pa'i smon lam gyi rgyal po zhes bya ba bzhugs so/ Кх'єнце Чокі Лодро. Короткий спосіб практики молитви Самантабхадри
 @#/_/chos kyi grags pa/ spyod 'jug 'grel ba las/ Bodhicaryāvatāra Overview
 @#/_/chos la mi brten rkyen gyis grol ba'i dpe bzhugs/
-@#/_/DA ki gsang spyod kyi sgrub thabs bzhugs so//
-@#/_/DA ki ma'i mkha' 'gro ma'i zhal gdams/
-@#/_/DA ki sde gsum gyi sngags 'bum logs su bkol ba bzhugs/
 @#/_/dbang chog che ba'i dkyil 'khor gyi tshon tho ni/
 @#/_/dpe rnying rtsa chen par ma'i skor phyogs bsdus/ kun mkhyen dri med 'od zer gyi rnam thar mthong ba don ldan/
 @#/_/dung mtsho ras pa phyi ma/ rdzogs pa chen po yang ti nag po gser gyi 'bru gcig pa'i gnad kyi gdams pa rgyud kyi snying po/ Розповідь Дака Шаті
@@ -51,6 +52,7 @@
 @#/_/dung mtsho ras pa phyi ma/ yang ti nag po thugs thig/ Янгті Накпо Туктік
 @#/_/dung mtsho ras pa phyi ma/ yang ti'i snyan rgyud yi ge med pa'o/ Передача Янгті Накпо без письма
 @#/_/dus bzhi'i rnal 'byor gyi lung bzhugs so/
+@#/_/gnam chos/ gnam chos thugs kyi gter kha'i zur rgyan zhi khro bsam gtan cho ga/ Орнамент скарбниці розуму Намчо: Ритуал споглядання Жітро
 @#/_/gsang sngags rgyud 'bum gyi skor bzhugs so/ Кунду Рігпей До: Сутра єднання повного ваджра усвідомлення
 @#/_/gsung 'bum/ dri med 'od zer/ dpal brtsegs/ mes po'i shul bzhag/ dri med 'od zer gyi rnam thar mthong ba don ldan/
 @#/_/gsung 'bum/ dri med 'od zer/ dpal brtsegs/ mes po'i shul bzhag/ klong chen rab 'byams pa dri med 'od zer gyi rnam thar mdor bsdus/
@@ -58,8 +60,21 @@
 @#/_/gu ru chos dbang/ bla ma gsang 'dus las gsungs pa'i khyad par bla sgrub tshig bdun gsol 'debs bzhugs/ Семирядкова молитва Падмасамбхави
 @#/_/gu ru chos dbang/ gter ma dkar chag/ Індекс творів Гуру Чованга
 @#/_/gu ru chos dbang/ na ra ka skong bshags/ Нарак Коншаґ Гуру Чованга
-@#/_/klong chen 'od gsal mkha' 'gro snying thig/ dkar chag/ Перелік праць циклу Лонгсал Намкая Норбу
+@#/_/klong chen 'od gsal mkha' 'gro'i snying thig/ 'byung lnga'i sngags kyis sbyang ba ni/ Очищеня п'яти елементів
+@#/_/klong chen 'od gsal mkha' 'gro'i snying thig/ a dkar bla ma'i rnal 'byor/ Гуру-Йога білого А
+@#/_/klong chen 'od gsal mkha' 'gro'i snying thig/ badz+ra gu ru bla ma'i rnal 'byor/ Гуру-йога Падмасабхави
+@#/_/klong chen 'od gsal mkha' 'gro'i snying thig/ badz+ra satwa/ Практика Ваджрасатви
+@#/_/klong chen 'od gsal mkha' 'gro'i snying thig/ brgyud/ Перелік передач Лонгсал
+@#/_/klong chen 'od gsal mkha' 'gro'i snying thig/ dga' rab rdo rje/ Молитва Гарабу Дордже
+@#/_/klong chen 'od gsal mkha' 'gro'i snying thig/ dkar chag/ Перелік праць циклу Лонгсал Намкая Норбу
+@#/_/klong chen 'od gsal mkha' 'gro'i snying thig/ e ka tsa Ti'i skong 'phrin ni/ Заклик Екаджаті
+@#/_/klong chen 'od gsal mkha' 'gro'i snying thig/ rdo rje'i glu/ Пісня Ваджри
+@#/_/klong chen 'od gsal mkha' 'gro'i snying thig/ skyabs sems ni/ Притулок Лонгсал
+@#/_/klong chen 'od gsal mkha' 'gro'i snying thig/ tshogs bsdus ni/ Коротка Ганапуджа Рігдзіна Джікме Лінгпи
+@#/_/klong chen 'od gsal mkha' 'gro'i snying thig/ u rgyan ma hA gu ru gsol 'debs ni/ Заклик до Великого Гуру з Уддіяни
+@#/_/klong chen 'od gsal mkha' 'gro'i snying thig/ yang ti a dkar/ Янгті Білого А
 @#/_/klong chen 'od gsal snying thig/ chos sde'i bca' yig/ Чодеї Чаїк: Статут Релігійної Організації "Лонгчен Нінгтік" ім. Лонгчена Рабджама
+@#/_/klong chen 'od gsal snying thig/ dkar chag/ Лонгчен Осал: Коментар на Зміст
 @#/_/klong chen rab 'byams pa dri med 'od zer/ 'pho ba 'od gsal snying po/
 @#/_/klong chen rab 'byams pa dri med 'od zer/ bde gshegs rigs lnga'i phyi sgrub/
 @#/_/klong chen rab 'byams pa dri med 'od zer/ bsam gtan ngal gso skor gsum gyi spyi don legs bshad rgya mtsho zhes bya ba bzhugs so/
@@ -123,6 +138,9 @@
 @#/_/klong chen snying thig/ brgyud gsol 'debs/ Молитва лінії передачі Лонгчен Осал
 @#/_/klong chen snying thig/ rdzogs chen pa rang byung rdo rje'i don gyi rnam thar do ha'i rgyan ces bya ba bzhugs/ Автобіографія Ранджунга Дордже
 @#/_/klong gsal mkha' 'gro snying thig/ dkar chag/ Індекс Лонгсал Кхандро Нінгтік Пема Дечена Лінгпи
+@#/_/klong gsal snying po/ dkar chag/ Збірка глибоких скарбів Ріґдзіна Клонґсала Нінґпо 
+@#/_/klong gsal snying po/ klong gsal rdo rje snying po rnam thar/ Біографія Лонгсала Дордже Ньїнгпо
+@#/_/klong gsal snying po/ thun mong sngon 'gro'i khrid kyi ngag 'don/ Лонгсал Дордже Нінгпо Ньондро
 @#/_/kun mkhyen dri med 'od zer gyi rnam thar mthong ba don ldan bzhugs so/
 @#/_/lha mo gtum mo la dgyes pa'i bstod pa/
 @#/_/ma smin smin par byed pa sgo gsum las kyi spyod pa bzhugs so/
@@ -149,7 +167,6 @@
 @#/_/mkha' 'gro snying thig/ snying tig gi bla ma'i rnal 'byor/ Гуру Йога Кхандро Нінгтік
 @#/_/mkha' 'gro'i chos mdzod chen mo/ dkar chag/ Велика скарбниця Дгарми Дакіні
 @#/_/myang shes rab 'byung gnas kyis rgyu sems can la/
-@#/_/nam mkha'i nor bu/ dkar chag/ Збірка праць Намкхая Норбу
 @#/_/nam mkha'i nor bu/ dkar chag/ Перелік вчень Намкая Норбу (в правильній послідовності)
 @#/_/nam mkha'i nor bu/ nam mkha'i nor bu'i gsung rtsom phyogs bsgrigs/ dkar chag/ Збірка праць Намкая Норбу
 @#/_/nyams len gyi snying po rna brgyud rdo rje zam pa'i brgyud pa tha ma'i man ngag bzhugs/
@@ -201,6 +218,7 @@
 @#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ man ngag sde/ rig pa rang shar/
 @#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ man ngag sde/ sgra thal 'gyur/ Примордіальний Звук
 @#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ man ngag sde/ yi ge med pa'i rgyud/
+@#/_/rong ston pad+ma bde chen gling pa/ rnam thar/ Біографія Ронгтона Пема Дечена Лінгпи
 @#/_/rong zom chos kyi bzang po/ rnam thar/ Біографія Ронгдзома Махапандіти
 @#/_/s+t+waMgs bu'i zhal gdams ni/
 @#/_/sangs rgyas gling pa/ gter chos dkar chag/ Зміст відкриттів великого тертона Санг'є Лінгпи
