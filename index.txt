@@ -26,10 +26,8 @@
    14.21 KiB @#/_/chos kyi blo gros/ 'phags pa bzang po spyod pa'i smon lam gyi rgyal po zhes bya ba bzhugs so/ Кх'єнце Чокі Лодро. Короткий спосіб практики молитви Самантабхадри
    12.73 KiB @#/_/dung mtsho ras pa phyi ma/ rdzogs pa chen po yang ti nag po gser gyi 'bru gcig pa'i gnad kyi gdams pa rgyud kyi snying po/ Розповідь Дака Шаті
    23.67 KiB @#/_/dung mtsho ras pa phyi ma/ rdzogs pa chen po yang ti nag po gser gyi 'bru gcig pa'i lo rgyus/ Історія Унікального Золотого Складу Янгті
-   39.90 KiB @#/_/dung mtsho ras pa phyi ma/ rdzogs pa chen po yang ti nag po gser gyi 'bru gcig pa'i sngon 'gro khrid rim gyi ngag 'don nyung ngu gud du phyung ba/ Ньондро Янгті Накпо
-   39.86 KiB @#/_/dung mtsho ras pa phyi ma/ rdzogs pa chen po yang ti nag po gser gyi 'bru gcig pa'i sngon 'gro khrid rim gyi ngag 'don nyung ngu gud du phyung ba/ Янгті Накпо Ньондро Кхрід Рім
-   30.09 KiB @#/_/dung mtsho ras pa phyi ma/ rdzogs pa chen po yang ti nag po gser gyi 'bru gcig pa'i sngon 'gro'i ming mi shes pa/ Настанови по Ньондро Янгті Накпо
-   30.04 KiB @#/_/dung mtsho ras pa phyi ma/ rdzogs pa chen po yang ti nag po gser gyi 'bru gcig pa'i sngon 'gro'i ming mi shes pa/ Янгті Накпо Ньондро Мінгмі Шепа
+   39.91 KiB @#/_/dung mtsho ras pa phyi ma/ rdzogs pa chen po yang ti nag po gser gyi 'bru gcig pa'i sngon 'gro khrid rim gyi ngag 'don nyung ngu gud du phyung ba/ Янгті Накпо Ньондро Кхрід Рім
+   30.09 KiB @#/_/dung mtsho ras pa phyi ma/ rdzogs pa chen po yang ti nag po gser gyi 'bru gcig pa'i sngon 'gro'i ming mi shes pa/ Янгті Накпо Ньондро Мінгмі Шепа
     3.09 KiB @#/_/dung mtsho ras pa phyi ma/ rnam thar/ Біографія Дунгцо Ріпи Молодшого
     3.37 KiB @#/_/dung mtsho ras pa phyi ma/ yab yum tshams la kha mkha' lam las pa la phab pa yin pa'i las mi bsam pa/ Молитва лінії передачі Янгті Накпо
    11.39 KiB @#/_/dung mtsho ras pa phyi ma/ yang ti nag po gser gyi 'bru gcig pa dkar chag/ Зміст Янгті Накпо
@@ -58,8 +56,7 @@
        325 B @#/_/klong chen 'od gsal mkan' 'gro snying thig/ sa bdag dang 'jig rten pa'i srung ma/ Бхумі Паті Локакапали
    13.23 KiB @#/_/klong chen 'od gsal mkha' 'gro snying thig/ 'byung lnga'i sngags kyis sbyang ba ni/ Очищеня п'яти елементів
     5.28 KiB @#/_/klong chen 'od gsal mkha' 'gro snying thig/ 'od gsal/ Практика Ясного Світла
-    2.86 KiB @#/_/klong chen 'od gsal mkha' 'gro snying thig/ a dkar bla ma'i rnal 'byor/ Гуру-Йога білого А
-       170 B @#/_/klong chen 'od gsal mkha' 'gro snying thig/ a dkar bla ma'i rnal 'byor/ Гуру-йога білого А
+       170 B @#/_/klong chen 'od gsal mkha' 'gro snying thig/ a dkar bla ma'i rnal 'byor/ Гуру-Йога білого А
     4.40 KiB @#/_/klong chen 'od gsal mkha' 'gro snying thig/ badz+ra gu ru bla ma'i rnal 'byor/ Гуру-йога Падмасабхави
     5.18 KiB @#/_/klong chen 'od gsal mkha' 'gro snying thig/ badz+ra satwa/ Практика Ваджрасатви
        237 B @#/_/klong chen 'od gsal mkha' 'gro snying thig/ bla ma rnal 'byor/ Гуру-Йога
@@ -123,8 +120,7 @@
    12.16 KiB @#/_/klong chen snying thig rtsa pod/ gzhi lam 'bras bu'i smon lam/ Молитва Основи, Шляху і Плоду (057,,348)
        635 B @#/_/klong chen snying thig rtsa pod/ nang gsang rnal 'byor/ Таємна Гуру Йога
    35.31 KiB @#/_/klong chen snying thig rtsa pod/ nang sgrub rig 'dzin 'dus pa/ Зібрання Від'ядхар Лонгчен Нінгтік (011,011,277)
-       475 B @#/_/klong chen snying thig rtsa pod/ phyi sgrub bla ma'i rnal 'byor/ Зовнішня Гуру-йога
-   34.22 KiB @#/_/klong chen snying thig rtsa pod/ phyi sgrub bla ma'i rnal 'byor/ Зовнішня Гуру-йога (007,007,271)
+       489 B @#/_/klong chen snying thig rtsa pod/ phyi sgrub bla ma'i rnal 'byor/ Зовнішня Гуру-йога (007,007,271)
    13.97 KiB @#/_/klong chen snying thig rtsa pod/ pra ni dha/ Океан Сідхів: Вступ в Обитель Всевідання (060,,350)
    58.41 KiB @#/_/klong chen snying thig rtsa pod/ rab gsal nyi 'od rnam par snang ba'i rgyan/ Осяйна Окраса Сяючого Сонячного Світла
        353 B @#/_/klong chen snying thig rtsa pod/ rdo rje gsung/ Мантра ваджрного мовлення
@@ -180,7 +176,6 @@
    16.98 KiB @#/_/nyi ma 'od zer/ dpal rdo rje phag mo khros ma nag mo'i gsang ba thugs kyi sgrub pa'i rgyun khyer snying por dril ba bde chen myur lam/ Гнівна Чорна
    49.92 KiB @#/_/nyi ma 'od.zer/ bka' brgyad bde bshegs 'dus pa'i chos skor dkar chag/ Цикл вчень про Союз Восьмеричного Благого
   115.63 KiB @#/_/nyi ma grags pa/ dkar chag/ Збірка праць Ньїма Дракпа
-    6.05 KiB @#/_/nyi ma grags pa/ dzam b+ha la'i chu sbyin zur gsal sgom sde pas sbyar ba bzhugs/ Піднесення води червоному Дзамбалі
     6.07 KiB @#/_/nyi ma grags pa/ dzam b+ha la'i chu sbyin zur gsal sgom sde pas sbyar ba bzhugs/ Піднесення води червоному Дзамбалі Німи Дракпа
     8.09 KiB @#/_/nyi ma grags pa/ phag mo nag mo'i zab thig las: mkha' 'gro sgrub pa'i mtshan rtags/ З Глибокої Краплі Чорної Ваджрайогіні: Знаки Практики Дакині
    49.97 KiB @#/_/nyi ma grags pa/ rnam thar/ Автобіографія Ньїма Дракпа
@@ -203,7 +198,7 @@
   218.44 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ klong sde/ klong chen rab 'byams rgyal po/ Лонгчен Рабджам Г'ялпо: Корінна тантра обширного простору
   103.77 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ klong sde/ Чистий Учитель Просвітленого Мислення, що міститься у всьому
    65.85 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ man ngag sde/ ngo sprod spras pa/ Тантра Упадеші: Прикраса прямого знайомства
-    1.14 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ man ngag sde/ nyi lza kha sbyor/ Ньїда Кхаджор
+    1.18 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ man ngag sde/ nyi zla kha sbyor/ Ньїда Кхаджор (тільки пісня Ваджра)
   226.70 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ man ngag sde/ nyi zla kha sbyor/ Тантра Союзу Сонця і Місяця з розділу Таємних Настанов Аті-йоги
   169.65 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ man ngag sde/ sgra thal 'gyur/ Примордіальний Звук
    25.03 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ man ngag sde/ yi ge med pa/ Їге Медпа
@@ -221,6 +216,6 @@
    25.23 KiB @#/_/snyan brgyud rin po che'i nyams kyi phreng bka' brgyud nyams kyi phreng ba'o/ Н'єнг'ю Рінпоче Н'ямкі Тренгва: Гірлянда досвіду коштовної усної лінії
       1012 B @#/_/tsong kha pa blo bzang grags pa/ dmigs brtse ma/ Мігме Цевей Терчен
 
-Загальний розмір вмісту творів з українським перекладом: 7.16 MiB
-Кількість унікальних творів: 222
-Оброблено файлів: 373
+Загальний розмір вмісту творів з українським перекладом: 7.05 MiB
+Кількість унікальних творів: 217
+Оброблено файлів: 374
