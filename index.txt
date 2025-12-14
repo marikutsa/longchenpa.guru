@@ -12,6 +12,8 @@
     4.27 KiB @#/_/bai ro tsa na/ rdzogs pa chen po klong sde rdo rje zam pa'i bla brgyud gsol 'debs ni/ Молитви лінії передачі Лонгде Ваджрного Мосту
     3.97 KiB @#/_/bai ro tsa na/ rigs 'dzin rnams kyi zhal chems/ Заповіт Володарів Знань
        271 B @#/_/bai ro tsa na/ snyan brgyud rda rje zam pa'i nyams khrid sgom gyi yi ge gsal ba'i sgron ma/ Світлоносна лампа ясного письма: настанови з практики досвіду Ваджрного Мосту усної традиції
+    8.82 KiB @#/_/bai ro tsa na/ snyan brgyud rin po che'i nyams kyi phreng bka' brgyud nyams kyi phreng ba'o/ Н'єнг'ю Рінпоче Н'ямкі Тренгва (wylie)
+   25.25 KiB @#/_/bai ro tsa na/ snyan brgyud rin po che'i nyams kyi phreng bka' brgyud nyams kyi phreng ba'o/ Н'єнг'ю Рінпоче Н'ямкі Тренгва: Гірлянда досвіду коштовної усної лінії
    80.96 KiB @#/_/bdud 'joms gling pa gter chos/ dkar chag/ Індекс творів Дуджома Лінгпи
    69.30 KiB @#/_/bi ma snying thig/ bstan pa bu gcig gi rgyud gser gyi snying po nyi ma rab tu snang byed/ Золоті Літери: Тантра Єдиного Сина Вчення, Золоте Серце, Сонце, що Яскраво Сяє
     5.73 KiB @#/_/bi ma snying thig/ dkar chag/ Віма Нінгтік Карчак. Версія Єше Де Тартанга Тулку
@@ -211,9 +213,8 @@
    14.57 KiB @#/_/shAkya shrI/ dkar chag/ Зібрання творів Тогдена Шак'я Шрі
   254.05 KiB @#/_/shAkya shrI/ rnam thar/ Сіту Рінпоче. Історія звільнення Вищого Ваджра Утримувача, Преподобного Майстра Шак'я Шрі Джняна
    32.37 KiB @#/_/shri sing ha/ sher snying 'grel pa sngags su 'grel pa bzhugs/ Шрі Сінга: Розкриття значення Мантри в Сутрі Серця
-   25.23 KiB @#/_/snyan brgyud rin po che'i nyams kyi phreng bka' brgyud nyams kyi phreng ba'o/ Н'єнг'ю Рінпоче Н'ямкі Тренгва: Гірлянда досвіду коштовної усної лінії
       1012 B @#/_/tsong kha pa blo bzang grags pa/ dmigs brtse ma/ Мігме Цевей Терчен
 
-Загальний розмір вмісту творів з українським перекладом: 7.04 MiB
-Кількість унікальних творів: 215
-Оброблено файлів: 375
+Загальний розмір вмісту творів з українським перекладом: 7.05 MiB
+Кількість унікальних творів: 216
+Оброблено файлів: 376

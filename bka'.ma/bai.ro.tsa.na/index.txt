@@ -7,6 +7,8 @@
     4.27 KiB @#/_/bai ro tsa na/ rdzogs pa chen po klong sde rdo rje zam pa'i bla brgyud gsol 'debs ni/ Молитви лінії передачі Лонгде Ваджрного Мосту
     3.97 KiB @#/_/bai ro tsa na/ rigs 'dzin rnams kyi zhal chems/ Заповіт Володарів Знань
        271 B @#/_/bai ro tsa na/ snyan brgyud rda rje zam pa'i nyams khrid sgom gyi yi ge gsal ba'i sgron ma/ Світлоносна лампа ясного письма: настанови з практики досвіду Ваджрного Мосту усної традиції
+    8.82 KiB @#/_/bai ro tsa na/ snyan brgyud rin po che'i nyams kyi phreng bka' brgyud nyams kyi phreng ba'o/ Н'єнг'ю Рінпоче Н'ямкі Тренгва (wylie)
+   25.25 KiB @#/_/bai ro tsa na/ snyan brgyud rin po che'i nyams kyi phreng bka' brgyud nyams kyi phreng ba'o/ Н'єнг'ю Рінпоче Н'ямкі Тренгва: Гірлянда досвіду коштовної усної лінії
     1.83 KiB @#/_/bde ba stobs ldan ma'i sgrub thabs bzhugs/
    18.27 KiB @#/_/brgyud las btus pa'i rdo rje zam pa'i dam tshig nyi shu pa bzhugs so/
     2.66 KiB @#/_/bsre ba rnam bzhi'i zhal gdams bzhugs so/
@@ -41,8 +43,6 @@
    13.87 KiB @#/_/snyan brgyud rdo rje zam pa'i nyams khrid sgrom gyi yi ge gsal ba'i sgron ma bzhugs/
     3.07 KiB @#/_/snyan brgyud rdo rje zam pa'i zhal 'dzeng d+harma bo d+hi'i gal chen gyi gdams pa zhes pa de 'di yin nam/
    12.10 KiB @#/_/snyan brgyud rin po che rdo rje zam pa'i sgom khrid kyi lag len 'o la jo sras kyi bcud rgya sgom gyi snod du blugs pa bzhugs so/
-    8.75 KiB @#/_/snyan brgyud rin po che'i nyams kyi phreng bka' brgyud nyams kyi phreng ba'o/
-   25.23 KiB @#/_/snyan brgyud rin po che'i nyams kyi phreng bka' brgyud nyams kyi phreng ba'o/ Н'єнг'ю Рінпоче Н'ямкі Тренгва: Гірлянда досвіду коштовної усної лінії
     2.09 KiB @#/_/thig le gor ba dang rtsa kha sdom pa'i man ngag bzhugs/
     2.45 KiB @#/_/yongs su ma smin pa'i sems can ngan song gi gnas las srung/
     1.41 KiB @#/_/zam chung bsdus pa thun cig ma bzhugs so/
@@ -52,6 +52,6 @@
     2.56 KiB @#/_/zhal gdams kun tu bzang po thugs ye shes kyi me long gi ye shes 'di la lnga ste/
     2.51 KiB @#/_/zla ba bzhi pa'i 'chi ltas brtag pa bzhugs/
 
-Загальний розмір вмісту творів усіх унікальних: 480.96 KiB
+Загальний розмір вмісту творів усіх унікальних: 481.05 KiB
 Кількість унікальних творів: 53
 Оброблено файлів: 5
