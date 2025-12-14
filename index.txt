@@ -106,8 +106,7 @@
    23.61 KiB @#/_/klong chen rab 'byams pa dri med 'od zer/ snying thig ya bzhi/ dar thang glog klad par ma/ Індекс Нінгтік Ябжі колекції Єше Де Тартанга Тулку
    28.40 KiB @#/_/klong chen snying thig rtsa pod/ a 'dzom 'brug pa'i dkar chag/ Зміст корінних томів Лонгчен Нінгтік у 3 томах від Адзома Друкпи. Деге.
    11.66 KiB @#/_/klong chen snying thig rtsa pod/ bla brgyud gsol 'debs gsung rgyun/ Устна молитва лінії передачі Лонгчен Нінгтік
-   11.18 KiB @#/_/klong chen snying thig rtsa pod/ bla ma drag po rta khyung 'bar ba/ Лама Дракпо Так'юнг Барва
-    7.97 KiB @#/_/klong chen snying thig rtsa pod/ bla ma drag po rta khyung 'bar ba/ Лама Дракпо Так'юнг Барва (054,075,)
+   11.19 KiB @#/_/klong chen snying thig rtsa pod/ bla ma drag po rta khyung 'bar ba/ Лама Дракпо Так'юнг Барва (054,075,)
     9.35 KiB @#/_/klong chen snying thig rtsa pod/ brgyud 'debs byin rlabs char rgyun/ Злива Благословінь: Молитва Лінії Передачі Лонгчен Нінгтік (010,010,)
       1012 B @#/_/klong chen snying thig rtsa pod/ brgyud gsol 'debs/ Молитва лінії передачі Лонгчен Осал
     1.67 KiB @#/_/klong chen snying thig rtsa pod/ brgyud pa'i gsol 'debs byin rlabs sprin mdzes zhes bya ba bzhugs/ Молитва лінії передачі Лонгчен Нінгтік
@@ -216,6 +215,6 @@
    25.23 KiB @#/_/snyan brgyud rin po che'i nyams kyi phreng bka' brgyud nyams kyi phreng ba'o/ Н'єнг'ю Рінпоче Н'ямкі Тренгва: Гірлянда досвіду коштовної усної лінії
       1012 B @#/_/tsong kha pa blo bzang grags pa/ dmigs brtse ma/ Мігме Цевей Терчен
 
-Загальний розмір вмісту творів з українським перекладом: 7.05 MiB
-Кількість унікальних творів: 217
+Загальний розмір вмісту творів з українським перекладом: 7.04 MiB
+Кількість унікальних творів: 216
 Оброблено файлів: 374

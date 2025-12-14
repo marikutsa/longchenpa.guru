@@ -20,7 +20,7 @@
     2.30 KiB @#/_/klong chen 'od gsal mkan' 'gro snying thig/ rdo rje'i glu/ Пісня Ваджра
        325 B @#/_/klong chen 'od gsal mkan' 'gro snying thig/ sa bdag dang 'jig rten pa'i srung ma/ Бхумі Паті Локакапали
     5.28 KiB @#/_/klong chen 'od gsal mkha' 'gro snying thig/ 'od gsal/ Практика Ясного Світла
-       170 B @#/_/klong chen 'od gsal mkha' 'gro snying thig/ a dkar bla ma'i rnal 'byor/ Гуру-йога білого А
+       170 B @#/_/klong chen 'od gsal mkha' 'gro snying thig/ a dkar bla ma'i rnal 'byor/ Гуру-Йога білого А
        237 B @#/_/klong chen 'od gsal mkha' 'gro snying thig/ bla ma rnal 'byor/ Гуру-Йога
        305 B @#/_/klong chen 'od gsal mkha' 'gro snying thig/ sras mo go ma de byi/ Практика Довгого Життя Дакіні Гомадеві
        896 B @#/_/klong chen 'od gsal mkha' 'gro snying thig/ tshe sgrub rdo rje sogs thig gya/ Практика Довгого Життя Мандарави
@@ -44,12 +44,12 @@
    29.30 KiB @#/_/klong chen 'od gsal snying thig/ thod rgal gyi mdog gsal gyi snang ba/ Радіантні кольори Тогал
        321 B @#/_/klong chen 'od gsal snying thig/ tshogs/ Ганачакра Лонгчен Осал
    11.73 KiB @#/_/klong chen 'od gsal snying thig/ ye shes lnga'i thig le dkyil 'khor/ Мандала Тігл'є Г'ялчен і Тогал
-   11.18 KiB @#/_/klong chen snying thig rtsa pod/ bla ma drag po rta khyung 'bar ba/ Лама Дракпо Так'юнг Барва
+   11.19 KiB @#/_/klong chen snying thig rtsa pod/ bla ma drag po rta khyung 'bar ba/ Лама Дракпо Так'юнг Барва (054,075,)
     3.95 KiB @#/_/klong chen snying thig rtsa pod/ dge bsngo/ Посвята накопичення заслуг і мудрості
    43.53 KiB @#/_/klong chen snying thig rtsa pod/ gcod yul mkha' 'gro'i gad rgyangs bzhugs/ Лонгчен Нінгтік: Сміх Дакіні
   160.78 KiB @#/_/klong chen snying thig rtsa pod/ gdod ma'i mgon po'i lam gyi rim pa 'i khrid yig ye shes bla ma zhes bya ba bzhugs/ Кхрід Їк Єше Лама (079,122,408)
        635 B @#/_/klong chen snying thig rtsa pod/ nang gsang rnal 'byor/ Таємна Гуру Йога
-       475 B @#/_/klong chen snying thig rtsa pod/ phyi sgrub bla ma'i rnal 'byor/ Зовнішня Гуру-йога
+       489 B @#/_/klong chen snying thig rtsa pod/ phyi sgrub bla ma'i rnal 'byor/ Зовнішня Гуру-йога (007,007,271)
    58.41 KiB @#/_/klong chen snying thig rtsa pod/ rab gsal nyi 'od rnam par snang ba'i rgyan/ Осяйна Окраса Сяючого Сонячного Світла
        353 B @#/_/klong chen snying thig rtsa pod/ rdo rje gsung/ Мантра ваджрного мовлення
        174 B @#/_/klong chen snying thig rtsa pod/ rdo rje sems dpa'/ Дордже Семпа
@@ -78,6 +78,6 @@
    25.03 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ man ngag sde/ yi ge med pa/ Їге Медпа
    32.37 KiB @#/_/shri sing ha/ sher snying 'grel pa sngags su 'grel pa bzhugs/ Шрі Сінга: Розкриття значення Мантри в Сутрі Серця
 
-Загальний розмір вмісту творів з українським перекладом: 958.57 KiB
+Загальний розмір вмісту творів з українським перекладом: 958.60 KiB
 Кількість унікальних творів: 79
 Оброблено файлів: 2
