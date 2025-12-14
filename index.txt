@@ -216,10 +216,11 @@
    11.56 KiB @#/_/se ra mkha' 'gro kun bzang/ rdo rje phag mo'i rtsa sgrub bsdus pa rgyun khyer 'od gsal snying po/ Червона
    34.61 KiB @#/_/se ra mkha' 'gro kun bzang/ rdo rje phag mo'i sgrub thabs rdo rje'i rgya can shin tu zab pa/ Червона 60
    14.57 KiB @#/_/shAkya shrI/ dkar chag/ Зібрання творів Тогдена Шак'я Шрі
+  254.05 KiB @#/_/shAkya shrI/ rnam thar/ Сіту Рінпоче. Історія звільнення Вищого Ваджра Утримувача, Преподобного Майстра Шак'я Шрі Джняна
    32.37 KiB @#/_/shri sing ha/ sher snying 'grel pa sngags su 'grel pa bzhugs/ Шрі Сінга: Розкриття значення Мантри в Сутрі Серця
    25.23 KiB @#/_/snyan brgyud rin po che'i nyams kyi phreng bka' brgyud nyams kyi phreng ba'o/ Н'єнг'ю Рінпоче Н'ямкі Тренгва: Гірлянда досвіду коштовної усної лінії
       1012 B @#/_/tsong kha pa blo bzang grags pa/ dmigs brtse ma/ Мігме Цевей Терчен
 
-Загальний розмір вмісту творів з українським перекладом: 6.91 MiB
-Кількість унікальних творів: 221
+Загальний розмір вмісту творів з українським перекладом: 7.16 MiB
+Кількість унікальних творів: 222
 Оброблено файлів: 373
