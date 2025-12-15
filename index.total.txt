@@ -237,11 +237,11 @@
     2.89 KiB @#/_/pad gling thugs sras 05 kun bzang 'gyur med mchog grub/ rgyal ba klong chen pa'i rnam thar/
     9.86 KiB @#/_/pad+ma 'byung gnas/ brjod med don gyi bshags pa/
     2.23 KiB @#/_/pad+ma 'od gsal mtha' yas/ gter chen dri med 'od zer gyi rnam thar bsdus pa rin po che'i snye ma/
-   90.13 KiB @#/_/pad+ma gling pa'i gter chos/ dkar chag/ Збірка одкровень Падма Лінгпи
-   40.68 KiB @#/_/pad+ma gling pa'i gter skor/ dkar chag/ Збірка терма Пема Лінгпи
+   90.14 KiB @#/_/pad+ma gling pa/ gter chos dkar chag/ 21-томна збірка одкровень Пема Лінгпи
+   40.69 KiB @#/_/pad+ma gling pa/ gter skor dkar chag/ 7-томна збірка терма Пема Лінгпи
     7.15 KiB @#/_/phyogs kyi glang po/ dmigs pa brtag pa'i 'grel pa/
     2.01 KiB @#/_/phyogs kyi glang po/ dmigs pa brtag pa/
-   36.45 KiB @#/_/rat+na gling pa/ gter chos dkar chag/ Зібрання творів Ранта Лінгпи
+   36.46 KiB @#/_/rat+na gling pa/ gter chos dkar chag/ 19-томне зібрання творів Ранта Лінгпи
     2.07 KiB @#/_/rdo rje zam pa'i man ngag nying khu bzhugs/
     4.87 KiB @#/_/rdo rje zam pa'i mkha' 'gro rnam gsum gyi sgrub thabs bzhugs/
     6.90 KiB @#/_/rdo rje zam pa'i tshe chog nyung du bzhugs so/
@@ -261,21 +261,22 @@
     9.26 KiB @#/_/rnam dag ston pa/ chos mchog chen po'i rgyud las klong lnga rtog rdzogs kyi gnad yig/ Тантра Дгармоттари: Запис сутнісних пунктів п'яти просторів досконалої обчислювальної логіки
     7.65 KiB @#/_/rnam dag ston pa/ dri med 'od zer rnam thar gi 'dra zhib dpyad pa/ Порівняльний аналіз біографій Лонгчена Рабджама
    10.72 KiB @#/_/rnam dag ston pa/ rnam 'phrul bcu gnyis/ 12 проявів Гуру Рінпоче
-   73.58 KiB @#/_/rnying ma rgyud 'bum/ 'jigs med gling pa'i dkar chag/ Каталог Тантр Древніх Джікме Лінгпи
-   12.57 KiB @#/_/rnying ma rgyud 'bum/ bai ro'i dkar chag/ Зібрання тантр древніх Вайрочани
-   44.00 KiB @#/_/rnying ma rgyud 'bum/ bsam gtan snying gi nyi ma/ Сонце Серця Вайрочани
-    4.23 KiB @#/_/rnying ma rgyud 'bum/ dgra med rtse dkar chag/ Зібрання тантр древніх Драмеце
-   67.58 KiB @#/_/rnying ma rgyud 'bum/ dpal brtsegs/ Зібрання тантр древніх Палцег
-   29.33 KiB @#/_/rnying ma rgyud 'bum/ gting skyes dgon pa/ Зібрання тантр древніх Тінк'є
-   51.96 KiB @#/_/rnying ma rgyud 'bum/ mtshams brag dkar chag/ Зібрання тантр древніх Цамдрак
-   76.66 KiB @#/_/rnying ma rgyud 'bum/ ngag dbang lhun grub grags pa/ Зібрання тантр древніх Нгаванга Лхундруба Дракпи
-   25.79 KiB @#/_/rnying ma rgyud 'bum/ rig 'dzin tshe dbang nor bu'i dkar chag/ Зібрання тантр древніх Рігдзіна Цеванга Норбу
+   73.58 KiB @#/_/rnying ma rgyud 'bum/ dkar chag/ 'jigs med gling pa/ Каталог Тантр Древніх Джікме Лінгпи
+   12.58 KiB @#/_/rnying ma rgyud 'bum/ dkar chag/ bai ro tsa na/ Зібрання тантр древніх Вайрочани
+   44.02 KiB @#/_/rnying ma rgyud 'bum/ dkar chag/ bsam gtan snying gi nyi ma/ Сонце Серця Вайрочани
+    4.23 KiB @#/_/rnying ma rgyud 'bum/ dkar chag/ dgra med rtse/ Зібрання тантр древніх Драмеце
+   67.59 KiB @#/_/rnying ma rgyud 'bum/ dkar chag/ dpal brtsegs/ Зібрання тантр древніх Палцег
+   29.34 KiB @#/_/rnying ma rgyud 'bum/ dkar chag/ gting skyes dgon pa/ Зібрання тантр древніх Тінк'є
+   51.96 KiB @#/_/rnying ma rgyud 'bum/ dkar chag/ mtshams brag/ Зібрання тантр древніх Цамдрак
+   76.67 KiB @#/_/rnying ma rgyud 'bum/ dkar chag/ ngag dbang lhun grub grags pa/ Зібрання тантр древніх Нгаванга Лхундруба Дракпи
+   25.79 KiB @#/_/rnying ma rgyud 'bum/ dkar chag/ rig 'dzin tshe dbang nor bu/ Зібрання тантр древніх Рігдзіна Цеванга Норбу
+   40.06 KiB @#/_/rnying ma rgyud 'bum/ dkar chag/ sde dge/ Зібрання тантр древніх Деге
+  279.42 KiB @#/_/rnying ma rgyud 'bum/ dkar chag/ sgang steng/ Зібрання тантр древніх Гантенга
+   54.63 KiB @#/_/rnying ma rgyud 'bum/ dkar chag/ thub bstan nyi ma rin po che/ Зібрання тантр древніх Рігдзіна Цеванга Норбу
    13.07 KiB @#/_/rnying ma rgyud 'bum/ rjes su rnal 'byor/ dkon rgyud bcu gnyis/ zhi ba lha rgyud/
    43.87 KiB @#/_/rnying ma rgyud 'bum/ rjes su rnal 'byor/ mtha' drug gsal bar byed pa/ Тантра Великого Самантабгадри, що перебуває у собі самому
    34.20 KiB @#/_/rnying ma rgyud 'bum/ rjes su rnal 'byor/ rtsa ba'i mdo bzhi/ dgongs pa 'dus pa'i mdo/ Гонпа Дюпей До: Зібрання наміру Будд
        200 B @#/_/rnying ma rgyud 'bum/ rjes su rnal 'byor/ rtsa ba'i mdo bzhi/ kun 'dus rig pa'i mdo/ Кунду Рігпей До: Сутра єднання повного ваджра усвідомлення
-   40.06 KiB @#/_/rnying ma rgyud 'bum/ sde dge dkar chag/ Зібрання тантр древніх Деге
-  279.42 KiB @#/_/rnying ma rgyud 'bum/ sgang steng dkar chag/ Зібрання тантр древніх Гантенга
    12.80 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal 'byor/ sems sde/ bde ba 'phra bkod/ Інкрустована прикраса блаженства
    11.09 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal 'byor/ sems sde/ byang chub sems bsgom pa/ Медитація просвітленого розуму
    17.43 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal 'byor/ sems sde/ rig pa'i khu byug/ Зозуля Усвідомлення: Семде Тантра
@@ -294,7 +295,6 @@
   169.67 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ man ngag sde/ sgra thal 'gyur/ Дра Талг'юр: Примордіальний Звук
    25.04 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ man ngag sde/ yi ge med pa'i rgyud/ Їге Мепа
    25.03 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ man ngag sde/ yi ge med pa/ Їге Медпа
-   54.62 KiB @#/_/rnying ma rgyud 'bum/ thub bstan nyi ma rin po che/ Зібрання тантр древніх Рігдзіна Цеванга Норбу
     3.87 KiB @#/_/rong ston pad+ma bde chen gling pa/ rnam thar/ Біографія Ронгтона Пема Дечена Лінгпи
    21.90 KiB @#/_/rong zom chos kyi bzang po/ rnam thar/ Біографія Ронгдзома Махапандіти
     6.27 KiB @#/_/s+t+waMgs bu'i zhal gdams ni/
