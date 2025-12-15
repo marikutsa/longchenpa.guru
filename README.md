@@ -57,7 +57,7 @@ $ fc-match Geometria
 ліцензію і відправивши відповідний пулл реквест через Github.
 
 ```
-$ cat */*.txt */*/*.txt */*/*/*.txt */*/*/*/*.txt | grep "@#/_/" | sort | uniq | wc -l
+$ ./index.rb > index.txt
 ```
 
 Контакти
