@@ -158,7 +158,6 @@
    43.76 KiB @#/_/klong gsal snying po/ thun mong sngon 'gro'i khrid kyi ngag 'don/ Лонгсал Дордже Нінгпо Ньондро
     4.06 KiB @#/_/ma gcig kun dga' 'bum/ rnam thar/ Біографія Мачік Кунги Бум
     9.11 KiB @#/_/mkha' 'gro kun bzang/ rnam thar/ Кхандро Кунзанг Намтар
-   16.50 KiB @#/_/mkha' 'gro snying thig/ 'od gsal/ Осал практика Ясного Світла
    11.36 KiB @#/_/mkha' 'gro snying thig/ 'od gsal/ Практика Ясного Світла
    13.75 KiB @#/_/mkha' 'gro snying thig/ (dpal brtsegs/ mes po'i shul bzhag) [col] Зібрання творів Лонгчен Рабджама (Палцег / Спадщина предків)
     7.35 KiB @#/_/mkha' 'gro snying thig/ bla brgyud lo rgyus/ Історія Лінії Гуру Серцевої Сутності Дакіні Остаточної Довершеності з Кхандро Нінгтік
@@ -242,6 +241,6 @@
    32.37 KiB @#/_/shri sing ha/ sher snying 'grel pa sngags su 'grel pa bzhugs/ Шрі Сінга: Розкриття значення Мантри в Сутрі Серця
     1.03 KiB @#/_/tsong kha pa blo bzang grags pa/ dmigs brtse ma/ Мігцема: Молитва Же Цонкапі Лобсангу Дракпі
 
-Загальний розмір вмісту творів з українським перекладом: 16.76 MiB
-Кількість унікальних творів: 243
+Загальний розмір вмісту творів з українським перекладом: 16.75 MiB
+Кількість унікальних творів: 242
 Оброблено файлів: 377
