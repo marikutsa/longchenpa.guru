@@ -1,0 +1,46 @@
+@#/_/jo mo sman mo/ dkar chag/ Зміст циклу терма «Секретне зібрання всіх дакінь» Джомо Менмо
+
+01) pod dang po [vol] Перший том
+
+001 phag mo 'dus pa'i dbang bskur [txt] Посвячення об’єднання Варахі
+002 rdo rje phag mo'i gtor dbang [txt] Посвячення тори Ваджраварахі
+003 rdo rje phag mo'i 'phrin las [txt] Діяльність Ваджраварахі
+004 dpa' bo dpa' mo'i sgrub thabs [txt] Садхана героїв і героїнь
+005 rdo rje phag mo'i mchod skong [txt] Підношення і доповнення Ваджраварахі
+006 rdo rje phag mo'i tshe sgrub [txt] Садхана довголіття Ваджраварахі
+007 rdo rje phag mo'i nor sgrub [txt] Садхана багатства Ваджраварахі
+008 rdo rje phag mo'i dbang sdud [txt] Зібрання посвячення Ваджраварахі
+009 rdo rje phag mo'i zor las [txt] Діяльність магічного кинджала Ваджраварахі
+010 rdo rje phag mo'i zab khrid [txt] Глибоке керівництво Ваджраварахі
+011 brgyud pa'i gsol 'debs pad+ma'i rgyud mangs [txt] Молитва лінії передачі «Багатострунний лотос»
+012 rim gnyis rgyun gyi rnal 'byor [txt] Щоденна йога двох стадій
+013 sngon 'gro dkar bgegs [txt] Попередні практики: біле усунення перешкод
+014 sman mchod [txt] Підношення ліків
+015 'dzab dbye [txt] Розрізнення мантр
+016 mkha' 'gro gsang ba kun 'dus las: rgyun gyi tshogs skong mdor bsdus [txt] З «Секретного зібрання всіх дакінь»: коротке щоденне доповнення зібрання
+017 tshogs mchod nyer bsdus [txt] Коротке підношення зібрання
+018 mkha' 'gro gsang 'dus chad tho [txt] Реєстр порушень «Секретного зібрання дакінь»
+019 mkha' 'gro gsang ba kun 'dus mchod bstod [txt] Підношення і хвала «Секретного зібрання всіх дакінь»
+020 'byung lnga'i skong sham [txt] Доповнення п’яти елементів
+021 mkha' 'gro gsang 'dus rjes chog [txt] Подальші ритуали «Секретного зібрання дакінь»
+022 mkha' 'gro gsang 'dus mchod bstod [txt] Підношення і хвала «Секретного зібрання дакінь»
+023 mkha' 'gro'i smre bshags [txt] Сповідь і очищення дакінь
+024 mkha' 'gro gsang 'dus 'gres byang [txt] Очищення боргів «Секретного зібрання дакінь»
+025 mkha' 'gro gsang 'dus ril bsgrub ngag 'don [txt] Читання мантр для садхани пілуль «Секретного зібрання дакінь»
+026 phag mo'i nye bsnyen [txt] Близький ретрит Варахі
+027 mkha' 'gro gsang 'dus zur 'debs [txt] Додаткові молитви «Секретного зібрання дакінь»
+028 mkha' gro gsang 'dus bka' srung gtor 'bul [txt] Підношення тори захисникам доктрини «Секретного зібрання дакінь»
+029 mkha' 'gro gsang 'dus bskul byang [txt] Заклик «Секретного зібрання дакінь»
+030 mkha' 'gro gsang 'dus 'pho rdzas [txt] Субстанції перенесення «Секретного зібрання дакінь»
+031 mkha' 'gro gsang 'dus skong mdos [txt] Ритуал доповнення з нитками «Секретного зібрання дакінь»
+032 rdo rje phag mo'i rtsa ba'i phrin las [txt] Коренева діяльність Ваджраварахі
+033 mkha' 'gro gsang ba kun 'dus kyi bdag 'jug [txt] Входження господаря в «Секретне зібрання всіх дакінь»
+034 mkha' 'gro gsang ba kun 'dus kyi gnas lung [txt] Пророцтво місця «Секретного зібрання всіх дакінь»
+035 mkha' 'gro gsang 'dus kyi sbyin sreg [txt] Спалення підношення «Секретного зібрання дакінь»
+036 mkha' 'gro gsang 'dus kyi sman sgrub [txt] Садхана ліків «Секретного зібрання дакінь»
+037 mkha' 'gro gsang 'dus kyi sgrub khog [txt] Внутрішня структура садхани «Секретного зібрання дакінь»
+038 mkha' 'gro gsang 'dus kyi 'don zin [txt] Примітки до читання «Секретного зібрання дакінь»
+
+Source: https://library.bdrc.io/show/bdr:MW23175
+
+2025 (c) Лонгчен Осал
