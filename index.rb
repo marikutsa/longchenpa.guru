@@ -32,8 +32,7 @@ def human_size(bytes)
 end
 
 to_size.keys.sort.each do |header|
-  title = header.split('/').last.strip
-  has_ua = title.match?(/[\u0400-\u04FF\u0500-\u052F\u2DE0-\u2DFF\uA640-\uA69F\u1C80-\u1C8F]/)
+  has_ua = header.match?(/[\u0400-\u04FF\u0500-\u052F\u2DE0-\u2DFF\uA640-\uA69F\u1C80-\u1C8F]/)
   next if FILTER_UA_ONLY && !has_ua
   bytes = to_size[header]
   total += bytes

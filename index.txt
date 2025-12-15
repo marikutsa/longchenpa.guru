@@ -16,6 +16,7 @@
    80.96 KiB @#/_/bdud 'joms gling pa gter chos/ dkar chag/ Індекс творів Дуджома Лінгпи
    69.30 KiB @#/_/bi ma snying thig/ bstan pa bu gcig gi rgyud gser gyi snying po nyi ma rab tu snang byed/ Золоті Літери: Тантра Єдиного Сина Вчення, Золоте Серце, Сонце, що Яскраво Сяє
     5.73 KiB @#/_/bi ma snying thig/ dkar chag/ Віма Нінгтік Карчак. Версія Єше Де Тартанга Тулку
+  108.06 KiB @#/_/bi ma snying thig/ klong chen pa'i bi ma lo rgyud/ Історія лінії передачі Віма Нінгтік
    30.72 KiB @#/_/bi ma snying thig/ rdo rje 'chang gis gsungs pa mchod 'os rang bzhin gyi tshig dus gnad nges pa/ Золоті Літери: Серце Вімаламітри.
    17.99 KiB @#/_/bi ma snying thig/ rigs 'dzin gyi 'das rjes bzhi zhar 'byung dang bcas pa/ Золоті Літери: Тантра чотирьох явлень спадщини Від'ядгар, що виникають разом
    30.65 KiB @#/_/bi ma snying thig/ sgom nyams drug pa/ Віма Нінгтік. Заповіти чотирьох Від'ядгар: Шість медитативних досвідів Манджушрімітри.
@@ -24,6 +25,7 @@
        406 B @#/_/bi ma snying thig/ sngon 'gro/ Ньондро Віма Нінгтік
    15.68 KiB @#/_/bi ma snying thig/ ye shes mdo'i bzhag thabs bzhi yod/ Чотири способи саморозміщення (bzhag thabs bzhi)
     1.27 KiB @#/_/bya bral sangs rgyas rdo rje/ nam mkha'i nor bu rin po che'i zhabs brtan gsol 'debs/ Молитва Намкаю Норбу і його послідовникам
+    2.00 KiB @#/_/byang chub rdo rje/ nyag la rin po che rig 'dzin byang chub rdo rje'i rnam thar/ Някла Рінпоче Рігдзін Чангчуб Дордже (1826 - 1967/1978)
    14.21 KiB @#/_/chos kyi blo gros/ 'phags pa bzang po spyod pa'i smon lam gyi rgyal po zhes bya ba bzhugs so/ Кх'єнце Чокі Лодро. Короткий спосіб практики молитви Самантабхадри
    12.73 KiB @#/_/dung mtsho ras pa phyi ma/ rdzogs pa chen po yang ti nag po gser gyi 'bru gcig pa'i gnad kyi gdams pa rgyud kyi snying po/ Розповідь Дака Шаті
    23.67 KiB @#/_/dung mtsho ras pa phyi ma/ rdzogs pa chen po yang ti nag po gser gyi 'bru gcig pa'i lo rgyus/ Історія Унікального Золотого Складу Янгті
@@ -99,6 +101,7 @@
     1.19 MiB @#/_/klong chen rab 'byams pa dri med 'od zer/ drub mtha' mdzod/ Групта Дзо: Скарбниця філософських систем
    81.10 KiB @#/_/klong chen rab 'byams pa dri med 'od zer/ gnas lugs mdzod/ Нелук Дзо: Скарбниця природньої довершеності
   458.29 KiB @#/_/klong chen rab 'byams pa dri med 'od zer/ man ngag mdzod/ Маннгак Дзо: Скарбниця таємних настанов
+    2.57 KiB @#/_/klong chen rab 'byams pa dri med 'od zer/ mdzod bdun dkar chag a 'dzom par ma/ Зміст Семи Скабниць Лонгченпи видання Адзом Чогара https://library.bdrc.io/show/bdr:MW1PD8
     8.73 KiB @#/_/klong chen rab 'byams pa dri med 'od zer/ mthar thug yid bzhin snying po/ Кінцева Сутність Виконання Бажань Лонгчена Рабджама
     1.86 KiB @#/_/klong chen rab 'byams pa dri med 'od zer/ mun sel skor gsum dkar chag/ Трилогія розсіювання темряви: коментар на Гух'ягарбгу тантру
     9.87 KiB @#/_/klong chen rab 'byams pa dri med 'od zer/ ngal gso skor gsum dkar chag/ Трилогія відпочинку з 14 текстів
@@ -246,6 +249,6 @@
    32.37 KiB @#/_/shri sing ha/ sher snying 'grel pa sngags su 'grel pa bzhugs/ Шрі Сінга: Розкриття значення Мантри в Сутрі Серця
     1.03 KiB @#/_/tsong kha pa blo bzang grags pa/ dmigs brtse ma/ Мігцема: Молитва Же Цонкапі Лобсангу Дракпі
 
-Загальний розмір вмісту творів з українським перекладом: 16.95 MiB
-Кількість унікальних творів: 247
+Загальний розмір вмісту творів з українським перекладом: 17.06 MiB
+Кількість унікальних творів: 250
 Оброблено файлів: 382
