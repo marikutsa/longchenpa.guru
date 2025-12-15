@@ -14,11 +14,9 @@ PATTERNS.each do |pattern|
   Dir.glob(pattern).each do |file|
     next unless File.file?(file)
     File.foreach(file, encoding: 'UTF-8') do |line|
-      line  = line.encode('UTF-8', invalid: :replace, undef: :replace, replace: '?')
-      size  = line.bytesize
-      tmp   = line.strip
-      tmp.start_with?('@#/_/') ? (to_size[header] ||= bytes if header; header, bytes = tmp, size) : (bytes += size if header)
-    end
+      size, tmp = line.bytesize, line.scrub.strip
+      tmp.start_with?('@#/_/') ? (to_size[header] ||= bytes if header
+                header, bytes = tmp, size) : (bytes += size if header) end
     to_size[header] ||= bytes if header
     header = bytes = nil
   end
