@@ -26,7 +26,7 @@
     2.16 MiB @#/_/bha ra ta/ rol mo'i bstan bcos/ Natyashastra by Bharata
    69.30 KiB @#/_/bi ma snying thig/ bstan pa bu gcig gi rgyud gser gyi snying po nyi ma rab tu snang byed/ Золоті Літери: Тантра Єдиного Сина Вчення, Золоте Серце, Сонце, що Яскраво Сяє
     5.73 KiB @#/_/bi ma snying thig/ dkar chag/ Віма Нінгтік Карчак. Версія Єше Де Тартанга Тулку
-  108.00 KiB @#/_/bi ma snying thig/ klong chen pa'i bi ma lo rgyud/
+  108.06 KiB @#/_/bi ma snying thig/ klong chen pa'i bi ma lo rgyud/ Історія лінії передачі Віма Нінгтік
        142 B @#/_/bi ma snying thig/ kun mkhyen dri med 'od zer gyi rnam thar mthong ba don ldan/
    30.72 KiB @#/_/bi ma snying thig/ rdo rje 'chang gis gsungs pa mchod 'os rang bzhin gyi tshig dus gnad nges pa/ Золоті Літери: Серце Вімаламітри.
    17.99 KiB @#/_/bi ma snying thig/ rigs 'dzin gyi 'das rjes bzhi zhar 'byung dang bcas pa/ Золоті Літери: Тантра чотирьох явлень спадщини Від'ядгар, що виникають разом
@@ -38,6 +38,7 @@
    18.27 KiB @#/_/brgyud las btus pa'i rdo rje zam pa'i dam tshig nyi shu pa bzhugs so/
     2.66 KiB @#/_/bsre ba rnam bzhi'i zhal gdams bzhugs so/
     1.27 KiB @#/_/bya bral sangs rgyas rdo rje/ nam mkha'i nor bu rin po che'i zhabs brtan gsol 'debs/ Молитва Намкаю Норбу і його послідовникам
+    2.00 KiB @#/_/byang chub rdo rje/ nyag la rin po che rig 'dzin byang chub rdo rje'i rnam thar/ Някла Рінпоче Рігдзін Чангчуб Дордже (1826 - 1967/1978)
     3.64 KiB @#/_/chos grags bzang po/ klong chen rab 'byams pa dri med 'od zer gyi rnam thar/
    14.21 KiB @#/_/chos kyi blo gros/ 'phags pa bzang po spyod pa'i smon lam gyi rgyal po zhes bya ba bzhugs so/ Кх'єнце Чокі Лодро. Короткий спосіб практики молитви Самантабхадри
     4.64 KiB @#/_/chos kyi grags pa/ spyod 'jug 'grel ba las/ Bodhicaryāvatāra Overview
@@ -54,17 +55,18 @@
     6.04 KiB @#/_/dung mtsho ras pa phyi ma/ yang ti nag po thugs thig/ Туктіки Янгті Накпо
    16.92 KiB @#/_/dung mtsho ras pa phyi ma/ yang ti'i snyan rgyud yi ge med pa'o/ Передача Янгті Накпо без письма
     4.80 KiB @#/_/dus bzhi'i rnal 'byor gyi lung bzhugs so/
+  143.14 KiB @#/_/gnam chos/ dkar chag/ Зміст циклу терма «Небесне вчення» (Намчо) Мінґ’юра Дордже
        210 B @#/_/gnam chos/ dkar gtor/ Офіра білого торма Намчо
    17.35 KiB @#/_/gnam chos/ dpal chen mgon po bdun chu rtsa gnyis/ 72 Величних і Славних Гомпо Намчо
    14.80 KiB @#/_/gnam chos/ gnam chos thugs kyi gter kha'i zur rgyan zhi khro bsam gtan cho ga/ Орнамент скарбниці розуму Намчо: Ритуал споглядання Жітро
    29.61 KiB @#/_/gnam chos/ mi 'gyur rdo rje rnam thar/ Мінг'юр Дордже Намтар
-  369.03 KiB @#/_/gsang sngags rgyud 'bum gyi skor bzhugs so/ Кунду Рігпей До: Сутра єднання повного ваджра усвідомлення
     3.42 KiB @#/_/gsung 'bum/ dri med 'od zer/ dpal brtsegs/ mes po'i shul bzhag/ dri med 'od zer gyi rnam thar mthong ba don ldan/
     5.71 KiB @#/_/gsung 'bum/ dri med 'od zer/ dpal brtsegs/ mes po'i shul bzhag/ klong chen rab 'byams pa dri med 'od zer gyi rnam thar mdor bsdus/
    14.13 KiB @#/_/gu ru chos dbang/ bka' 'gyur ro cog gi snying po bsdus pa'i gzungs bzhugs so/ Гуру Чованг: Дхарані Суті Канжура
     6.89 KiB @#/_/gu ru chos dbang/ bla ma gsang 'dus las gsungs pa'i khyad par bla sgrub tshig bdun gsol 'debs bzhugs/ Семирядкова молитва Падмасамбхави
     2.54 KiB @#/_/gu ru chos dbang/ gter ma dkar chag/ Індекс творів Гуру Чованга
    57.02 KiB @#/_/gu ru chos dbang/ na ra ka skong bshags/ Нарак Коншаґ Гуру Чованга
+    4.66 KiB @#/_/jo mo sman mo/ dkar chag/ Зміст циклу терма «Секретне зібрання всіх дакінь» Джомо Менмо
        210 B @#/_/klong chen 'od gsal mkan' 'gro snying thig/ dkyil 'khor/ Мандала
        192 B @#/_/klong chen 'od gsal mkan' 'gro snying thig/ gu ru drag po/ Гуру Кродха Дракпо
        218 B @#/_/klong chen 'od gsal mkan' 'gro snying thig/ gza' bdud/ Кета Ракша Рахула
@@ -199,7 +201,6 @@
    21.37 KiB @#/_/mi 'gyur rdo rje/ rnam thar/
     9.11 KiB @#/_/mkha' 'gro kun bzang/ rnam thar/ Кхандро Кунзанг Намтар
    14.34 KiB @#/_/mkha' 'gro ma'i mngon spyod kyi dngos grub blang ba bzhugs/
-   16.50 KiB @#/_/mkha' 'gro snying thig/ 'od gsal/ Осал практика Ясного Світла
    11.36 KiB @#/_/mkha' 'gro snying thig/ 'od gsal/ Практика Ясного Світла
    13.75 KiB @#/_/mkha' 'gro snying thig/ (dpal brtsegs/ mes po'i shul bzhag) [col] Зібрання творів Лонгчен Рабджама (Палцег / Спадщина предків)
     7.35 KiB @#/_/mkha' 'gro snying thig/ bla brgyud lo rgyus/ Історія Лінії Гуру Серцевої Сутності Дакіні Остаточної Довершеності з Кхандро Нінгтік
@@ -222,6 +223,9 @@
     1.88 KiB @#/_/mkha' 'gro snying thig/ yang ti gser gyi 'bru gcig pa'i rgyud/ Тантра Унікального Золотого Складу Янгті
   164.48 KiB @#/_/mkha' 'gro'i chos mdzod chen mo/ dkar chag/ Велика скарбниця Дгарми Дакіні
     5.05 KiB @#/_/myang shes rab 'byung gnas kyis rgyu sems can la/
+   25.39 KiB @#/_/nam mkha' 'jigs med/ gsung 'bum/ dkar chag/ Збірка праць Намкха Джігме
+   11.81 KiB @#/_/nam mkha' 'jigs med/ rdo rje snying po sprin gyi thol glu/ dkar chag/ Зміст циклу «Ваджрна суть пісня хмар»
+   22.37 KiB @#/_/nam mkha' 'jigs med/ rig 'dzin srog sgrub/ dkar chag/ Зміст циклу «Держатель мудрості садхана життя» Намка Джигме
     1.12 KiB @#/_/nam mkha'i nor bu/ dkar chag/ Перелік вчень Намкая Норбу (в правильній послідовності)
    14.57 KiB @#/_/nam mkha'i nor bu/ nam mkha'i nor bu'i gsung rtsom phyogs bsgrigs/ dkar chag/ Збірка праць Намкая Норбу
    23.01 KiB @#/_/nyams len gyi snying po rna brgyud rdo rje zam pa'i brgyud pa tha ma'i man ngag bzhugs/
@@ -276,15 +280,15 @@
    13.07 KiB @#/_/rnying ma rgyud 'bum/ rjes su rnal 'byor/ dkon rgyud bcu gnyis/ zhi ba lha rgyud/
    43.87 KiB @#/_/rnying ma rgyud 'bum/ rjes su rnal 'byor/ mtha' drug gsal bar byed pa/ Тантра Великого Самантабгадри, що перебуває у собі самому
    34.20 KiB @#/_/rnying ma rgyud 'bum/ rjes su rnal 'byor/ rtsa ba'i mdo bzhi/ dgongs pa 'dus pa'i mdo/ Гонпа Дюпей До: Зібрання наміру Будд
-       200 B @#/_/rnying ma rgyud 'bum/ rjes su rnal 'byor/ rtsa ba'i mdo bzhi/ kun 'dus rig pa'i mdo/ Кунду Рігпей До: Сутра єднання повного ваджра усвідомлення
+  369.22 KiB @#/_/rnying ma rgyud 'bum/ rjes su rnal 'byor/ rtsa ba'i mdo bzhi/ kun 'dus rig pa'i mdo/ Кунду Рігпей До: Сутра єднання повного ваджра усвідомлення
    12.80 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal 'byor/ sems sde/ bde ba 'phra bkod/ Інкрустована прикраса блаженства
    11.09 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal 'byor/ sems sde/ byang chub sems bsgom pa/ Медитація просвітленого розуму
    17.43 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal 'byor/ sems sde/ rig pa'i khu byug/ Зозуля Усвідомлення: Семде Тантра
     8.31 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal 'byor/ sems sde/ rin po che kun 'dus rig pa/ Коштовний Компендіум Стану Рігпа
+  103.82 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ klong sde/ byang chub kyi sems kun la 'jug pa rnam dag ston pa/ Чистий Учитель Просвітленого Мислення, що міститься у всьому
   218.44 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ klong sde/ klong chen rab 'byams rgyal po/ Лонгчен Рабджам Г'ялпо: Корінна тантра обширного простору
    25.27 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ klong sde/ rin po che gdams ngag sna tshogs 'khor lo/ Рінпоче Дамнгаг Нацог Корло
    53.65 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ klong sde/ rin po che'i 'khor lo/ Рінпоче Корло
-  103.77 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ klong sde/ Чистий Учитель Просвітленого Мислення, що міститься у всьому
    79.91 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ man ngag sde/ kun tu bzang po klong drug pa'i rgyud/ 6 просторів Самантабхадри
    35.46 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ man ngag sde/ kun tu bzang po thugs kyi me long/
    65.85 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ man ngag sde/ ngo sprod spras pa/ Тантра Упадеші: Прикраса прямого знайомства
@@ -293,7 +297,6 @@
    59.76 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ man ngag sde/ rdo rje sems dpa' snying gi me long/
   382.98 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ man ngag sde/ rig pa rang shar/
   169.67 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ man ngag sde/ sgra thal 'gyur/ Дра Талг'юр: Примордіальний Звук
-   25.04 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ man ngag sde/ yi ge med pa'i rgyud/ Їге Мепа
    25.03 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ man ngag sde/ yi ge med pa/ Їге Медпа
     3.87 KiB @#/_/rong ston pad+ma bde chen gling pa/ rnam thar/ Біографія Ронгтона Пема Дечена Лінгпи
    21.90 KiB @#/_/rong zom chos kyi bzang po/ rnam thar/ Біографія Ронгдзома Махапандіти
@@ -331,6 +334,6 @@
     2.56 KiB @#/_/zhal gdams kun tu bzang po thugs ye shes kyi me long gi ye shes 'di la lnga ste/
     2.51 KiB @#/_/zla ba bzhi pa'i 'chi ltas brtag pa bzhugs/
 
-Загальний розмір вмісту творів усіх унікальних: 23.49 MiB
-Кількість унікальних творів: 332
-Оброблено файлів: 377
+Загальний розмір вмісту творів усіх унікальних: 23.66 MiB
+Кількість унікальних творів: 335
+Оброблено файлів: 386

@@ -2,8 +2,8 @@
 # encoding: UTF-8
 # frozen_string_literal: true
 
-FILTER_UA_ONLY = true
-label = FILTER_UA_ONLY ? 'з українськими заголовками' : 'усіх унікальних'
+UA_ONLY = true
+label = UA_ONLY ? 'з українськими заголовками' : 'усіх унікальних'
 PATTERNS = [ '*.txt', '*/*.txt', '*/*/*.txt', '*/*/*/*.txt', '*/*/*/*/*.txt' ]
 to_size = {} ; header = nil ; bytes = 0 ; total = 0 ; count = 0 ; files = 0
 
@@ -26,7 +26,7 @@ end
 
 to_size.keys.sort.each do |header|
   has_ua = header.match?(/[\u0400-\u04FF\u0500-\u052F\u2DE0-\u2DFF\uA640-\uA69F\u1C80-\u1C8F]/)
-  next if FILTER_UA_ONLY && !has_ua
+  next if UA_ONLY && !has_ua
   bytes = to_size[header] ; total += bytes ; count += 1
   puts "#{human_size(bytes).rjust(12)} #{header}"
 end
