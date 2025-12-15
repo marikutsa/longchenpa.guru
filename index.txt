@@ -38,7 +38,6 @@
    17.35 KiB @#/_/gnam chos/ dpal chen mgon po bdun chu rtsa gnyis/ 72 Величних і Славних Гомпо Намчо
    14.80 KiB @#/_/gnam chos/ gnam chos thugs kyi gter kha'i zur rgyan zhi khro bsam gtan cho ga/ Орнамент скарбниці розуму Намчо: Ритуал споглядання Жітро
    29.61 KiB @#/_/gnam chos/ mi 'gyur rdo rje rnam thar/ Мінг'юр Дордже Намтар
-  369.03 KiB @#/_/gsang sngags rgyud 'bum gyi skor bzhugs so/ Кунду Рігпей До: Сутра єднання повного ваджра усвідомлення
    14.13 KiB @#/_/gu ru chos dbang/ bka' 'gyur ro cog gi snying po bsdus pa'i gzungs bzhugs so/ Гуру Чованг: Дхарані Суті Канжура
     6.89 KiB @#/_/gu ru chos dbang/ bla ma gsang 'dus las gsungs pa'i khyad par bla sgrub tshig bdun gsol 'debs bzhugs/ Семирядкова молитва Падмасамбхави
     2.54 KiB @#/_/gu ru chos dbang/ gter ma dkar chag/ Індекс творів Гуру Чованга
@@ -215,7 +214,7 @@
    54.63 KiB @#/_/rnying ma rgyud 'bum/ dkar chag/ thub bstan nyi ma rin po che/ Зібрання тантр древніх Рігдзіна Цеванга Норбу
    43.87 KiB @#/_/rnying ma rgyud 'bum/ rjes su rnal 'byor/ mtha' drug gsal bar byed pa/ Тантра Великого Самантабгадри, що перебуває у собі самому
    34.20 KiB @#/_/rnying ma rgyud 'bum/ rjes su rnal 'byor/ rtsa ba'i mdo bzhi/ dgongs pa 'dus pa'i mdo/ Гонпа Дюпей До: Зібрання наміру Будд
-       200 B @#/_/rnying ma rgyud 'bum/ rjes su rnal 'byor/ rtsa ba'i mdo bzhi/ kun 'dus rig pa'i mdo/ Кунду Рігпей До: Сутра єднання повного ваджра усвідомлення
+  369.22 KiB @#/_/rnying ma rgyud 'bum/ rjes su rnal 'byor/ rtsa ba'i mdo bzhi/ kun 'dus rig pa'i mdo/ Кунду Рігпей До: Сутра єднання повного ваджра усвідомлення
    12.80 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal 'byor/ sems sde/ bde ba 'phra bkod/ Інкрустована прикраса блаженства
    11.09 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal 'byor/ sems sde/ byang chub sems bsgom pa/ Медитація просвітленого розуму
    17.43 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal 'byor/ sems sde/ rig pa'i khu byug/ Зозуля Усвідомлення: Семде Тантра
@@ -244,5 +243,5 @@
     1.03 KiB @#/_/tsong kha pa blo bzang grags pa/ dmigs brtse ma/ Мігцема: Молитва Же Цонкапі Лобсангу Дракпі
 
 Загальний розмір вмісту творів з українським перекладом: 16.76 MiB
-Кількість унікальних творів: 244
+Кількість унікальних творів: 243
 Оброблено файлів: 377
