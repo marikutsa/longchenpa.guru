@@ -34,6 +34,7 @@
    11.39 KiB @#/_/dung mtsho ras pa phyi ma/ yang ti nag po gser gyi 'bru gcig pa dkar chag/ Зміст Янгті Накпо
     6.04 KiB @#/_/dung mtsho ras pa phyi ma/ yang ti nag po thugs thig/ Туктіки Янгті Накпо
    16.92 KiB @#/_/dung mtsho ras pa phyi ma/ yang ti'i snyan rgyud yi ge med pa'o/ Передача Янгті Накпо без письма
+  143.14 KiB @#/_/gnam chos/ dkar chag/ Зміст циклу терма «Небесне вчення» (Намчо) Мінґ’юра Дордже
        210 B @#/_/gnam chos/ dkar gtor/ Офіра білого торма Намчо
    17.35 KiB @#/_/gnam chos/ dpal chen mgon po bdun chu rtsa gnyis/ 72 Величних і Славних Гомпо Намчо
    14.80 KiB @#/_/gnam chos/ gnam chos thugs kyi gter kha'i zur rgyan zhi khro bsam gtan cho ga/ Орнамент скарбниці розуму Намчо: Ритуал споглядання Жітро
@@ -42,6 +43,7 @@
     6.89 KiB @#/_/gu ru chos dbang/ bla ma gsang 'dus las gsungs pa'i khyad par bla sgrub tshig bdun gsol 'debs bzhugs/ Семирядкова молитва Падмасамбхави
     2.54 KiB @#/_/gu ru chos dbang/ gter ma dkar chag/ Індекс творів Гуру Чованга
    57.02 KiB @#/_/gu ru chos dbang/ na ra ka skong bshags/ Нарак Коншаґ Гуру Чованга
+    4.66 KiB @#/_/jo mo sman mo/ dkar chag/ Зміст циклу терма «Секретне зібрання всіх дакінь» Джомо Менмо
        210 B @#/_/klong chen 'od gsal mkan' 'gro snying thig/ dkyil 'khor/ Мандала
        192 B @#/_/klong chen 'od gsal mkan' 'gro snying thig/ gu ru drag po/ Гуру Кродха Дракпо
        218 B @#/_/klong chen 'od gsal mkan' 'gro snying thig/ gza' bdud/ Кета Ракша Рахула
@@ -241,6 +243,6 @@
    32.37 KiB @#/_/shri sing ha/ sher snying 'grel pa sngags su 'grel pa bzhugs/ Шрі Сінга: Розкриття значення Мантри в Сутрі Серця
     1.03 KiB @#/_/tsong kha pa blo bzang grags pa/ dmigs brtse ma/ Мігцема: Молитва Же Цонкапі Лобсангу Дракпі
 
-Загальний розмір вмісту творів з українським перекладом: 16.75 MiB
-Кількість унікальних творів: 242
-Оброблено файлів: 377
+Загальний розмір вмісту творів з українським перекладом: 16.89 MiB
+Кількість унікальних творів: 244
+Оброблено файлів: 379
