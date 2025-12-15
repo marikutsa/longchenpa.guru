@@ -180,6 +180,9 @@
        236 B @#/_/mkha' 'gro snying thig/ tsche sgrub/ Практика довгого Життя
     1.88 KiB @#/_/mkha' 'gro snying thig/ yang ti gser gyi 'bru gcig pa'i rgyud/ Тантра Унікального Золотого Складу Янгті
   164.48 KiB @#/_/mkha' 'gro'i chos mdzod chen mo/ dkar chag/ Велика скарбниця Дгарми Дакіні
+   25.39 KiB @#/_/nam mkha' 'jigs med/ gsung 'bum/ dkar chag/ Збірка праць Намкха Джігме
+   11.81 KiB @#/_/nam mkha' 'jigs med/ rdo rje snying po sprin gyi thol glu/ dkar chag/ Зміст циклу «Ваджрна суть пісня хмар»
+   22.37 KiB @#/_/nam mkha' 'jigs med/ rig 'dzin srog sgrub/ dkar chag/ Зміст циклу «Держатель мудрості садхана життя» Намка Джигме
     1.12 KiB @#/_/nam mkha'i nor bu/ dkar chag/ Перелік вчень Намкая Норбу (в правильній послідовності)
    14.57 KiB @#/_/nam mkha'i nor bu/ nam mkha'i nor bu'i gsung rtsom phyogs bsgrigs/ dkar chag/ Збірка праць Намкая Норбу
    16.98 KiB @#/_/nyi ma 'od zer/ dpal rdo rje phag mo khros ma nag mo'i gsang ba thugs kyi sgrub pa'i rgyun khyer snying por dril ba bde chen myur lam/ Гнівна Чорна
@@ -243,6 +246,6 @@
    32.37 KiB @#/_/shri sing ha/ sher snying 'grel pa sngags su 'grel pa bzhugs/ Шрі Сінга: Розкриття значення Мантри в Сутрі Серця
     1.03 KiB @#/_/tsong kha pa blo bzang grags pa/ dmigs brtse ma/ Мігцема: Молитва Же Цонкапі Лобсангу Дракпі
 
-Загальний розмір вмісту творів з українським перекладом: 16.89 MiB
-Кількість унікальних творів: 244
-Оброблено файлів: 379
+Загальний розмір вмісту творів з українським перекладом: 16.95 MiB
+Кількість унікальних творів: 247
+Оброблено файлів: 382
