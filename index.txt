@@ -220,16 +220,15 @@
    11.09 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal 'byor/ sems sde/ byang chub sems bsgom pa/ Медитація просвітленого розуму
    17.43 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal 'byor/ sems sde/ rig pa'i khu byug/ Зозуля Усвідомлення: Семде Тантра
     8.31 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal 'byor/ sems sde/ rin po che kun 'dus rig pa/ Коштовний Компендіум Стану Рігпа
+  103.82 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ klong sde/ byang chub kyi sems kun la 'jug pa rnam dag ston pa/ Чистий Учитель Просвітленого Мислення, що міститься у всьому
   218.44 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ klong sde/ klong chen rab 'byams rgyal po/ Лонгчен Рабджам Г'ялпо: Корінна тантра обширного простору
    25.27 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ klong sde/ rin po che gdams ngag sna tshogs 'khor lo/ Рінпоче Дамнгаг Нацог Корло
    53.65 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ klong sde/ rin po che'i 'khor lo/ Рінпоче Корло
-  103.77 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ klong sde/ Чистий Учитель Просвітленого Мислення, що міститься у всьому
    79.91 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ man ngag sde/ kun tu bzang po klong drug pa'i rgyud/ 6 просторів Самантабхадри
    65.85 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ man ngag sde/ ngo sprod spras pa/ Тантра Упадеші: Прикраса прямого знайомства
     1.18 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ man ngag sde/ nyi zla kha sbyor/ Ньїда Кхаджор (тільки пісня Ваджра)
   226.70 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ man ngag sde/ nyi zla kha sbyor/ Тантра Союзу Сонця і Місяця з розділу Таємних Настанов Аті-йоги
   169.67 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ man ngag sde/ sgra thal 'gyur/ Дра Талг'юр: Примордіальний Звук
-   25.04 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ man ngag sde/ yi ge med pa'i rgyud/ Їге Мепа
    25.03 KiB @#/_/rnying ma rgyud 'bum/ shin tu rnal sbyor/ man ngag sde/ yi ge med pa/ Їге Медпа
     3.87 KiB @#/_/rong ston pad+ma bde chen gling pa/ rnam thar/ Біографія Ронгтона Пема Дечена Лінгпи
    21.90 KiB @#/_/rong zom chos kyi bzang po/ rnam thar/ Біографія Ронгдзома Махапандіти
@@ -244,6 +243,6 @@
    32.37 KiB @#/_/shri sing ha/ sher snying 'grel pa sngags su 'grel pa bzhugs/ Шрі Сінга: Розкриття значення Мантри в Сутрі Серця
     1.03 KiB @#/_/tsong kha pa blo bzang grags pa/ dmigs brtse ma/ Мігцема: Молитва Же Цонкапі Лобсангу Дракпі
 
-Загальний розмір вмісту творів з українським перекладом: 16.79 MiB
-Кількість унікальних творів: 245
+Загальний розмір вмісту творів з українським перекладом: 16.76 MiB
+Кількість унікальних творів: 244
 Оброблено файлів: 377
