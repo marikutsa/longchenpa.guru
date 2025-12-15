@@ -3,42 +3,28 @@
 # frozen_string_literal: true
 
 FILTER_UA_ONLY = true
-PATTERNS = ['*.txt', '*/*.txt', '*/*/*.txt', '*/*/*/*.txt', '*/*/*/*/*.txt']
-
-header_to_size = {}
-current_header = nil
-current_bytes = 0
+PATTERNS = [ '*.txt', '*/*.txt', '*/*/*.txt', '*/*/*/*.txt', '*/*/*/*/*.txt' ]
+to_size = {}
+header = nil
+bytes = 0
 total = 0
 count = 0
 
 PATTERNS.each do |pattern|
-  Dir.glob(pattern) do |file|
+  Dir.glob(pattern).each do |file|
     next unless File.file?(file)
     File.foreach(file, encoding: 'UTF-8') do |line|
-      encoded_line = line.encode('UTF-8', invalid: :replace, undef: :replace, replace: '?')
-      line_bytes = encoded_line.bytesize
-      header = encoded_line.chomp.strip
-      if header.start_with?('@#/_/')
-        if current_header
-          header_to_size[current_header] ||= current_bytes
-        end
-        current_header = header
-        current_bytes = line_bytes
-      elsif current_header
-        current_bytes += line_bytes
-      end
+      line  = line.encode('UTF-8', invalid: :replace, undef: :replace, replace: '?')
+      size  = line.bytesize
+      tmp   = line.strip
+      tmp.start_with?('@#/_/') ? (to_size[header] ||= bytes if header; header, bytes = tmp, size) : (bytes += size if header)
     end
-    if current_header
-      header_to_size[current_header] ||= current_bytes
-    end
-    current_header = nil
-    current_bytes = 0
-  rescue
-    next
+    to_size[header] ||= bytes if header
+    header = bytes = nil
   end
 end
 
-return puts 'Не знайдено жодного заголовка' if header_to_size.empty?
+return puts 'Не знайдено жодного заголовка' if to_size.empty?
 
 def human_size(bytes)
   units = %w[B KiB MiB GiB TiB]
@@ -47,11 +33,11 @@ def human_size(bytes)
   format('%.2f %s', bytes.to_f / (1024 ** exp), units[exp])
 end
 
-header_to_size.keys.sort.each do |header|
+to_size.keys.sort.each do |header|
   title = header.split('/').last.strip
   has_ua = title.match?(/[\u0400-\u04FF\u0500-\u052F\u2DE0-\u2DFF\uA640-\uA69F\u1C80-\u1C8F]/)
   next if FILTER_UA_ONLY && !has_ua
-  bytes = header_to_size[header]
+  bytes = to_size[header]
   total += bytes
   count += 1
   puts "#{human_size(bytes).rjust(12)} #{header}"
