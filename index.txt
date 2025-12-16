@@ -3,10 +3,12 @@
    15.69 KiB @#/_/'jigs bral ye shes rdo rje/ rong zom chos kyi bzang po'i rnam thar/ Біографія Ронгдзома Махапандіти Джигдрала Дордже
     2.78 KiB @#/_/'jigs bral ye shes rdo rje/ sgang steng sprul sku kun bzang pad ma rnam rgyal gyi zhabs brtan smon lam/ Молитва Кунсангу Пема Намг'ялу Пелбару
    10.43 KiB @#/_/'jigs bral ye shes rdo rje/ ye shes gzhon nu'i rnam thar/ Біографія Няка Джнянакумари
+   26.74 KiB @#/_/'jigs bral ye shes rdo rje/ zhi gnas/ Дуджом Рінпоче про медитацію Шине (1979)
     6.68 KiB @#/_/'jigs med gling pa/ bdag nyid chen po bai ro'i sgrub thabs bzhugs/ Садхана Вайрочани Джикме Лінгпи
   149.84 KiB @#/_/'jigs med gling pa/ gsung 'bum/ Каталог збірки праць Джігме Лінгпи в 9 тома Геце Махапандіти
   143.97 KiB @#/_/'jigs med gling pa/ yon tan rin po che'i mdzod dga' ba'i char zhes bya ba/ Йонтен Рінпоче Дзо
   330.27 KiB @#/_/'jigs med gling pa/ yon tan rin po che'i mdzod dga' ba'i char/ Йонтен Рінпоче Дзо: Скарбниця Коштовних Якостей (,,173)
+  348.18 KiB @#/_/a 'dzom 'brug pa/ snying thig sngon 'gro'i khrid yig thar lam gsal byed dang lam bzang ye shes snying po/ Нінгтік Ньондро Тріїк Тарлам Салжед і Ламзанг Єше Нінгпо
    32.15 KiB @#/_/a yu mkha' 'gro/ rnam thar/ Біографія Аю Кхандро
     4.27 KiB @#/_/bai ro tsa na/ rdzogs pa chen po klong sde rdo rje zam pa'i bla brgyud gsol 'debs ni/ Молитви лінії передачі Лонгде Ваджрного Мосту
     3.97 KiB @#/_/bai ro tsa na/ rigs 'dzin rnams kyi zhal chems/ Заповіт Володарів Знань
@@ -95,6 +97,7 @@
    29.30 KiB @#/_/klong chen 'od gsal snying thig/ thod rgal gyi mdog gsal gyi snang ba/ Радіантні кольори Тогал
        321 B @#/_/klong chen 'od gsal snying thig/ tshogs/ Ганачакра Лонгчен Осал
    11.73 KiB @#/_/klong chen 'od gsal snying thig/ ye shes lnga'i thig le dkyil 'khor/ Мандала Тігл'є Г'ялчен і Тогал
+    1.35 KiB @#/_/klong chen 'od gsal snying thig/ zhi gnas/ Дев'ять стадій медитації Шине
    80.39 KiB @#/_/klong chen rab 'byams pa dri med 'od zer/ bsam gtan ngal gso/ Відпочинок в медитації
   142.70 KiB @#/_/klong chen rab 'byams pa dri med 'od zer/ chos dbyings mdzod/ Чоїнг Дзо: Скарбниця Дхармадхату
    85.37 KiB @#/_/klong chen rab 'byams pa dri med 'od zer/ dkar chag/ Палацек: Спадщина Предків. Зібрання творів Лонгчена Рабджама Безплямного Сяйва.
@@ -249,6 +252,6 @@
    32.37 KiB @#/_/shri sing ha/ sher snying 'grel pa sngags su 'grel pa bzhugs/ Шрі Сінга: Розкриття значення Мантри в Сутрі Серця
     1.03 KiB @#/_/tsong kha pa blo bzang grags pa/ dmigs brtse ma/ Мігцема: Молитва Же Цонкапі Лобсангу Дракпі
 
-Загальний розмір вмісту творів з українськими заголовками: 17.06 MiB
-Кількість унікальних творів: 250
-Оброблено файлів: 386
+Загальний розмір вмісту творів з українськими заголовками: 17.43 MiB
+Кількість унікальних творів: 253
+Оброблено файлів: 389
