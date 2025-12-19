@@ -39,7 +39,7 @@
    11.39 KiB @#/_/dung mtsho ras pa phyi ma/ yang ti nag po gser gyi 'bru gcig pa dkar chag/ Зміст Янгті Накпо
     6.04 KiB @#/_/dung mtsho ras pa phyi ma/ yang ti nag po thugs thig/ Туктіки Янгті Накпо
    16.92 KiB @#/_/dung mtsho ras pa phyi ma/ yang ti'i snyan rgyud yi ge med pa'o/ Передача Янгті Накпо без письма
-   87.33 KiB @#/_/gdams ngag mdzod/ dkar chag/ Зміст збірки Дамнгак Дзо
+   87.41 KiB @#/_/gdams ngag mdzod/ dkar chag/ Зміст збірки Дамнгак Дзо
   143.14 KiB @#/_/gnam chos/ dkar chag/ Зміст циклу терма «Небесне вчення» (Намчо) Мінґ’юра Дордже
        210 B @#/_/gnam chos/ dkar gtor/ Офіра білого торма Намчо
    17.35 KiB @#/_/gnam chos/ dpal chen mgon po bdun chu rtsa gnyis/ 72 Величних і Славних Гомпо Намчо
@@ -115,6 +115,7 @@
    75.86 KiB @#/_/klong chen rab 'byams pa dri med 'od zer/ rang grol skor gsum/ Про трилогію самозвільнення
    51.52 KiB @#/_/klong chen rab 'byams pa dri med 'od zer/ rdzogs pa chen po chos nyid rang grol/ Природня свобода Дхармати
     3.26 KiB @#/_/klong chen rab 'byams pa dri med 'od zer/ rdzogs pa chen po ngal gso skor gsum dang rang grol skor gsum bcas pod gsum dkar chag/ Колекція Адзом Чогара Нгалсо Корсум і Рангдрол Корсум
+   59.65 KiB @#/_/klong chen rab 'byams pa dri med 'od zer/ rdzogs pa chen po sems nyid rang grol gyi lam rim snying po'i don khrid/ Сутністі настанови по медитації для ступенів шляху відповідно до Відпочинку в природі мислення
     1.21 MiB @#/_/klong chen rab 'byams pa dri med 'od zer/ sems nyid ngal gso/ Відпочинок в природі мислення
   573.84 KiB @#/_/klong chen rab 'byams pa dri med 'od zer/ sems nyid rang grol/ Самозвільнене мислення
    59.60 KiB @#/_/klong chen rab 'byams pa dri med 'od zer/ sems yid rang grol gyi lam rim snying po/ Сутніть Ламріму Самозвільння Мислення
@@ -214,7 +215,6 @@
    32.38 KiB @#/_/rdza dpal sprul/ bden gnyis/ Настанова щодо погляду Махаяни: Роз’яснення двох істин.
    44.66 KiB @#/_/rdza dpal sprul/ dmigs rim bsdus pa/ Короткий посібник з етапів візуалізації для практики Ньондро
   655.15 KiB @#/_/rdza dpal sprul/ snying thig sngon 'gro'i khrid yig kun bzang bla ma'i zhal lung bzhugs/ Нінгтік Ньондро Крід Їк Кунзан Ламеї Шалунг
-   59.61 KiB @#/_/rdzogs pa chen po sems nyid rang grol gyi lam rim snying po'i don khrid/ Сутністі настанови по медитації для ступенів шляху відповідно до Відпочинку в природі мислення
    29.59 KiB @#/_/rig 'dzin rgod kyi ldem/ dgongs pa zang thal dkar chag/ Проникнення наміру Кунтузангпо
    27.89 KiB @#/_/rig 'dzin rgod kyi ldem/ dkar chag/ Каталог читальних частин з циклу північних терма старих перекладів
    34.20 KiB @#/_/rig 'dzin rgod kyi ldem/ kun tu bzang po'i dgongs pa zang thal gyi rgyud chen/ Рігдзін Годем Нгодруб Г'ялцен (1337–1408): Устремління Самантабхадри
