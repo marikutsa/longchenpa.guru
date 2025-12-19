@@ -1,0 +1,458 @@
+@#/_/gdams ngag mdzod/ dkar chag/ Зміст збірки Дамнгак Дзо
+
+01) pod ka pa/（1） [vol] Том 1 (Ка)
+
+001 preface [txt] Передмова
+002 dkar chag [toc] Зміст
+003 sgyu 'phrul drwa ba'i lam rnam par bshad pa chung ngu [txt] Короткий опис шляху мережі ілюзій
+004 man ngag lta ba'i phreng ba [txt] Намисто настанов щодо погляду
+005 man ngag lta ba'i phreng ba'i tshig don gyi 'grel zin mdor bsdus pa zab don pad tshal 'byed pa'i nyi 'od [txt] Короткі нотатки до пояснення слів «Намиста настанов щодо погляду» — Сонячне світло, що розкриває лотоси глибокого сенсу
+006 ma mo gsang ba las kyi thig le [txt] Крапля з таємної практики Мамо
+007 dpal rdo rje sems dpa' sgyu 'phrul drwa ba'i grol byed lam gyi snying po'i don khrid [txt] Пояснення суті шляху звільнення мережі ілюзій славного Ваджрасаттви
+008 'dus pa chen po mdo'i ngang sgom gyi khrid rim khol phyung du bkod pa shel dkar phreng mdzes [txt] Послідовність настанов щодо медитації стану великого зібрання сутр, викладена просто — Гарний кришталевий намисто
+009 na rag dong sprugs kyi khrid yig zab lam snang byed [txt] Настанова щодо глибокого шляху «Перевертання прірви пекла» — Світло, що проявляє
+010 rdzogs pa chen po'i sems sde'i rgyud lung gi rtsa ba gces par btus pa [txt] Зібрані важливі кореневі тантри та агамы класу розуму Великої досконалості
+011 g.yung ston rdo rje dpal bzang po'i yig cha lags/ sems sde ma bu bco brgyad kyi dgongs pa ngo sprad pa'i thabs rig pa rtsal gyi dbang bco brgyad bskur ba'i cho ga [txt] Ритуал дарування вісімнадцяти абхішека сили усвідомлення для безпосереднього введення в задум материнських і дитячих [текстів] класу розуму вісімнадцяти [тантр], записаний Ґьюнґ Стоном Дордже Пел Занґпо
+012 byang chub kyi sems kun byed rgyal po'i don khrid rin chen gru bo [txt] Пояснення сенсу «Царя творця — розуму просвітлення» — Човен коштовностей
+013 rdzogs chen sems sde'i khrid yig [txt] Настанова класу розуму Великої досконалості
+014 rdzogs chen sems sde brgyud pa'i gsol 'debs byin rlabs dga' ston [txt] Молитва лінії передачі класу розуму Великої досконалості — Свято благословення
+015 slob dpon dga' rab rdo rje nas brgyud pa'i rdzogs pa chen po sems sde'i pra khrid kyi man ngag [txt] Усні настанови пракхіду класу розуму Великої досконалості лінії від учителя Ґараб Дордже
+016 snyan brgyud rin po che'i khrid kyi man ngag mkha' dbyings snying po'i bde khrid [txt] Настанова усної передачі коштовностей — Легкий кхід суті простору дхарми
+017 rdzogs pa chen po'i klong sde'i brgyud lung gi rtsa ba gces par btus pa [txt] Зібрані важливі кореневі агамы та лунґи класу простору Великої досконалості
+018 klong sde rdo rje zam pa las sgom tshul bla ma'i byin rlabs rgyas pa'i cho ga khrigs su bkod pa ye shes chu rgyun [txt] Ритуал розширення благословення вчителя щодо практики з «Ваджрного мосту» класу простору, складений у послідовність — Потік мудрості
+019 rdzogs pa chen po klong sde'i snyan brgyud rin po che rdo rje zam pa'i sgom khrid kyi lag len [txt] Практичні вказівки медитаційного кхіду «Ваджрного мосту» коштовної усної передачі класу простору Великої досконалості
+020 nyams len bzhi'i rnal 'byor dang he ru ka mngon rdzogs rgyal po'i 'phrin las gsal bar bkod pa ye shes rgya mtsho [txt] Йога чотирьох практик досвіду та ясно викладена діяльність царя повного втілення Херуки — Океан мудрості
+
+02) pod kha pa/（2） [vol] Том 2 (Кха)
+
+021 dkar chag [toc] Зміст
+022 'od gsal rdzogs pa chen po man ngag sde'i gnad kyi bcud phur sangs rgyas kyi 'das rjes gsum: [txt] Есенція ключових пунктів класу настанов Великої досконалості ясного світла — Три [практики] після смерті будди
+023 spros bcas kyi dbang chog tshangs pa'i drwa ba [txt] Ритуал абхішеки з опрацюванням — Мережа Брахми
+024 dkyil 'khor spros bcas ming gi rim pa gsal bar byed pa [txt] Ясно пояснена послідовність імен мандали з опрацюванням
+025 spros med kyi dbang chog rin po che'i drwa ba [txt] Ритуал абхішеки без опрацювання — Мережа коштовностей
+026 shin tu spros med kyi dbang chog pad+ma'i drwa ba [txt] Ритуал абхішеки зовсім без опрацювання — Мережа лотоса
+027 gling bzhi rgyan gyi maN+Dal [txt] Мандала прикрашених чотирьох континентів
+028 rab tu spros med kyi dbang chog 'od kyi drwa ba [txt] Ритуал абхішеки цілковито без опрацювання — Мережа світла
+029 lnga tshan lda'i maN+Dal 'bul ba'i cho ga yid bzhin drwa ba [txt] Ритуал підношення мандали п'яти сімей — Мережа бажаного
+030 tshogs mchod kyi rim pa yid bzhin rgya mtsho [txt] Послідовність ганачакри — Океан бажаного
+031 rdzogs pa chen po gsang ba snying thig ma bu'i bka' srol chu bo gnyis 'dus kyi khrid yig dri med zhal lung [txt] Настанова злиття двох потоків канонної традиції материнських і дитячих [текстів] таємного серця Великої досконалості — Непорочні усні вказівки
+032 gsang skor gyi dbang gi lag len gsal ba'i sgron me [txt] Ясний світильник практичних вказівок абхішеки таємного циклу
+033 mchog gsum lam khrid chen mo [txt] Великий кхід шляху трьох вершин
+034 slob dpon rin po che pad+ma 'byung gnas kyis mdzad pa'i phyi chos mdo sngags thun mong gi lam rim rin chen spungs pa [txt] Зібрані коштовності етапів шляху загальних сутри і тантри зовнішніх вчень, складені вчителем Падма Джунґне
+035 rdzogs pa chenapo sems nyid ngal gso'i gnas gsum dge ba gsum gyi don khrid byung chub lam bzang [txt] Пояснення сенсу трьох місць і трьох доброчесностей відпочинку в природі розуму Великої досконалості — Добрий шлях просвітлення
+036 sems nyid rang grol gyi gsol 'debs [txt] Молитва самовизволення природи розуму
+037 rdzogs pa chen po sems nyid rang grol gyi lam rim snying po'i don khrid [txt] Пояснення суті етапів шляху самовизволення природи розуму Великої досконалості
+038 rdzogs pa chen po chos nyid rang grol [txt] Самовизволення природи явищ Великої досконалості
+039 rdzogs pa chen po mnyam nyid rang grol [txt] Самовизволення рівності Великої досконалості
+040 rdzogs pa chen po man ngag snying thig gi bla ma brgyud pa'i rim pa mchod pa'i cho ga kun bzang rnam par rol pa'i rgyan [txt] Ритуал підношення послідовності лінії вчителів класу настанов серця Великої досконалості — Прикраса повного прояву Самантабхадри
+041 bka' srung e ka dzA Ti sde bdun gyi rjes gnang [txt] Дозвіл семи класів Екаджаті — захисників вчення
+
+03) pod ga pa/（3） [vol] Том 3 (Ґа)
+
+042 dkar chag [toc] Зміст
+043 theg pa chen po'i lam gyi rim pa'i gzhung byang chub lam gyi sgrol ma [txt] Основний текст етапів шляху великої колісниці — Ламрім Ченмо
+044 byang chub lam gyi sgrol ma'i 'grel pa snying por bsdus pa byang chub lam gyi snang ba rab tu gsal ba [txt] Скорочений коментар до Ламрім Ченмо — Ясне світло шляху просвітлення
+045 byang chub lam gyi rim pa'i nyams len bsdus don gyi tshigs su bcad pa [txt] Віршоване скорочення суті практики етапів шляху просвітлення
+046 byin rlabs nye brgyud kyi gsol 'debs dngos grub snye ma [txt] Молитва близької лінії благословення — Плід сиддхі
+047 byang chub lam gyi rim pa'i khrid gser gyi yang zhun [txt] Настанова етапів шляху просвітлення — Найкраще золото
+048 byang chub lam gyi rim pa'i khrid yig thams cad mkhyen par bgrod pa'i bde lam [txt] Настанова етапів шляху просвітлення — Легкий шлях досягнення всезнання
+049 byang chub lam gyi rim pa nyams su len tshul gyi phyag bzhes snying por dril ba [txt] Скорочений посібник практики етапів шляху просвітлення
+050 rgyal ba'i bstan pa la 'jug pa'i rim pa skyes bu gsum gyi man ngag gi khrid yig bdud rtsi'i nying khu [txt] Настанова настанов для трьох типів істот щодо входження у вчення Переможця — Есенція нектару
+051 zab mo lta brgyud kyi sems bskyed pa'i cho ga byang chub chen po'i gzhung lam [txt] Ритуал породження розуму в глибокій лінії погляду — Основний шлях великого просвітлення
+052 theg pa chen po shin tu rgyas pa'i lugs kyi sems bskyed dang sdom pa'i cho ga byang chub sems dpa'i lam bzang [txt] Ритуал породження розуму та обітниць за дуже розширеним способом великої колісниці — Добрий шлях бодхісаттви
+053 theg pa chen po'i blo sbyong gi dkar chag [toc] Зміст тренування розуму великої колісниці
+054 jo bo rjes rgyal sras spangs nas thar pa sgrub pa'i rnam par thar pa [txt] Життєпис Атіші, який покинув принца і досяг звільнення
+055 jo bo mnyam med gser gling pa dang mjal ba'i rnam thar [txt] Життєпис зустрічі Атіші з неперевершеним Серлінпою
+056 theg pa chen po'i blo sbyong gi rtsa tshig [txt] Кореневі вірші тренування розуму великої колісниці
+057 theg pa chen po'i blo sbyong gi rtsa tshig [txt] Кореневі вірші тренування розуму великої колісниці (повтор)
+058 byang chub lam gyi rim pa la blo sbyong ba la thog mar blo sbyong ba chos kyi sgo 'byed [txt] Спочатку тренування розуму в етапах шляху просвітлення — Відкриття воріт Дхарми
+
+04) pod nga pa/（4） [vol] Том 4 (Нґа)
+
+059 dkar chag [toc] Зміст
+060 blo sbyong don bdun ma'i 'grel pa [txt] Коментар до семи пунктів тренування розуму
+061 blo sbyong mtshon cha'i 'khor lo [txt] Колесо зброї тренування розуму
+062 blo sbyong gyer bsgom rdo rje'i glu [txt] Пісня тренування розуму Ґьєр Ґом Дордже
+063 sdig sbyong man ngag [txt] Настанова очищення негативності
+064 rgyal ba'i sras po thogs med bzang po dpal gyis mdzad pa'i blo sbyong don bdun ma [txt] Сім пунктів тренування розуму, складені принцом Акагарматі
+065 theg pa chen po blo sbyong don bdun ma'i nyams su len tshul snying por dril ba phan bde'i sa bon [txt] Скорочена практика семи пунктів тренування розуму великої колісниці — Насіння користі та щастя
+066 theg pa chen po blo sbyong don bdun ma'i khrid yig blo dman 'jug bder bkod pa byang chub gzhung lam [txt] Настанова семи пунктів тренування розуму для простих умів — Основний шлях просвітлення
+067 blo sbyong brgyud pa'i gsol 'debs dad pa'i gdung sel [txt] Молитва лінії тренування розуму — Заспокоєння туги віри
+068 blo sbyong smon lam byang sems rgya mtsho'i 'jug ngogs [txt] Молитва-бажання тренування розуму — Вступ до океану бодхічітти
+069 bka' bdams thig le bcu drug gi sgrub thabs dbang bskur ba'i cho ga bklags chog tu bsdebs pa thugs rje rnam par rol pa'i rgyan [txt] Садхана та ритуал абхішеки шістнадцяти крапель Кадам, зібрані для читання — Прикраса повного прояву співчуття
+070 thig le bcu drug gi sgom bzlas nyams su len tshul snying por dril ba [txt] Скорочена практика медитації та рецитації шістнадцяти крапель
+071 bka' gdams thig le bcu drug gi zab khrid kyi rim pa snying por dril ba grub gnyis mchog sbyin [txt] Скорочена глибока послідовність кхіду шістнадцяти крапель Кадам — Найвищий дарунок двох сиддхі
+072 bka' gdams lha bzhi'i rjes gnang rtsa ba'i phyag len bslad med sgrub thabs rin 'byung las khol du phyung pa [txt] Безпомилкова основна практика дозволу чотирьох божеств Кадам, витягнута з «Джерела коштовностей»
+073 bka' gdams lha bzhi'i khrid kyi yi ge mdo sngags lam gyi bcud 'dus [txt] Текст настанови чотирьох божеств Кадам — Зібрання есенції шляху сутри і тантри
+074 lam gyi gtso bo rnam gsum [txt] Три головні аспекти шляху
+075 lam gyi gtso bo rnam gsum gyi tshig 'grel mdor bsdus pa skal bzang thar pa'i 'jug ngogs [txt] Скорочений коментар до трьох головних аспектів шляху — Вступ до звільнення щасливих
+076 dge ldan bka' brgyud rin po che'i phyag chen rtsa ba rgyal ba'i gzhung lam [txt] Кореневий текст махамудри коштовної лінії Ґелден Кагью — Основний шлях переможців
+077 dge ldan bka' brgyud rin po che'i bka' srol phyag rgya chen po'i rtsa ba rgyas par bshad pa yang gsal sgron me [txt] Розширений пояснення кореня махамудри канонної традиції коштовної лінії Ґелден Кагью — Ясний світильник
+078 shing rta chen po rnam gnyis kyi gzhung dang rjes su mthun pa'i dbu ma'i lta khrid bdud rtsi'i snying po [txt] Кхід погляду мадхьямаки, узгоджений з текстами двох великих колісниць — Есенція нектару
+079 gzhan stong dbu ma chen po'i lta khrid rdo rje'i zla ba dri ma med pa'i 'od zer [txt] Кхід погляду великої мадхьямаки шентонг — Чистий промінь місячного світла ваджри
+080 mgon po a ti sha gtso bor gyur pa'i bka' gdams bla ma rnams mchod cing gsol ba 'debs pa'i cho ga bkra shis grags pa rgya mtsho [txt] Ритуал підношення та молитви вчителям Кадам з Атішею на чолі — Океан слави та удачі
+081 sgrub thab rin 'byung las khol du phyung pa 'phags pa dza~M` b+ha la dkar po lha lnga'i sgrub thabs rjes gnang dang bcas pa [txt] Садхана з дозволом п'яти білих Джамбхал, витягнута з «Джерела коштовностей»
+082 dpal ldan mar me mdzad kyi bstan srung khyad par du 'phags pa mgon po gri gug ma'i sgrub thabs rjes gnang dang bcas pa gdug pa kun 'joms [txt] Садхана з дозволом особливої захисниці вчення Діпамкари — Магонпо Ґріґуґма, що приборкує всіх злих
+083 mgon po gri gug dpa' gcig gi sgrub thabs bzlas lung 'bogs tshul dang bcas pa [txt] Садхана однообличого Магонпо Ґріґуґ з вказівками рецитації та проникнення
+
+05) pod ca pa/（5） [vol] Том 5 (Ча)
+
+084 dkar chag [toc] Зміст
+085 gsung ngag rin po che lam 'bras bu dang bcas pa'i gzhung rdo rje'i tshig rkang / lam 'bras gzhung khrid gces btus [txt] Кореневі вірші ваджри «Шляху з плодом» коштовної усної традиції / Зібрані важливі настанови основного тексту Ламдре
+086 gsung ngag rin po che lam 'bras bu dang bcas pa'i gzhung rdo rje'i tshig rkang gi 'grel pa [txt] Коментар до кореневих віршів ваджри «Шляху з плодом» коштовної усної традиції
+087 dpal kyai rdo rje mngon par rtogs pa 'bring du bya ba yan lag drug pa'i mdzes rgyan [txt] Прикраса середньої реалізації славного Хеваджри з шістьма частинами
+088 dpal kyai rdo rje'i gtor chog mdzes rgyan [txt] Ритуал тори славного Хеваджри — Гарна прикраса
+089 dpal kyai rdo rje'i dbang gi chu bo chen mo mdzes par byed pa'i rgyan [txt] Велика річка абхішеки славного Хеваджри — Прикраса, що гарно оздоблює
+090 dpal kyai rdo rje man ngag lugs kyi dbang chog lung dang man ngag gi snying po bsdus pa [txt] Зібрана есенція текстів та настанов ритуалу абхішеки Хеваджри за традицією настанов
+091 gsung ngag rin po che lam 'bras bu dang bcas pa'i brgyud 'debs [txt] Молитва лінії «Шляху з плодом» коштовної усної традиції
+092 lam 'bras bu dang bcas pa'i gzhung lugs ji lta ba bzhin dkri ba'i khrid yig sbas don kun gsal [txt] Настанова точного пояснення основного тексту «Шляху з плодом» — Ясність усіх прихованих сенсів
+093 lam sbas te bshad pa man ngag gi zin bris [txt] Нотатки настанов прихованого пояснення шляху
+094 brda don gsal ba'i khrid yig bdag chen rdo rje 'chang gis mdzad pa [txt] Настанова ясності символів, складена великим Ваджрадхарою
+095 lam 'bras bu dang bcas pa'i khrid yig 'bring po dpal phag mo gru pa'i gsung la bde bar gshegs pa dpal stag lung pa chen pos zin bris mdzad pa [txt] Середня настанова «Шляху з плодом», нотатки великого Таґлунґпи до слів славного Пагмо Ґрупи
+096 'phags ma mkha' 'gro ma rdo rje gur gyi rgyud kyi dgongs pa dag pa gsum gyi khrid yig [txt] Настанова трьох чистот задуму тантри благородної Дакині Ваджрної намету
+
+06) pod cha pa/（6） [vol] Том 6 (Ча)
+
+097 dkar chag [toc] Зміст
+098 lam skor phyi ma brgyud pa'i gsol 'debs [txt] Молитва пізнішої лінії передачі шляху
+099 Dom+bi he ru kas mdzad pa'i lhan cig skyes grub [txt] Сахаджа-сиддхі, складена Домбі Херукою
+100 slob dpon pad+ma badzra gyis mdzad pa'i bskyed rim zab pa'i tshul dgus brgyan pa [txt] Глибокий спосіб породження, прикрашений дев'ятьма способами, складений учителем Падма Ваджрою
+101 slob dpon nag po spyod pas mdzad pa'i gtum mo lam rdzogs [txt] Повний шлях ґтумо, складений учителем Наґпо Спйодпою
+102 nag po u tsi ta 'chi ba med pas mdzad pa yon po srong ba'i gdams pa [txt] Настанова виправлення каналів, складена Наґпо Утсітою Ачівамедом
+103 slob dpon klu sgrub kyis mdzad pa'i mchod rten drung thob [txt] Досягнення перед ступою, складений учителем Наґарджуною
+104 slob dpon ngag dbang grags pas mdzad pa'i phyag rgya chen po yi ge med pa [txt] Махамудра без літер, складена учителем Наґванґ Драґпою
+105 dpal tog tse ba'i bsam gyi mi khyab kyi gdams ngag [txt] Непередбачувані настанови думки славного Тоґцеви
+106 slob dpon in+d+rab+huti'i mdzad pa'i phyag rgya'i lam skor [txt] Цикл шляху мудри, складений учителем Індарабгуті
+107 Dom+bi he ru kas mdzad pa'i lhan cig skyes grub kyi khrid yig bkra shis gi wa~M` sman bcud [txt] Настанова сахаджа-сиддхі Домбі Херуки — Есенція ліків удачі
+108 pad+ma badzra'i zab pa'i tshul dgu'i khrid yig bkra shis yungs kar gong bu [txt] Настанова дев'яти глибоких способів Падма Ваджри — Перлина удачі з білої гірчиці
+109 nag po u tsi ta 'chi ba med pas mdzad pa yon po srong ba'i khrid yig bkra shis zho'i snying po [txt] Настанова виправлення каналів Наґпо Утсіти Ачівамеди — Есенція удачі йогурту
+110 'phags pa klu sgrub kyi mchod rten drung thob kyi khrid yig bkra shis lum+ba'i ljon bzang [txt] Настанова досягнення перед ступою благородного Наґарджуни — Добре дерево удачі саду Лумба
+111 ngag dbang grags pa'i phyag rgya chen po yi ge med pa'i khrid yig bkra shis dUrba'i myu gu [txt] Настанова махамудри без літер Наґванґ Драґпи — Паросток удачі з могильника
+112 tog rtse ba'i bsam gyis mi khyab pa'i khrid yig bkra shis dwangs shel me long [txt] Настанова непередбачуваних думок Тоґцеви — Дзеркало чистого кристалу удачі
+113 in+d+r+ra b+hu ti'i phyag rgya'i lam gyi khrid yig bkra shis dung dkar g.yas 'khyil [txt] Настанова шляху мудри Індарабгуті — Права закручена біла раковина удачі
+114 nag po pa'i gtum mo lam rdzogs kyi khrid yig bkra shis li khri'i thig le [txt] Настанова повного шляху ґтумо Наґпопи — Крапля удачі з заліза
+115 'brog mi lo tsA bas mkhas pa sgo drug la gsan pa'i sgo drug chos 'brel du grags pa'i khrid yig [txt] Настанова шести вчень, відомих як пов'язані з Дхармою шість дверей, почуті перекладачем Броґмі від шести вчених
+116 zhen pa bzhi bral gyi brgyud 'debs [txt] Молитва лінії відмови від чотирьох прив'язаностей
+117 blo sbyong zhen pa bzhi bral gyi skor [txt] Цикл тренування розуму відмови від чотирьох прив'язаностей
+118 lam 'bras bla ma mchod pa'i cho ga khrigs chags su bkod pa tshogs gnyis rab rgyas [txt] Ритуал підношення вчителю Ламдре, складений у послідовність — Повне розширення двох зібрань
+119 dpal bde mchog sdom 'byung nas kyi chang gi cho ga [txt] Ритуал освячення алкоголю з обітниць славного Самвари
+120 dpal rdo rje nag po chen po gur mgon lha brgyad kyi sgrub thabs rjes gnang dang bcas pa gzi brjid stobs 'bar [txt] Садхана з дозволом великого Чорного Ваджри — захисника намету восьми божеств — Полум'я сили сяйва
+
+07) pod ja pa/（7） [vol] Том 7 (Джа)
+
+121 dkar chag [toc] Зміст
+122 zab lam phyag rgya chen po dang nA ro chos drug gi gzhung gces par btus pa nges don rin po che'i mdzod [txt] Зібрані важливі тексти глибокого шляху махамудри та шести вчень Наропи — Скарбниця коштовностей певного сенсу
+123 dpal 'khor lo bde mchog dwags po snyan brgyud kyi sgrub thabs bde chen drwa ba [txt] Садхана славного Чакрасамвари усної передачі Дваґпо — Мережа великого блаженства
+124 dpal 'khor lo bde mchog dwags po snyan brgyud kyi dkyil 'khor gyi cho ga bde chen sdom pa [txt] Ритуал мандали славного Чакрасамвари усної передачі Дваґпо — Обітниця великого блаженства
+125 snyan brgyud lhan cig skyes ma'i yum bka' rgyas pa'i mngon dkyil dang dbang bskur gyi cho ga bdud rtsi bum pa [txt] Явна мандала та ритуал абхішеки розширеної материнської сахаджі усної передачі — Посудина нектару
+126 mai tri lugs kyi sdom pa bcu gsum ma'i sgo nas thod dbang me'i 'khor lo'i byin rlabs bya ba'i lag len bde drod dpung bskyed [txt] Практика благословення колеса вогню черепного абхішеки через тринадцять обітниць традиції Майтрі — Генерація тепла та блаженства
+127 dpal 'khor lo bde mchog ras chung lugs kyi sgrub thabs bde chen ye shes thig le [txt] Садхана славного Чакрасамвари традиції Расчунґ — Крапля мудрості великого блаженства
+128 dpal 'khor lo bde mchog ras chung lugs kyi dkyil 'khor gyi cho ga bde chen lang tsho [txt] Ритуал мандали славного Чакрасамвари традиції Расчунґ — Юність великого блаженства
+129 rje btsun rdo rje rnal 'byor ma snyan brgyud lhan cig skyes ma'i brda dbang zab mo'i sgrub thabs dbang bskur dang bcas pa zab gsang bde chen shing rta [txt] Глибока садхана з абхішекою символічного абхішеки сахаджі усної передачі шановної Ваджрайоґіні — Колісниця глибокої таємниці великого блаженства
+130 bde mchog snyan brgyud ras chung lugs kyi thun mong phyi dkyil brgyad las yum bka' bsdus pa lhan cig skyes ma'i sgrub dkyil dbang cho ga dang bcas pa pad+ma rA ga'i bum bzang [txt] Садхана та абхішека мандали практики скороченої материнської сахаджі з восьми зовнішніх звичайних мандал традиції Расчунґ усної передачі Самвари — Добрий посудина лотосового раґи
+131 bde mchog mkha' 'gro snyan brgyud bsdus pa ngam rdzong lugs kyi sgrub dkyil dbang cho ga dang bcas pa he ru ka dgyes pa'i thig le [txt] Садхана та абхішека мандали практики скороченої дакині усної передачі Самвари традиції Нґамдзонґ — Крапля радості Херуки
+132 rje btsun ras chung pa'i lugs kyi dpal 'khor lo sdom pa snyan brgyud kyi gzhung chung til+li pas mdzad pa [txt] Короткий текст усної передачі обітниць славного Чакрасамвари традиції шановного Расчунґпи, складений Тілліпою
+133 dpal bde mchog snyan brgyud las/ bum dbang dang 'brel ba'i nyams len thun mong yid bzhin nor bu'i khrid yig rje mi las mdzad pa [txt] Настанова звичайної практики пов'язаної з абхішекою посудини з усної передачі Самвари, складена Рje Мі
+134 bde mchog snyan brgyud kyi rdzogs rim steng sgo rnam par grol ba'i chos drug gi khrid yig [txt] Настанова шести вчень повного етапу верхніх воріт звільнення усної передачі Самвари
+
+08) pod nya pa/（8） [vol] Том 8 (Нья)
+
+135 dkar chag [toc] Зміст
+136 bde mchog snyan brgyud kyi 'og sgo bde ba chen po gzhan lus phyag rgya ma bsten pa'i gdams pa ye shes gsal ba'i sgron me [txt] Настанова великого блаженства нижніх воріт усної передачі Самвари без опори на чужу карма-мудру — Світильник ясності мудрості
+137 bde mchog snyan brgyud kyi 'od rig bde chen gyi gdams pa [txt] Настанова ясного світла великого блаженства усної передачі Самвари
+138 bde mchog snyan brgyud kyi lam blo nas gcod pa bar do ngo sprod kyi gdams ngag zab mo [txt] Глибока настанова введення в бардо через відсікання розумом шляху усної передачі Самвари
+139 phyag rgya chen po yi ge bzhi pa'i gdams pa [txt] Настанова махамудри чотирьох літер
+140 yang dag par rdzogs pa'i sangs rgyas rdo rje 'chang chen po'i gdams pa phyag rgya chen po yi ge bzhi pa'i khrid kyi gnad 'gag che ba'i 'bru 'a'agrel gsal byed nyin mo'i mgon po [txt] Настанова великого Ваджрадхари — досконалого будди — ключові пункти настанови махамудри чотирьох літер з поясненням великих блокуючих літер — Захисник дня, що ясно пояснює
+141 bde mchog mkha' 'gro snyan gyi brgyud pa yid bzhin nor bu la gsol ba 'debs pa byin rlabs dpal ster [txt] Молитва лінії усної передачі дакині Самвари коштовності бажань — Дарування слави благословення
+142 dpal 'khor lo bde mchog ngam rdzong snyan brgyud kyi man ngag rtsa ba tshe ring skor gsum gyi gzhung [txt] Кореневий текст настанов усної передачі Нґамдзонґ славного Чакрасамвари — три цикли довголіття
+143 bde mchog snyan brgyud kyi phyag rgya chen po ye shes gsal byed [txt] Махамудра усної передачі Самвари — Ясність мудрості
+144 phyag rgya chen po ye shes gsal byed kyi gsang ba ngo sprod pa'i gdams ngag [txt] Таємна настанова безпосереднього введення ясності мудрості махамудри
+145 dpal 'khor lo bde mchog snyan brgyud dwags po lugs kyi man ngag gi rtsa ba brjed byang ma [txt] Кореневий текст настанов традиції Дваґпо усної передачі славного Чакрасамвари — Пам'ятка
+146 rje btsun ras chung pa'i khyad chos lus med mkha' 'gro'i chos skor dgu'i gzhung man ngag dang bcas pa [txt] Особливе вчення шановного Расчунґпи — текст з настановами дев'яти вчень безтілесної дакині
+147 lus med mkha' 'gro'i chos skor dgu til+li pa'i gdams pa [txt] Настанова Тілліпи дев'яти вчень безтілесної дакині
+148 lus med mkha' 'gro'i bsnyan brgyud kyi man ngag gi khrid yig [txt] Настанова настанов усної передачі безтілесної дакині
+149 rje btsun lho brag pa'i khyad par gyi gdams pa snyan gyi shog dril bzhi'i lo rgyus gzhung lhan thabs dang bcas pa [txt] Особливе вчення шановного Лходраґпи — історія з текстом чотирьох згорнутих сторінок усної передачі з додатками
+150 sgom po lugs kyi phyag chen dang chos drug zung 'brel gyi brgyud pa'i gsol 'debs byin rlabs 'pho ba'i gseng lam [txt] Молитва лінії поєднання махамудри та шести вчень традиції Сґомпо — Таємний шлях перенесення свідомості благословення
+151 sngon 'gro'i khrid yig thun bzhi'i rnal 'byor du bya ba [txt] Настанова попередніх практик — йога чотирьох сесій
+152 zab lam chos drug gi kh+r+rid yig chen mo gsang chen gyi de nyid gsal ba [txt] Велика настанова шести глибоких вчень — Ясність природи великої таємниці
+153 phyag rgya chen po'i khrid yig chen mo gnyug ma'i de nyid gsal ba [txt] Велика настанова махамудри — Ясність природної суті
+154 dwags po rin po che'i chos bzhi mdor bsdus pa [txt] Скорочені чотири вчення коштовного Дваґпо
+155 sgom pa po bkra shis rnam rgyal gyis mdzad pa sgrub pa'i zhal bskos [txt] Усні вказівки практики, складені медитатором Бкрашіс Намґ'ялом
+156 sems khrid yid bzhin nor bu'i lo rgyus [txt] Історія настанови розуму коштовності бажань
+157 skye med zhang rin po ches mdzad pa'i phyag rgya chen po'i lam mchog mthar thug [txt] Найвищий кінцевий шлях махамудри, складений коштовним Чжан Не народженим
+158 phyag rgya chen mo sgom ma mo chen mo'i sngon 'gro dngos gzhi zhang rin po che zhes 'gran gyi do med de'i man ngag [txt] Настанова без суперника Чжан коштовного — попередні та основна практика великої медитації великої махамудри
+159 rje btsun ras chung pa nas brgyud pa'i phyag rgya chen po yan lag bdun ldan gyi khrid yig [txt] Настанова махамудри з сімома частинами лінії від шановного Расчунґпи
+
+09) pod ta pa/（9） [vol] Том 9 (Та)
+
+160 dkar chag [toc] Зміст
+161 phyag rgya chen po lhan cig skyes sbyor gyi khrid yig [txt] Настанова махамудри сахаджа-юґи
+162 zab lam nA ro chos drug gi gsal byed spyi chings khrid yig dang bcas pa [txt] Ясність глибокого шляху шести вчень Наропи — загальний огляд з настановами
+163 phyag rgya chen po lhan cig skyes sbyor gyi khrid kyi spyi sdom rtsa tshig [txt] Кореневі вірші загального підсумку настанови махамудри сахаджа-юґи
+164 phyag rga chen po lhan cig skyes sbyor gyi gyi khrid zin bris snying po gsal ba'i sgron me bdud rtsi'i nying khu chos sku mdzub tshugs su ngo spyod pa [txt] Нотатки настанови махамудри сахаджа-юґи — Світильник ясності суті, есенція нектару, безпосереднє вказування пальцем на дхармакаю
+165 sgrub brgyud karma kaM tshang pa'i phyag chen lhan cig skyes sbyor gyi sngon 'gro bzhi sbyor sogs kyi ngag 'don 'phags lam bgrod pa'i shing rta [txt] Рецитація попередніх чотирьох з'єднань сахаджа-юґи махамудри лінії практики Карма Камцанґ — Колісниця проходження шляхів аріїв
+166 rdo rje rnal 'byor ma lhan cig skyes ma'i bskyed rim gyi lha khrid rnam bshad zab mo rnam 'byed kyi snying po bsdus pa [txt] Скорочена есенція глибокого пояснення настанови божеств етапу породження сахаджі Ваджрайоґіні
+167 chos rje rang byung rdo rjes mdzad pa'i rlung sems gnyis med [txt] Немислимі вітер і розум, складені Чосрже Ранґджунґ Дордже
+168 phag ma rlung sems gnyis med kyi lta khrid zin bris su bkod pa [txt] Нотатки погляду та настанови немислимих вітру і розуму Пагмо
+169 chos drug bdud rtsi nying khu'i sngon 'gro dngos grub myur stsol [txt] Попередні шести вчень есенції нектару — Швидке дарування сиддхі
+170 zab lam nA ro chos drug gi nyams len thun chos bdud rtsi'i nying khu [txt] Практика сесій глибокого шляху шести вчень Наропи — Есенція нектару звичайних вчень
+171 sku gsum ngo sprod [txt] Безпосереднє введення в три каї
+172 rdzogs pa'i sangs rgyas dpal karma pa'i zab chos sku gsum ngo sprod kyi gdams pa [txt] Глибоке вчення досконалого будди славного Кармапи — настанова безпосереднього введення в три каї
+173 dpal nA ro pa chen po'i gegs sel gzer lnga'i man ngag [txt] Настанова п'яти цвяхів усунення перешкод великого славного Наропи
+174 dpal karma pa chen po la brten pa'i thun bzhi'i bla ma'i rnal 'byor dmigs khrid dang bcas pa [txt] Йога вчителя чотирьох сесій з настановами візуалізації, оперта на великому славному Кармапі
+175 phyag rgya chen po'i bogs 'don gsol 'debs rdo rje 'chang chung ma'i dmigs rim [txt] Молитва витягнення суті махамудри — Візуалізація малої Ваджрадхари
+176 zur mang bka' brgyud kyi srol 'byed rma se grub chen blo gros rin chen gyis mdzad pa'i phyag rgya chen po'i khrid tshul [txt] Спосіб настанови махамудри, складений засновником традиції Зурманґ Кагью — великим сиддхою Рма Се Ґрубчен Бло Ґрос Рінченом
+177 ri chos baiDUr+ya'i phreng ba zhes bya ba thar 'dod kyi mgul rgyan [txt] Гірські вчення — намисто вайдур'ї, прикраса шиї бажаючих звільнення
+178 'phags pa thugs rje chen po'i dmar khrid phyag rdzogs zung 'jug gi nyams len snying po bsdus pa [txt] Скорочена суттєва практика червоного кхіду благородного великого співчуття — поєднання махамудри та дзоґчен
+179 'gro ba'i mgon po dpal phag mo gru pa rdo rje rgyal pos mdzad pa'i phyag rgya chen po'i gdams pa [txt] Настанова махамудри, складена захисником істот славним Пагмо Ґрупою Дордже Ґ'ялпо
+180 dpal 'bri gung pa'i dam chos dgongs pa gcig pa'i rtsa ba lhan thabs dang bcas pa'i gzhung chings khog dbub dang bcas pa [txt] Основний текст з додатками святого вчення славного Дріґунґпи єдиної думки з поясненнями та внутрішнім змістом
+181 dam chos dgongs pa gcig pa'i khog dbub snying po dril ba [txt] Внутрішній аналіз святого вчення єдиної думки — Скорочена сутність
+182 lnga ldan gtor dbang yid bzhin nor bu [txt] Абхішека тори п'яти складових — Коштовність бажань
+183 phyag chen lda ldan gyi khrid yig kun mkhyen chos kyi 'byung gnas kyis mdzad pa [txt] Настанова махамудри п'яти складових, складена всезнаючим Чоскі Джунґне
+184 nyams rtogs nor bu'i 'byung gnas lnga ldan khrid yig rgya mtsho lta bu [txt] Настанова п'яти джерел досвіду та реалізації коштовностей — Подібна океану
+185 blo med lhan skyes rnam bzhi'i rdzogs rim snying po don gyi phreng ba [txt] Намисто суттєвого сенсу етапу завершення чотирьох сахадж без думки
+186 dpal 'bri gung pa'i lugs kyi chos drug dril ba'i gdams pa [txt] Скорочена настанова шести вчень традиції славного Дріґунґпи
+187 nA ro chos drug gi rtogs pa don gyi brgyud pa la gsol ba 'debs pa tshig nyung ngur byas pa [txt] Коротка молитва лінії суттєвої реалізації шести вчень Наропи
+
+10) pod tha pa/（10） [vol] Том 10 (Тха)
+
+188 dkar chag [toc] Зміст
+189 phyag rgya chen po lhan cig skyes sbyor gyi khrid yig gzhung chung rdo rje'i tshig rkang yid bzhin gyi nor bu [txt] Короткий текст настанови махамудри сахаджа-юґи — Вірші ваджри коштовності бажань
+190 khro phu bka' brgyud las byung ba'i phyag rgya chen po lnga ldan gyi khrid yig [txt] Настанова махамудри п'яти складових з лінії Кагью Кхропху
+191 khro phu bka' brgyud las byung ba'i phyag rgya chen po yi ge bzhi pa'i khrid yig [txt] Настанова махамудри чотирьох літер з лінії Кагью Кхропху
+192 sngon 'gro'i zin bris [txt] Нотатки попередніх практик
+193 chos rje 'brug pa'i lugs kyi phyag rgya chen po lhan cig skyes sbyor gyi khrid yig [txt] Настанова махамудри сахаджа-юґи традиції Чосрже Друґпи
+194 chos drug bsdus pa'i zin bris [txt] Скорочені нотатки шести вчень
+195 spyod pa chos kyi glu+u zhes bya ba 'byung ba ro snyoms kyi gdams ngag [txt] Пісня поведінки Дхарми — настанова рівності смаку елементів
+196 dpal mkha' spyod dbang pos mdzad pa'i ro snyoms skor drug gi khrid yig [txt] Настанова шести циклів рівності смаку, складена славним Кхечод Ванґпо
+197 ro snyoms skor drug gi nyams len sgang du dril ba [txt] Скорочена практика шести циклів рівності смаку
+198 rten 'brel gyi sgom rim dam pa'i chos kyi za ma tog [txt] Етапи медитації взаємозалежності — Священна Дхарма заматоґ
+199 bla ma phyi nang gsang bar sgrub pa'i gzhung [txt] Текст практики вчителя зовнішнього, внутрішнього та таємного
+200 lam zab thun mong gi khrid [txt] Настанова глибокого звичайного шляху
+201 lam zab thun mong ma yin pa'i khrid rim snying po [txt] Суттєва послідовність настанови глибокого незвичайного шляху
+202 khri chen brgyad kyi mdzes rgyan [txt] Прикраса восьми великих тронів
+203 khrid chen brgyad mdzes par byed pa'i rgyan [txt] Прикраса, що гарно оздоблює вісім великих настанов
+204 'brug pa rin po che'i khrid chung brgyad kyi gdams pa kun la med pa'i khyad chos [txt] Настанова восьми малих настанов коштовного Друґпи — Особливе вчення, якого немає в усіх
+205 dge sbyor bdun pa'i nyams len sgang du bsgril ba [txt] Скорочена практика сьомого з'єднання доброчесності
+206 chos rje lo ras pa las brgyud pa'i dpal ldan smad 'brug bka' brgyud kyi khyad chos thub pa lnga'i gdams khrid chos sku rang shar [txt] Особливе вчення п'яти аскез славної нижньої лінії Друґ Кагью від Чосрже Лораспи — Самопрояв дхармакаї
+207 rgyal ba yang dgon pa'i khyad chos ri chos yon tan kun 'byung gi snying po ma drug gi gdams zab [txt] Особливе гірське вчення переможця Янґґонпи — глибока настанова шести материнських суттєвих якостей джерела всіх якостей
+208 phyag rgya chen po lhan cig skyes sbyor gyi ting nge 'dzin gyi dbang zab mo [txt] Глибока абхішека самадхі махамудри сахаджа-юґи
+209 phyag rgya chen po lhan cig skyes sbyor gyi rtsa yig [txt] Кореневий текст махамудри сахаджа-юґи
+210 chos drug rdo rje'i gzhung [txt] Ваджрний текст шести вчень
+211 skyes mchog 'ba' ra ba rgyal mtshan dpal bzang gis mdzad pa'i bla sgrub phyag chen chos drug bcas mdor bsdus snying por dril ba [txt] Скорочена суттєва практика садхани вчителя з махамудрою та шістьма вченнями, складена вищим 'Ба'рабою Ґ'ялцен Пелзанґом
+212 gnas lugs phyag rgya chen po'i khrid yig [txt] Настанова махамудри природного стану
+213 mnyam med dwags po bka' brgyud spyi khyab kyi bla ma mchod pa'i cho ga bkra shis grags pa'i sgra dbyangs [txt] Ритуал підношення вчителю неперевершеної загальної лінії Дваґпо Кагью — Звук слави та удачі
+214 dpal ye shes kyi mgon po phyag bzhi pa tshal lugs kyi sgrub thabs rjes gnang ting 'dzin dbang bskur dang bcas pa dngos grub yang snying [txt] Садхана з дозволом, абхішекою самадхі та садхана чотирирукого захисника мудрості традиції Цхал — Суттєва сиддхі
+215 dpal ye shes kyi mgon po phyag bzhi pa thel lugs lha bcu bdun pa'i sgrub thabs rjes gnang dang bcas pa byin rlabs yang snying [txt] Садхана з дозволом чотирирукого захисника мудрості традиції Тхел з сімнадцятьма божествами — Суттєве благословення
+216 dpal ye shes mgon po phyag bzhi pa sku regs ma'i rgya gzhung dang 'khor lo gnyis ma'i sgrub thabs kyi khrid yig [txt] Настанова садхани чотирирукого захисника мудрості з основним індійським текстом доторку тіла та двома колесами
+217 thugs rje chen po dang bde mgon sbrags sgrub nag po gzi mdangs kyi sgrub pa zhes bya ba dpal chen rgA lo tsA ba'i snyan brgyud [txt] Практика змішаної садхани великого співчуття та чорного Самвари сяйва — усна передача великого славного Ра Лоцави
+218 bstan srung ye shes mgon po phyag bzhi pa dpal chen rgA lo nas brgyud pa'i thel lugs dang tshal lugs kyi sgrub thabs rjes gnang dang bcas pa [txt] Садхана з дозволом чотирирукого захисника вчення мудрості традицій Тхел та Цхал лінії від великого славного Ра Ло
+219 bstan srung gtso mo dud pa'i sol ba ma'i sgrub thabs rjes gnang dang bcas pa [txt] Садхана з дозволом головної захисниці вчення Дудпи Солвами
+220 bstan srung gtso mo 'dod khams dbang phyug ma'i sgrub thabs rjes gnang dang bcas pa bka' brgyud bstan pa'i ba dan [txt] Садхана з дозволом головної захисниці вчення Володарки бажань — Прапор вчення Кагью
+
+11) pod da pa/（11） [vol] Том 11 (Да)
+
+221 dkar chag [toc] Зміст
+222 ye shes kyi mkha' 'gro ni gu ma'i chod drug rdo rje'i tshig rkang [txt] Вірші ваджри шести вчень мудрості дакині Ніґуми
+223 ye shes mkha' 'gro ni gu las brgyud pa'i zab lam gsar chos lnga'i sngon rjes ngag 'don rdo rje'i tshig rkang byin rlabs 'od 'bar [txt] Вірші ваджри рецитації попереднього та подальшого п'яти нових глибоких вчень лінії від мудрості дакині Ніґуми — Полум'яне світло благословення
+224 dpal ldan shangs pa'i gser chos lnga'i rtsa tshig 'khrul med rdo rje'i rgya mdud [txt] Кореневі вірші безпомилкових п'яти золотих вчень славного Шанґпи — Ваджрний вузол печатки
+225 rgyud sde lnga'i brgyu+ud pa'i bla ma rgya gar ba rnams la gsol ba 'debs pa [txt] Молитва індійським вчителям лінії п'яти класів тантр
+226 shangs lugs rgyud sde lnga'i brgyud pa'i gsol 'debs kyi kha skong in+d+ra nI la'i do shal [txt] Доповнення молитви лінії п'яти класів тантр традиції Шанґ — Індраніла
+227 'jam mgon bla ma gu Na'i mtshan gyi skyes rabs gsol 'debs lha yi rnga bo che'i sgra dbyangs [txt] Молитва попередніх втілень м'якого захисника вчителя Ґуни — Великий звук божественного барабана
+228 rgyud sde lnga'i dkyil 'khor sgrub pa'i thabs [txt] Засіб практики мандали п'яти класів тантр
+229 dpal rgyud sde lnga'i dkyil 'khor gyi cho ga don gsal rgyas byed [txt] Ритуал мандали славних п'яти класів тантр — Розширення ясності сенсу
+230 mdun bskyed kyi dkyil 'khor la sbyang ba bya ba [txt] Практика очищення фронтально породженої мандали
+231 shangs lugs rgyud sde lnga'i dkyil 'khor chen por dbang bskur ba'i mtshams sbyor snang ba'i go 'byed [txt] Підготовка до абхішеки великої мандали п'яти класів тантр традиції Шанґ — Відкриття дверей явлення
+232 bde mchog gi skyabs sems [txt] Прихисток та бодхічітта Самвари
+233 ni gu lugs kyi bde mchog lha lnga'i sgrub thabs [txt] Садхана п'яти божеств Самвари традиції Ніґу
+234 ni gu lugs kyi bde mchog lha lnga'i dkyil chog [txt] Ритуал мандали п'яти божеств Самвари традиції Ніґу
+235 ni gu lugs kyi bde mchog lha lnga'i tshogs kyi 'khor lo'i cho ga phrin las yar 'phel [txt] Ритуал ганачакри п'яти божеств Самвари традиції Ніґу — Зростання діяльності вгору
+236 shangs lugs bde mchog lha lnga'i sgrub thabs kyi rnam par bshad pa zab don gsal byed [txt] Пояснення садхани п'яти божеств Самвари традиції Шанґ — Ясність глибокого сенсу
+237 rgyud sde lnga'i lha lnga gtso bor bsdus pa'i man ngag bla ma gong ma'i phyag len [txt] Настанова практики вищих вчителів скорочених п'яти головних божеств п'яти класів тантр
+238 rgyud sde lnga gtso bsdus la brten pa'i dkyil 'khor mchod chog bdag 'jug dang bcas pa smin grol snying po [txt] Ритуал підношення мандали з входженням себе опертих на скорочені п'ять головних — Сутність дозрівання та звільнення
+239 rgyud sde lnga gtso bsdus kyi bsnyen yig zab don snying po [txt] Текст наближення скорочених п'яти головних — Сутність глибокого сенсу
+240 zab lam ni gu chos drug gi bka' bcu'i phyag len bklags chog tu bkod pa bde chen myu gu'i phreng ba [txt] Практика десяти вказівок шести глибоких вчень Ніґу, складена для читання — Намисто паростків великого блаженства
+241 dpal ldan shangs pa bka' brgyud kyi gzhung bka' phyi ma rnams phyogs gcig tu bsgril ba'i phyag len bde chen snye ma'i chun po [txt] Зібрана практика пізніших текстів славної лінії Шанґпа Кагью — Збірка паростків великого блаженства
+
+12) pod na pa/（12） [vol] Том 12 (На)
+
+242 dkar chag [toc] Зміст
+243 zab lam ni gu chos drug gi bka' khrid zab don thang mar brdal ba zhes bya ba bklags chog ma [txt] Настанова десяти вказівок шести глибоких вчень Ніґу — рівномірно розлите по рівнині глибокого сенсу, для читання
+244 zab lam ni gu chos drug gi gzhung khrid ma mo'i lhan thabs kha skong [txt] Додаток материнських додатків настанови тексту шести глибоких вчень Ніґу
+245 ni gu'i 'khrul 'khor rtsa 'grel [txt] Кореневий текст з коментарем колеса ілюзії Ніґу
+246 ye shes mkha' 'gro ni gu ma'i chos drug gi khrid kyi gnad yig snying po kun 'dus [txt] Ключовий текст настанови шести вчень мудрості дакині Ніґуми — Зібрання всіх суттєвостей
+247 ni gu'i yan lag phyag chen ga'u ma'i khrid [txt] Настанова махамудри ґауми — частини Ніґу
+248 rtsa ba ni gu chos drug gi khrid bsdus stan thog gcig ma'i nyams len ye shes DA ki'i zhal lung [txt] Скорочена настанова кореневих шести вчень Ніґу — практика на одному сидінні, усні вказівки дакині мудрості
+249 phyag chen ga'u ma 'am rang babs rnam gsum zhes bya ba'i khrid yig [txt] Настанова махамудри ґауми або трьох природних спадінь
+250 me tog mkha' spyod dkar dmar gyi nyams len dbu ma'i mdud 'grol [txt] Практика білої та червоної дакині квітки — Розв'язання вузла центрального каналу
+251 mkha' spyod ma dkar mo'i bstod pa [txt] Хвала білій дакині
+252 mkha' spyod ma dkar mo'i 'pho ba [txt] Перенесення свідомості білої дакині
+253 su kha sid+d+hi'i lo rgyus/ rgya gzhung / gsang sgrub lte ba spral 'khor/ dbang chog [txt] Історія Сукахасіддхі / індійський текст / таємна практика переплетеного центру / ритуал абхішеки
+254 zab lam su kha chos drug gi brgyud pa'i gsol 'debs bde chen char 'bebs [txt] Молитва лінії шести глибоких вчень Сукахи — Злива великого блаженства
+255 su kha sid+d+hi'i zhal gdams kyi skor dang / gzer gsum gdams pa [txt] Цикл усних настанов Сукахасіддхі та настанова трьох цвяхів
+256 dpal ldan shangs pa bka' brgyud kyi zab chos lha bzhi'i dril sgrub kyi nyams len ye shes rang gsal [txt] Практика скороченої садхани чотирьох божеств глибокого вчення славної лінії Шанґпа Кагью — Самоясна мудрості
+257 dpal ldan shangs pa bka' brgyud kyi zab chos lha bzhi'i dril sgrub kyi khrid yig ye shes 'od 'phro [txt] Настанова скороченої садхани чотирьох божеств глибокого вчення славної лінії Шанґпа Кагью — Поширення світла мудрості
+258 'gro mgon shangs pa bka' brgyud kyi bla ma mchod pa'i cho ga yid bzhin nor bu [txt] Ритуал підношення вчителю захисника істот лінії Шанґпа Кагью — Коштовність бажань
+259 dpal ldan shangs pa bka' brgyud kyi ngo mtshar rin chen brgyud pa'i rnam thar la gsol ba 'debs pa u dum+bara'i phreng ba [txt] Молитва дивовижним життєписам коштовної лінії славної Шанґпа Кагью — Намисто утамбара
+260 dpal ldan bla ma dam pa'i rnam par thar pa dad pa'i ljon shing [txt] Життєпис славного святого вчителя — Дерево віри
+261 rje btsun rin po che'i rnam thar gsol 'debs kha skong dad pa'i me tog [txt] Доповнення молитви життєпису шановного коштовного — Квітка віри
+262 zab chos ni gu chos drug gi brgyud 'debs nyung 'dus bde chen 'bebs pa [txt] Коротка молитва лінії шести глибоких вчень Ніґу — Злива великого блаженства
+263 ni gu ma'i smon lam bka' rgya ma [txt] Молитва-бажання Ніґуми з печаткою вказівки
+264 dpal ldan shangs pa bka' brgyud kyi do ha rdo rje'i tshig rkang dang mgur dbyangs phyogs gcig tu bsgrigs pa thos pa don ldan byin rlabs rgya mtsho [txt] Зібрані пісні-доха ваджрних віршів та духовні пісні славної лінії Шанґпа Кагью — Океан осмислених благословень слухання
+265 shangs lugs mkha' 'gro sde lnga'i sgrub thabs rjes gnang dang bcas pa [txt] Садхана з дозволом п'яти класів дакинь традиції Шанґ
+266 shangs lugs mkha' 'gro sde lnga'i mchod gtor 'bul ba dkyus ma tsam gyi lag len [txt] Практика підношення тори п'яти класів дакинь традиції Шанґ — лише на відстань долоні
+267 dpal ye shes kyi mgon po phyag drug pa'i sgrub thabs gtor ma'i cho ga dang bcas pa 'phrin las gter mdzod [txt] Садхана шестирукого захисника мудрості з ритуалом тори — Скарбниця діяльності
+268 dpal myur mdzad ye shes mgon pa'i gtor chog rgyas pa'i kha skong dmigs rim dang bcas pa gsal bar bkod pa las bzhi lhun grub [txt] Розширений ритуал тори швидкодіючого захисника мудрості з доповненням візуалізації — Ясно викладене спонтанне досягнення чотирьох діяльностей
+269 myur mdzad ye shes mgon po phyag drug pa'i gtor chog nyer bsdus [txt] Скорочений ритуал тори шестирукого швидкодіючого захисника мудрості
+270 dpal myur mdzad ye shes mgon pa'i byin rlabs rjes gnang gi bka' yig phyogs gcig tu bsdebs pa [txt] Зібрані тексти дозволу благословення славного швидкодіючого захисника мудрості
+271 myur mdzad ye shes mgon po snying zhugs kyi rjes gnang thun mong ma yin pa srog gi rgya can [txt] Незвичайний дозвіл проникнення в серце швидкодіючого захисника мудрості — З печаткою життя
+272 mgon po phyag drug pa snying zhugs dang 'brel ba'i bla ma'i rnal 'byor bka' rgya ma [txt] Йога вчителя пов'язана з проникненням в серце шестирукого захисника — З печаткою вказівки
+273 myur mdzad ye shes mgon po mthing dkar gnyis kyi mnga' gsol dge legs sprin phung [txt] Підкорення синього та білого швидкодіючого захисника мудрості — Хмари доброчесності та блага
+274 zhing skyong chen po k+She tra pA la yab yum gyi thunamong ma yin pa'i rjes gnang bskur chog [txt] Незвичайний ритуал дозволу та абхішеки великого захисника полів Кшетрапали з супругою
+
+13) pod pa pa/（13） [vol] Том 13 (Па)
+
+275 dkar chag [toc] Зміст
+276 dam chos sdug bsngal zhi byed kyi gzhung gsang ba bsam gyi mi khyab pa'i rgyud sde'i dum bu rin po che'i snying po [txt] Основний текст святого вчення заспокоєння страждань — Фрагмент тантри неосяжної таємниці думки, сутність коштовностей
+277 zhi byed snga phyi bar gsum gyi dbang chog rnams phyogs gcig tu bsgrigs pa bklags pas grub pa [txt] Зібрані ритуали абхішеки ранньої, пізнішої та середньої традицій заспокоєння — Досягнення через читання
+278 zhi byed bka' babs rnam gsum gyi bla brgyud gsol 'debs gser phreng mar grags pa [txt] Молитва лінії вчителів трьох спадінь вказівок заспокоєння — Відоме золоте намисто
+279 zhi byed snga phyi bar gsum gyi khrid yig rnams phyogs gcig tu bsdebs pa bdud rtsi'i nying khu [txt] Зібрані настанови ранньої, пізнішої та середньої традицій заспокоєння — Есенція нектару
+280 grub chen dam pa sangs rgyas nas brgyud pa'i dam chos sdug bsngal zhi byed kyi lam khrid lnga'i khrid yig dri med snang ba grub pa mchog gi zhal lung [txt] Настанова п'яти етапів шляху святого вчення заспокоєння страждань лінії від великого сиддхи Дампа Санґ'є — Непорочні усні вказівки найвищого досягнення явлення
+281 dam pa sangs rgyas kyi zhal gdams byang chub sems dpa' kun dga' la gsungs pa [txt] Усні настанови Дампа Санґ'є, дані бодхісаттві Кунґа
+282 thugs kyi zhal chems pad mo brtsegs pa [txt] Заповіт серця — Накладені лотоси
+
+14) pod pha pa/（14） [vol] Том 14 (Пха)
+
+283 dkar chag [toc] Зміст
+284 shes rab kyi pha rol tu phyin pa'i zab don bdud kyi gcod yul gyi gzhung [txt] Основний текст глибокого сенсу досконалості мудрості — Об'єкт відсікання демонів
+285 shes rab kyi pha rol tu phyin pa'i man ngag gcod kyi gzhung 'grel zag med sbrang rtsi [txt] Коментар до основного тексту настанов досконалості мудрості відсікання — Непорочний нектар бджіл
+286 gcod bka' tshoms chen mo'i sa bcad [txt] Розділи великого зібрання вказівок відсікання
+287 shes rab kyi pha rol tu phyin pa'i man ngag gcod kyi gzhung shes rab skra rtse'i sa gzhung spel ba rin po che'i gter mdzod [txt] Основний текст настанов досконалості мудрості відсікання — Скарбниця коштовностей, що поширює основу пучка мудрості
+288 shes rab kyi pha rol tu phyin pa'i man ngag yang tshom zhus lan ma [txt] Настанова досконалості мудрості — Питання та відповіді повторно
+289 zab mo bdud kyi gcod yul gyi khrid yig [txt] Настанова глибокого об'єкту відсікання демонів
+290 gcod yul zab mo'i khrid yig gnad don snying po [txt] Настанова глибокого об'єкту відсікання — Сутність ключового сенсу
+291 gcod kyi tshogs las yan tan kun ldan gyi dmigs rim bla ma'i gsung rgyun gyi zin bris shel dkar me long [txt] Нотатки потоку слів вчителя візуалізації повної якостей ганачакри відсікання — Кришталеве дзеркало
+292 gcod khrid zab mo 'dod dgu'i char 'bebs [txt] Глибока настанова відсікання — Злива дев'яти бажань
+293 gcod kyi lus sbyin gyi ngag 'don mu tig phreng ba [txt] Рецитація підношення тіла відсікання — Намисто перлин
+294 gcod kyi tshogs las yon tan kun 'byung gsungs rgyun 'khrul med ltar bkod pa [txt] Потік слів ганачакри відсікання повної якостей джерела — Безпомилково викладений
+295 DA ki ma rnams kyi gtor 'bul [txt] Підношення тори дакиням
+296 gcod yul rgya mtsho'i snying po stan thog gcig tu nyams su len pa'i tshul zab mo'i yang zhun [txt] Найкраще глибокого способу практики суті океану об'єкту відсікання на одному сидінні
+297 gcod yul gyi dbang nam mkha' sgo 'byed du grags pa [txt] Абхішека об'єкту відсікання — Відома як відкриття дверей простору
+298 gcod kyi skong ba rnams bzhugs pa'i dbu phyogs [txt] Головний розділ доповнень відсікання
+299 lus mchod sbyin zin bris mdor bsdus kun dga'i skyed tshal [txt] Скорочені нотатки підношення тіла — Сад радості
+300 phyag rgya chen po gcod kyi gdams pa nam mkha' sgo 'byed [txt] Настанова махамудри відсікання — Відкриття дверей простору
+301 dam chos sdug bsngal zhi byed dang gcod yul brgyud pa'i bla ma rnams chabs cig tu mchod cing gsol ba 'debs pa'i cho ga bkra shis grags pa'i snying po [txt] Ритуал одночасного підношення та молитви вчителям лінії святого вчення заспокоєння страждань та об'єкту відсікання — Сутність слави та удачі
+
+15) pod ba pa/（15） [vol] Том 15 (Ба)
+
+302 dkar chag [toc] Зміст
+303 rdo rje rnal 'byor yan lag drug pa'i rgyud dang man ngag gi snying po'i gzhung [txt] Тантра та сутність настанов ваджрної йоги шести частин
+304 dpal dus kyi 'khor lo'i rnal 'byor yan lag drug gi 'grel ba snying po bsdus pa [txt] Скорочений коментар до йоги шести частин славного Колеса часу
+305 dus 'khor lha dgu'i sgrub thabs rgyas pa [txt] Розширена садхана дев'яти божеств Колеса часу
+306 dpal dus kyi 'khor lo'i mchod chog nyer mkho [txt] Необхідний ритуал підношення славному Колесу часу
+307 dpal dus kyi 'khor lo'i dbang gong ma'i cho ga [txt] Ритуал вищого абхішеки славного Колеса часу
+308 zab lam rdo rje'i rnal 'byor gyi 'khrid yig mthong ba don ldan [txt] Настанова глибокого шляху ваджрної йоги — Осмислене бачення
+309 rnal 'byor yan lag drug pa'i rtags tshad kyi yi ge [txt] Текст ознак міри йоги шести частин
+310 sbyor drug gegs sel [txt] Усунення перешкод шести з'єднань
+311 bla med sngags chos kyi snying po'i bcud len lam zab bdud rtsi'i thig le [txt] Витяг суті найвищої мантри Дхарми глибокого шляху — Крапля нектару
+312 dpal dus kyi 'khor lo'i sbyor drug gi sngon 'gro chos spyod kyi ngag 'don zung 'jug them skas [txt] Рецитація попередніх поведінки Дхарми шести з'єднань славного Колеса часу — Сходи поєднання
+313 dpal dus kyi 'khor lo'i rim gnyis 'bro lugs kyi brgyud pa'i gsol 'debs rdo rje 'bebs pa chen po [txt] Молитва лінії способу танцю двох етапів славного Колеса часу — Великий дощ ваджри
+314 grub chen dpe med 'tsho'i lugs kyi sbyor ba yan lag drug pa'i rnal 'byor gyi snying pa nges pa [txt] Певність суті йоги шести частин з'єднання традиції великого сиддхи Дпемед Цхо
+315 dpe med 'tsho'i lugs kyi rnal 'byor yan lag drug pa'i khrid rdo rje'i tshig 'byed [txt] Настанова йоги шести частин традиції Дпемед Цхо — Відкривач ваджрних слів
+316 snying po rdo rje'i tshig ces bya ba lce rtse rkan sbyar gyi gdams ngag gi rtsa ba [txt] Кореневий текст настанов відомих як «Суттєві ваджрні слова» — З'єднання язика, кінчика та стоп
+317 lce rtse rkan sbyar gyi khrid rdo rje 'dzin pa'i nye lam [txt] Настанова з'єднання язика, кінчика та стоп — Близький шлях ваджрадхари
+318 lce rtse rkan sbyar gyi 'khrul 'khor 'grel ba [txt] Коментар до колеса ілюзії з'єднання язика, кінчика та стоп
+319 bcom ldan 'das kyi dpal dus kyi 'khor lo lhan cig skyes pa'i sgrub thabs rjes gnang dang bcas pa'i yi ge snying po grub pa [txt] Текст садхани з дозволом сахаджі славного Колеса часу переможного — Сутність досягнення
+320 chos rgyal rigs ldan gtso bor gyur pa rdo rje'i rnal 'byor brgyud pa'i bla ma mchod pa'i cho ga rdo rje nyi ma'i snang ba chen po [txt] Ритуал підношення вчителю лінії ваджрної йоги з Чосґ'ялом Ріґденом на чолі — Велике явлення сонця ваджри
+321 bcom ldan 'das dus kyi 'khor lo'i khro rgyal rdo rje shugs kyi sgrub thabs dang rjes gnang bklags chog tu bkod pa ye shes grub pa [txt] Садхана з дозволом гнівного царя ваджрної сили Колеса часу переможного, складена для читання — Досягнення мудрості
+322 grub chen o rgyan pa'i gdams ngag rdo rje gsum gyi bsnyen sgrub kyi gzhung [txt] Настанова великого сиддхи Орґ'єнпи — Текст наближення та практики трьох ваджр
+323 bsnyen sgrub kyi 'grel bshad yid bzhin nor bu [txt] Пояснення наближення та практики — Коштовність бажань
+324 rdo rje gsum gyi bsnyen sgrub las sngon 'gro'i cho ga [txt] Ритуал попередніх трьох ваджр наближення та практики
+325 rdo rje gsum gyi bsnyen sgrub sgrub chen gdan rdzogs su bsgom pa'i byang sems 'gyur med kyi man ngag grub pa'i snying tig [txt] Настанова незмінного бодхічітти повної медитації трону великого сиддхи трьох ваджр наближення та практики — Суттєва крапля досягнення
+326 bsnyen sgrub kyi khrid yig [txt] Настанова наближення та практики
+327 thun mong ma yin pa'i smon lam rgyal ba rgya mtsho ma [txt] Незвичайна молитва-бажання — Мати океану переможців
+
+16) pod ma pa/（16） [vol] Том 16 (Ма)
+
+328 dkar chag [toc] Зміст
+329 sgrub brgyud shing rta chen po brgyad kun 'dus kyi bla ma mchod pa'i cho ga byin rlabs dngos grub yon tan kun gyi 'byung gnas [txt] Ритуал підношення вчителю зібрання всіх восьми великих колісниць лінії практики — Джерело всіх якостей сиддхі та благословення
+330 bla ma rdo rje 'chang grub thob brgyad cu rtsa bzhi'i byin rlabs lhan cig tu bya ba'i tshul dngos grub chu rgyun [txt] Спосіб одночасного благословення вчителя Ваджрадхари вісімдесяти чотирьох махасіддх — Потік сиддхі
+331 'phags yul gyi grub chen brgyad cu rtsa bzhi la mchod cing gsol ba gdab pa'i cho ga dngos grub kun 'byung [txt] Ритуал підношення та молитви вісімдесяти чотирьом махасіддхам святої землі — Джерело всіх сиддхі
+332 grub mchog spyi la brten pa'i bla ma'i rnal 'byor rgya gar lugs dngos grub thig le 'khyil pa [txt] Йога вчителя оперта на загального найвищого сиддху індійської традиції — Крапля сиддхі, що кружляє
+333 gru thob brgyad cu rtsa bzhi'i rdzogs rim rin chen phreng ba rtsa 'grel [txt] Етап завершення вісімдесяти чотирьох махасіддх — Намисто коштовностей з кореневим коментарем
+334 'phags pa spyan ras gzigs dbang phyug gi lam gyi rim pa'i mngon rtogs dbang bskur thugs rje chen po'i chu rgyun [txt] Абхішека реалізації етапів шляху благородного Володаря Авалокітешвари — Потік великого співчуття
+335 'phags pa spyan ras gzigs dbang phyug gi dbang chog rin chen 'od 'phro'i mchod bsgrigs dkyil 'khor ston pa [txt] Ритуал абхішеки благородного Володаря Авалокітешвари — Мандала підношення поширення світла коштовностей
+336 mgon po 'jam dpal dbyangs kyi rjes gnang [txt] Дозвіл захисника Манджушрі
+337 bcom ldan 'das phyag na rdo rje'i rjes gnang byin rlabs kyi 'byung gnas [txt] Дозвіл переможного Ваджрапані — Джерело благословення
+338 bcom ldan 'das tshe dpag med kyi rjes gnang [txt] Дозвіл переможного Амітаюса
+339 sgrol ma 'jigs pa brgyad skyob 'khor ba 'phrang sgrol gyi rjes gnang [txt] Дозвіл Тари, що захищає від восьми страхів та визволяє з самсари
+340 ar+ya dzamab+ha la'i rjes gnang [txt] Дозвіл благородного Джамбхали
+341 chos skyong brag lha mgon po'i rjes gnang bgegs dpung 'joms byed [txt] Дозвіл захисника Дхарми Браґлха Ґонпо — Приборкувач армій перешкод
+342 spyan ras gzigs kyi lam gyi rim pa rdo rje'i tshig rkang [txt] Вірші ваджри етапів шляху Авалокітешвари
+343 'phags pa spyan ras gzigs dbang phyug gi bsnyen sgrub bdud rtsi'i chu rgyun [txt] Наближення та практика благородного Володаря Авалокітешвари — Потік нектару
+344 'phags pa spyan ras gzigs dbang phyug gi byang chub lam gyi rim pa'i khrid yongs su sdud pa bdud rtsi'i dga' ston [txt] Повна настанова етапів шляху просвітлення благородного Володаря Авалокітешвари — Свято нектару
+345 'phags pa spyan ras gzigs kyi byang chub lam gyi rim pa'i khrid kyi cha lag man ngag gser gyi thur ma rin po che'i sgron me [txt] Додаткова настанова етапів шляху просвітлення благородного Авалокітешвари — Золотий кадик коштовний світильник
+346 'jam dpal dbyangs sku'i khrid shes rab 'phel byed ye shes rgyan gyi 'khor lo [txt] Настанова тіла Манджушрі — Колесо прикраси мудрості, що збільшує мудрість
+347 bcom ldan 'das phyag na rdo rje thugs kyi khrid bdud dpung 'joms byed 'od zer rgyas pa [txt] Настанова серця переможного Ваджрапані — Розширений промінь, що приборкує армії демонів
+348 bcom ldan 'das mgon po tshe dpag med yon tan gyi khrid 'chi med rdo rje'i sku sgrub par byed pa [txt] Настанова якостей переможного захисника Амітаюса — Повна практика безсмертного ваджрного тіла
+349 sgrol ma 'jigs pa brgyad skyob phrin las kyi khrid 'khor ba'i 'phrang sgrol [txt] Настанова діяльності Тари, що захищає від восьми страхів — Визволення з прірви самсари
+350 dzamab+ha la ser po'i khrid dngos grub char 'bebs [txt] Настанова жовтого Джамбхали — Злива сиддхі
+351 spyan ras gzigs lam rim bla ma brgyud pa la gsol 'debs byin rlabs kyi chu gter [txt] Молитва лінії вчителів ламріму Авалокітешвари — Скарбниця потоку благословення
+352 chos skyong brag lha mgon pa'i mngon rtogs [txt] Реалізація захисника Дхарми Браґлха Ґонпо
+353 'phags pa spyan ras gzigs kyis grub chen mi tra dzo ki la gsungs pa'i rang gi sems nyid ngal gso ba'i man ngag [txt] Настанова відпочинку в природі власного розуму, дана благородним Авалокітешварою великому сиддсі Мітрадзокі
+354 'phags pa spyan ras gzigs kyis gru chen mi tra dzo ki la gsungs pa'i phyag rgya chen po sems nyid ngal gso'i gzhung 'grel snying po bsdus pa [txt] Скорочений коментар до махамудри відпочинку в природі розуму, дана благородним Авалокітешварою великому сиддсі Мітрадзокі
+355 phyag rgya chen po sems nyid ngal gso'i rtsa ba mdo yi lung dang sbyar ba [txt] Кореневий текст махамудри відпочинку в природі розуму узгоджений з цитатами сутр
+356 sems nyid ngal gso'i brgyud 'debs gnas sbyar ma [txt] Молитва лінії відпочинку в природі розуму — Прикладена до місця
+357 grub chen mi tra dzo kis mdzad pa'i snying po don gsum gyi man ngag gi rtsa ba rdo rje' tshig rkang [txt] Кореневий текст настанов суттєвого сенсу трьох пунктів, складений великим сиддхою Мітрадзокі — Вірші ваджри
+
+17) pod tsa pa/（17） [vol] Том 17 (Ца)
+
+358 dkar chag [toc] Зміст
+359 thugs rje chen po'i dmar khrid skyer sgang lugs kyi brgyud 'debs [txt] Молитва лінії червоного кхіду великого співчуття традиції Ск'єр Ґанґ
+360 spyan ras gzigs dpal mo lugs kyi brgyud 'debs [txt] Молитва лінії Авалокітешвари традиції Палмо
+361 thugs rje chen po'i dmar khrid [txt] Червоний кхід великого співчуття
+362 thugs rje chen po'i dmar khrid zla rgyal lugs kyi brgyud 'debs [txt] Молитва лінії червоного кхіду великого співчуття традиції Зла Ґ'ял
+363 thugs rje chen po rgyal po lugs kyi brgyud 'debs [txt] Молитва лінії великого співчуття царської традиції
+364 grub pa'i dbang phyug thang stong rgyal po la thugs rje chen pos dngos su gnang ba'i snying po yi ge drug pa'i nyams len gyi gzhung gsal byed dang bcas pa [txt] Текст з ясністю практики суттєвого шести літер, безпосередньо даного великим співчуттям володарю сиддхі Тханґтонґ Ґ'ялпо
+365 kun mkhyen bo dong pa'i lugs kyi phyag rgya chen po'i khrid yig grub pa'i zhal lung bdud rtsi'i snying po [txt] Настанова махамудри всезнаючої традиції Бодонґпи — Усні вказівки досягнення, есенція нектару
+366 kun mkhyen bo dong pa'i lugs kyi phyag rgya chen po lhan cig skyes sbyor dang zab gsal dbyer med zung du 'jug pa'i s+jon 'gro'i ngag 'don ma rig mun sel [txt] Рецитація попередніх поєднання сахаджа-юґи махамудри та нероздільного глибокого та ясного всезнаючої традиції Бодонґпи — Розвіювання темряви невідання
+367 bo dong lugs kyi phyag rgya chen pa zab gsal gyi ring brgyud gsol 'debs ye shes mchog stsol [txt] Молитва далекої лінії глибокого та ясного махамудри традиції Бодонґ — Дарування найвищої мудрості
+368 bo dong ras chen dpal 'byor bzang po'i lugs kyi gtum mo zhag bdun ma'i khrid yig bla ma'i zhal lung [txt] Настанова ґтумо семи днів традиції Бодонґ Расчен Пелджор Занґпо — Усні вказівки вчителя
+369 kun mkhyen bo dong pa'i bka' srol thub pa mdo gcod kyi ngag 'don bklags pas grub pa [txt] Рецитація канонної традиції всезнаючого Бодонґпи відсікання сутр — Досягнення через читання
+370 kun mkhyen bo dong pa'i dpal de nyid 'dus chen gyi zab khrid chos skor dag las/ thub pa chen po'i gcod khrid kyi khrid yig zab don yang snying [txt] Настанова відсікання великого аскета з циклів глибоких настанов славної великої збірки сутності всезнаючого Бодонґпи — Суттєвіше глибокого сенсу
+371 gtum mo zhag bdun ma'i gsol 'debs sngon 'gro ngag 'gro ngag 'don gsum sbyor [txt] Молитва з поєднанням трьох рецитацій попередніх ґтумо семи днів
+372 ras chen dpal 'byor bzang po nas brgyud pa'i 'pho ba'i lo rgyus gdams ngag dang bcas pa [txt] Історія з настановами перенесення свідомості лінії від Расчен Пелджор Занґпо
+373 thams cad mkhyen pa rong ston chen pos yum la gnang ba'i zab lam 'pho ba'i gdams skor [txt] Цикл глибоких настанов перенесення свідомості, даний всезнаючим великим Ронґтоном матері
+374 grub chen zhi ba zhi ba sbas pa'i thugs bcud bka' babs bdun ldan gyi gzhung rdo rje'i lam bzang [txt] Текст суті серця великого сиддхи прихованого мирного — Добрий ваджрний шлях з сімома спадіннями вказівок
+375 bka' babs drug ldan gyi khrid yig 'phags yul grub pa'i zhal lung [txt] Настанова шести спадінь вказівок — Усні вказівки сиддхів святої землі
+376 bka' babs drug ldan gyi zab khrid brgyud pa'i gsol 'debs mu tig phreng ba [txt] Молитва лінії глибокої настанови шести спадінь вказівок — Намисто перлин
+377 bcud len gyi gdams pa rim pa lnga pa [txt] Настанова витягу суті п'яти етапів
+378 chu'i bcud len gyi gdams pa 'chi med rig 'dzin sgrub pa'i chu rgyun [txt] Настанова витягу суті води — Потік практики безсмертного відядхари
+379 snyan brgyud rde'u bcud len dang me tog bcud len gyi 'don khrid sbrags ma [txt] Змішана рецитація та настанова усної передачі витягу суті кришталю та квітки
+380 tshe sgrub zhag bdun ma'i nyams len gyi rim pa 'chi med bdud rtsi'i bcud len [txt] Етапи практики практики життя семи днів — Витяг суті безсмертного нектару
+381 gtsug tor rnam par rgyal ba lha dgu'i sgrub thabs rjes gnang dang bcas pa rin 'byung la khol du phyungs pa [txt] Садхана з дозволом дев'яти божеств повної перемоги Ушнішавіджаяї, витягнута з джерела коштовностей
+382 rnam rgyal lha dgu'i sgrub thabs bum chog dang bcas pa [txt] Садхана дев'яти божеств повної перемоги з ритуалом посудини
+383 sgrol dkar yid bzhin 'khor lo thun mong ma yin pa'i sgrub cing mchod pa'i cho ga 'chi med bdud rtsi'i rol mtsho [txt] Незвичайний ритуал практики та підношення Білої Тари коштовності бажань — Океан гри безсмертного нектару
+384 sgrol dkar yid bzhin 'khor lo'i bla ma brgyud pa'i gsol 'debs [txt] Молитва лінії вчителів Білої Тари коштовності бажань
+385 rje btsun sgrol ma yid bzhin 'khor lo'i zab khrid thun mong ma yin pa'i yi ge bde ldan mgon po'i zhal lung ring 'tsho'i bsil sbyin [txt] Незвичайний текст глибокої настанови шановної Тари коштовності бажань — Усні вказівки захисника блаженних, прохолода довгого життя
+386 sgrol dkar yid bzhin 'khor lo'i tshe khrid zla ba'i chu rgyun gyi nyams len snying po bsdus pa [txt] Скорочена сутність практики життя Білої Тари коштовності бажань — Потік місячної води
+387 bla ma tshe lha rnam gsum gyi rnal 'byor dang rjes su 'brel bar tshogs gnyis spel ba'i cho ga 'chi med grub pa'i dga' ston [txt] Йога трьох божеств життя вчителя з подальшим ритуалом розширення двох зібрань — Свято досягнення безсмертя
+
+18) pod tsha pa/（18） [vol] Том 18 (Цха)
+
+388 dkar chag [toc] Зміст
+389 khrid brgya'i brgyud 'debs brtsod bde brgyud pa'i mtshan sdom cung zad gsal bar bkod pa [txt] Молитва лінії ста настанов — Трохи ясно викладені назви легкої лінії
+390 khrid brgya'i brgyud 'debs kha skong [txt] Доповнення молитви лінії ста настанов
+391 zab khrid brgya dang brgyad kyi khungs gleng ba'i zhabs rten tshigs su bcad pa [txt] Віршоване пояснення джерел ста восьми глибоких настанов — Опора ніг
+392 khrid brgya'i spyi chings rnam par spel ba ngo mtshar chos kyi sgo mang [txt] Загальний огляд поширення ста настанов — Багато дивовижних дверей Дхарми
+393 khrid brgya'i brgyud pa'i lo rgyus [txt] Історія лінії ста настанов
+394 khrid brgya'i brgyud pa'i lo rgyus kha skong [txt] Доповнення історії лінії ста настанов
+395 khrid brgya'i sngon 'gro thun mong ba [txt] Звичайні попередні ста настанов
+396 khrid brgya'i sngon 'gro thun mo ma yin pa [txt] Незвичайні попередні ста настанов
+397 zab khrid brgya dang brgyad kyi yi ge [txt] Текст ста восьми глибоких настанов
+398 khrid brgya'i sa 'grel ya mtshan 'phrul gyi lde mig [txt] Коментар до основи ста настанов — Чарівний ключ дивовижних ознак
+399 khrid brgya'i mtshan tho dmigs bsal [txt] Список назв ста настанов з чіткою візуалізацією
+400 khrid brgya'i bod dbang byed tshul bla ma'i zhal shes yi ger bkod pa byin rlabs kyi za ma tog [txt] Спосіб дарування абхішеки тибетською ста настанов з усних знань вчителя — Заматоґ благословення
+401 sgrub brgyud shing rta chen po brgyad kyi smin grol snying po phyogs gcig bsdus pa gdams ngag rin po che'i mdzod kyi dkar chag bkra shis grags pa'i rgya mtsho [toc] Зміст скарбниці коштовних настанов скороченої суті дозрівання та звільнення восьми великих колісниць лінії практики — Океан слави та удачі
+402 'dul ba'i las mchog mthong ba don ldan [txt] Найвища діяльність вінейї — Осмислене бачення
+
