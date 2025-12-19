@@ -1,4 +1,5 @@
    68.29 KiB @#/_/'gyur med rdo rje/ gsung 'bum dkar chag/ Збірка праць Ґюрме Дордже
+  217.43 KiB @#/_/'jam mgon kong sprul/ man ngag lta ba'i phreng ba'i tshig don gyi 'grel zin mdor bsdus pa zab don pad tshal 'byed pa'i nyi 'od/ Коментарі на зміст, слова і нотатки.
    58.15 KiB @#/_/'jigs bral ye shes rdo rje/ kun bzang dgongs pa kun 'dus kyi sngon 'gro 'i ngag 'don byad chub 'am bzang zhis bya ba bzhugs so/ Кунсанг Гонпа Кунду Ньондро
    15.69 KiB @#/_/'jigs bral ye shes rdo rje/ rong zom chos kyi bzang po'i rnam thar/ Біографія Ронгдзома Махапандіти Джигдрала Дордже
     2.78 KiB @#/_/'jigs bral ye shes rdo rje/ sgang steng sprul sku kun bzang pad ma rnam rgyal gyi zhabs brtan smon lam/ Молитва Кунсангу Пема Намг'ялу Пелбару
@@ -38,6 +39,7 @@
    11.39 KiB @#/_/dung mtsho ras pa phyi ma/ yang ti nag po gser gyi 'bru gcig pa dkar chag/ Зміст Янгті Накпо
     6.04 KiB @#/_/dung mtsho ras pa phyi ma/ yang ti nag po thugs thig/ Туктіки Янгті Накпо
    16.92 KiB @#/_/dung mtsho ras pa phyi ma/ yang ti'i snyan rgyud yi ge med pa'o/ Передача Янгті Накпо без письма
+   87.33 KiB @#/_/gdams ngag mdzod/ dkar chag/ Зміст збірки Дамнгак Дзо
   143.14 KiB @#/_/gnam chos/ dkar chag/ Зміст циклу терма «Небесне вчення» (Намчо) Мінґ’юра Дордже
        210 B @#/_/gnam chos/ dkar gtor/ Офіра білого торма Намчо
    17.35 KiB @#/_/gnam chos/ dpal chen mgon po bdun chu rtsa gnyis/ 72 Величних і Славних Гомпо Намчо
@@ -65,11 +67,11 @@
     4.40 KiB @#/_/klong chen 'od gsal mkha' 'gro snying thig/ badz+ra gu ru bla ma'i rnal 'byor/ Гуру-йога Падмасабхави
     5.18 KiB @#/_/klong chen 'od gsal mkha' 'gro snying thig/ badz+ra satwa/ Практика Ваджрасатви
        237 B @#/_/klong chen 'od gsal mkha' 'gro snying thig/ bla ma rnal 'byor/ Гуру-Йога
-    2.85 KiB @#/_/klong chen 'od gsal mkha' 'gro snying thig/ brgyud/ Перелік передач Лонгсал
+    2.84 KiB @#/_/klong chen 'od gsal mkha' 'gro snying thig/ brgyud/ Перелік передач Лонгсал
     3.30 KiB @#/_/klong chen 'od gsal mkha' 'gro snying thig/ dga' rab rdo rje/ Молитва Гарабу Дордже
     2.81 KiB @#/_/klong chen 'od gsal mkha' 'gro snying thig/ dkar chag/ Перелік праць циклу Лонгсал Намкая Норбу
     8.43 KiB @#/_/klong chen 'od gsal mkha' 'gro snying thig/ e ka tsa Ti'i skong 'phrin ni/ Заклик Екаджаті
-    4.64 KiB @#/_/klong chen 'od gsal mkha' 'gro snying thig/ rdo rje'i glu/ Пісня Ваджри
+    5.95 KiB @#/_/klong chen 'od gsal mkha' 'gro snying thig/ rdo rje'i glu/ Пісня Ваджра
     1.25 KiB @#/_/klong chen 'od gsal mkha' 'gro snying thig/ skyabs sems ni/ Притулок Лонгсал
        305 B @#/_/klong chen 'od gsal mkha' 'gro snying thig/ sras mo go ma de byi/ Практика Довгого Життя Дакіні Гомадеві
        896 B @#/_/klong chen 'od gsal mkha' 'gro snying thig/ tshe sgrub rdo rje sogs thig gya/ Практика Довгого Життя Мандарави
@@ -111,6 +113,7 @@
     6.65 KiB @#/_/klong chen rab 'byams pa dri med 'od zer/ nges don byang chub snying po/ Остаточна Сутність Пробудження Лонгчена Рабджама
     4.76 KiB @#/_/klong chen rab 'byams pa dri med 'od zer/ rang grol skor gsum dkar chag/ Трилогія самозвільнення. Настанови по Семде
    75.86 KiB @#/_/klong chen rab 'byams pa dri med 'od zer/ rang grol skor gsum/ Про трилогію самозвільнення
+   51.52 KiB @#/_/klong chen rab 'byams pa dri med 'od zer/ rdzogs pa chen po chos nyid rang grol/ Природня свобода Дхармати
     3.26 KiB @#/_/klong chen rab 'byams pa dri med 'od zer/ rdzogs pa chen po ngal gso skor gsum dang rang grol skor gsum bcas pod gsum dkar chag/ Колекція Адзом Чогара Нгалсо Корсум і Рангдрол Корсум
     1.21 MiB @#/_/klong chen rab 'byams pa dri med 'od zer/ sems nyid ngal gso/ Відпочинок в природі мислення
   573.84 KiB @#/_/klong chen rab 'byams pa dri med 'od zer/ sems nyid rang grol/ Самозвільнене мислення
@@ -164,7 +167,10 @@
    34.38 KiB @#/_/klong gsal snying po/ dkar chag/ Збірка глибоких скарбів Ріґдзіна Клонґсала Нінґпо
    35.63 KiB @#/_/klong gsal snying po/ klong gsal rdo rje snying po rnam thar/ Біографія Лонгсала Дордже Ньїнгпо
    43.76 KiB @#/_/klong gsal snying po/ thun mong sngon 'gro'i khrid kyi ngag 'don/ Лонгсал Дордже Нінгпо Ньондро
+   12.11 KiB @#/_/klu sgrub/ byang chub sems kyi 'grel pa/ Нагарджуна. Тантра Сердечних Порад. Коментар на Бодгічіту
+        75 B @#/_/klu sgrub/ dkar chag/ Індекс творів Нагарджуни
     4.06 KiB @#/_/ma gcig kun dga' 'bum/ rnam thar/ Біографія Мачік Кунги Бум
+   21.43 KiB @#/_/mi 'gyur rdo rje/ rnam thar/ Біографія Тертона Мінгюр Дордже
     9.11 KiB @#/_/mkha' 'gro kun bzang/ rnam thar/ Кхандро Кунзанг Намтар
    11.36 KiB @#/_/mkha' 'gro snying thig/ 'od gsal/ Практика Ясного Світла
    13.75 KiB @#/_/mkha' 'gro snying thig/ (dpal brtsegs/ mes po'i shul bzhag) [col] Зібрання творів Лонгчен Рабджама (Палцег / Спадщина предків)
@@ -191,6 +197,7 @@
    22.37 KiB @#/_/nam mkha' 'jigs med/ rig 'dzin srog sgrub/ dkar chag/ Зміст циклу «Держатель мудрості садхана життя» Намка Джигме
     1.12 KiB @#/_/nam mkha'i nor bu/ dkar chag/ Перелік вчень Намкая Норбу (в правильній послідовності)
    14.57 KiB @#/_/nam mkha'i nor bu/ nam mkha'i nor bu'i gsung rtsom phyogs bsgrigs/ dkar chag/ Збірка праць Намкая Норбу
+   16.43 KiB @#/_/nam mkha'i nor bu/ rnam thar/ Намтар Намкая Норбу з книги "Кристал і шлях світла"
    16.98 KiB @#/_/nyi ma 'od zer/ dpal rdo rje phag mo khros ma nag mo'i gsang ba thugs kyi sgrub pa'i rgyun khyer snying por dril ba bde chen myur lam/ Гнівна Чорна
    49.92 KiB @#/_/nyi ma 'od.zer/ bka' brgyad bde bshegs 'dus pa'i chos skor dkar chag/ Цикл вчень про Союз Восьмеричного Благого
   115.63 KiB @#/_/nyi ma grags pa/ dkar chag/ Збірка праць Ньїма Дракпа
@@ -198,12 +205,16 @@
     8.09 KiB @#/_/nyi ma grags pa/ phag mo nag mo'i zab thig las: mkha' 'gro sgrub pa'i mtshan rtags/ З Глибокої Краплі Чорної Ваджрайогіні: Знаки Практики Дакині
    49.97 KiB @#/_/nyi ma grags pa/ rnam thar/ Автобіографія Ньїма Дракпа
    10.34 KiB @#/_/nyi ma grags pa/ thod rgal khrid yig/ Тогал Кхрід Їк
+   40.29 KiB @#/_/pad+ma 'byung gnas/ ma mo gsang ba las kyi thig le/ Практики активностей
+   36.22 KiB @#/_/pad+ma 'byung gnas/ man ngag lta ba'i phreng ba/ Гірлянда поглядів: таємні настанови
+   91.00 KiB @#/_/pad+ma 'byung gnas/ slob dpon rin po che pad+ma 'byung gnas kyis mdzad pa'i phyi chos mdo sngags thun mong gi lam rim rin chen spungs pa/ Груда коштовносетй
    90.14 KiB @#/_/pad+ma gling pa/ gter chos dkar chag/ 21-томна збірка одкровень Пема Лінгпи
    40.69 KiB @#/_/pad+ma gling pa/ gter skor dkar chag/ 7-томна збірка терма Пема Лінгпи
    36.46 KiB @#/_/rat+na gling pa/ gter chos dkar chag/ 19-томне зібрання творів Ранта Лінгпи
    32.38 KiB @#/_/rdza dpal sprul/ bden gnyis/ Настанова щодо погляду Махаяни: Роз’яснення двох істин.
    44.66 KiB @#/_/rdza dpal sprul/ dmigs rim bsdus pa/ Короткий посібник з етапів візуалізації для практики Ньондро
   655.15 KiB @#/_/rdza dpal sprul/ snying thig sngon 'gro'i khrid yig kun bzang bla ma'i zhal lung bzhugs/ Нінгтік Ньондро Крід Їк Кунзан Ламеї Шалунг
+   59.61 KiB @#/_/rdzogs pa chen po sems nyid rang grol gyi lam rim snying po'i don khrid/ Сутністі настанови по медитації для ступенів шляху відповідно до Відпочинку в природі мислення
    29.59 KiB @#/_/rig 'dzin rgod kyi ldem/ dgongs pa zang thal dkar chag/ Проникнення наміру Кунтузангпо
    27.89 KiB @#/_/rig 'dzin rgod kyi ldem/ dkar chag/ Каталог читальних частин з циклу північних терма старих перекладів
    34.20 KiB @#/_/rig 'dzin rgod kyi ldem/ kun tu bzang po'i dgongs pa zang thal gyi rgyud chen/ Рігдзін Годем Нгодруб Г'ялцен (1337–1408): Устремління Самантабхадри
@@ -247,11 +258,13 @@
     4.95 KiB @#/_/se ra mkha' 'gro kun bzang/ rdo rje phag mo'i nang sgrub zab mo rgyun khyer gsang ba'i rgya can shin tu zab pa/ Синя
    11.56 KiB @#/_/se ra mkha' 'gro kun bzang/ rdo rje phag mo'i rtsa sgrub bsdus pa rgyun khyer 'od gsal snying po/ Червона
    34.61 KiB @#/_/se ra mkha' 'gro kun bzang/ rdo rje phag mo'i sgrub thabs rdo rje'i rgya can shin tu zab pa/ Червона 60
+   50.60 KiB @#/_/sgyu 'phrul drwa ba/ sgyu 'phrul drwa ba'i lam rnam par bshad pa chung ngu/ Детальні пояснення Буддагух'я
    14.57 KiB @#/_/shAkya shrI/ dkar chag/ Зібрання творів Тогдена Шак'я Шрі
   254.05 KiB @#/_/shAkya shrI/ rnam thar/ Сіту Рінпоче. Історія звільнення Вищого Ваджра Утримувача, Преподобного Майстра Шак'я Шрі Джняна
    32.37 KiB @#/_/shri sing ha/ sher snying 'grel pa sngags su 'grel pa bzhugs/ Шрі Сінга: Розкриття значення Мантри в Сутрі Серця
+        67 B @#/_/thogs med/ dkar chag/ Індекс творів Асанги
     1.03 KiB @#/_/tsong kha pa blo bzang grags pa/ dmigs brtse ma/ Мігцема: Молитва Же Цонкапі Лобсангу Дракпі
 
-Загальний розмір вмісту творів з українськими заголовками: 17.43 MiB
-Кількість унікальних творів: 253
-Оброблено файлів: 389
+Загальний розмір вмісту творів з українськими заголовками: 18.10 MiB
+Кількість унікальних творів: 266
+Оброблено файлів: 402
